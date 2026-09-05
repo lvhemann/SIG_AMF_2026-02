@@ -32,18 +32,6 @@ já sabe padronizar categorias, e a 6 assume que você já sabe tratar uma tabel
 Todas pedem a mesma entrega: notebook com diagnóstico, tratamento comentado, as três
 respostas, **uma regra documentada** e cinco linhas de leitura gerencial.
 
-## O que se avalia
-
-| Critério | Peso |
-|---|---:|
-| Diagnóstico — mediu o problema antes de mexer nele | 15% |
-| Tratamento — pipeline correto, na ordem certa, sem destruir dado bom | 30% |
-| Documentação das decisões — cada regra tem um *porquê* escrito | 20% |
-| Respostas — números corretos, com o recorte declarado | 20% |
-| Leitura gerencial — vira recomendação, não descrição de código | 15% |
-
-**Regra da disciplina:** um número sem a regra que o produziu não é um indicador.
-
 ---
 
 *Bases de dados fictícias, geradas para uso didático. Nomes de pessoas, empresas e
