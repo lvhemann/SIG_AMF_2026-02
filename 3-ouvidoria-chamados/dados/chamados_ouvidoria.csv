@@ -1,0 +1,501 @@
+protocolo,bairro,categoria,canal,data_abertura,data_fechamento,status,nota_satisfacao
+2026001,Camobi,Água e esgoto,WhatsApp,2026-04-04,2026-04-19,Concluído,3
+2026002,Nossa Senhora de Lourdes,Água e esgoto,Telefone 156,2026-03-08,2026-03-14,Concluído,5
+2026003,Nossa Senhora de Lourdes,Animais na via,WhatsApp,2026-07-10,2026-07-17,Concluído,6
+2026004,Juscelino Kubitschek,Buraco na via,Presencial,2026-06-27,,Em aberto,
+2026005,Centro,COLETA DE LIXO,Telefone 156,2026-02-18,2026-02-19,Concluído,5
+2026006,Patronato,Poda de árvore,Presencial,2026-05-27,2026-06-20,Concluído,3
+2026007,Juscelino Kubitschek,Buraco na via,Telefone 156,2026-04-05,,Em aberto,
+2026008,Camobi,Buraco na via,Portal,2026-07-19,2026-06-11,Concluído,3
+2026009,Centro,PODA DE ARVORE,Portal,2026-08-03,,Em aberto,
+2026010,Juscelino Kubitschek,Buraco na via,WhatsApp,2026-04-22,2026-04-28,Concluído,5
+2026011,Centro,Iluminação pública,WhatsApp,2026-07-27,2026-08-01,Concluído,6
+2026012,Nossa Senhora de Lourdes,Coleta de lixo,Portal,2026-05-13,2026-05-18,Concluído,0
+2026013,Patronato,Animais na via,WhatsApp,2026-03-22,2026-03-29,Concluído,5
+2026014,Patronato,Animais na via,WhatsApp,2026-08-10,2026-08-14,Concluído,5
+2026015,Passo d'Areia,Coleta de lixo,Portal,2026-08-17,2026-08-21,Concluído,2
+2026016,Camobi,Água e esgoto,Telefone 156,2026-04-16,2026-04-18,Concluído,5
+2026017,Tancredo Neves,ILUMINACAO PUBLICA,WhatsApp,2026-04-29,2026-05-08,Concluído,5
+2026018,Juscelino Kubitschek,AGUA E ESGOTO,Telefone 156,2026-02-18,,Em aberto,
+2026019,Tancredo Neves,AGUA E ESGOTO,Presencial,2026-02-25,2026-03-07,Concluído,1
+2026020,Passo d'Areia,Água e esgoto,WhatsApp,2026-07-28,2026-08-08,Concluído,4
+2026021,Tancredo Neves,Poda,WhatsApp,2026-03-25,,Em aberto,
+2026022,Camobi,AGUA E ESGOTO,Telefone 156,2026-04-14,2026-04-28,Concluído,4
+2026023,Passo d'Areia,Buraco na via,Portal,2026-08-08,2026-07-18,Concluído,5
+2026024,Juscelino Kubitschek,ANIMAIS NA VIA,WhatsApp,2026-02-15,2026-02-22,Concluído,2
+2026025,Nossa Senhora de Lourdes,Poda,Telefone 156,2026-04-18,,Em aberto,
+2026026,Camobi,Iluminação pública,Telefone 156,2026-01-29,2026-02-08,Concluído,3
+2026027,Camobi,ILUMINACAO PUBLICA,Portal,2026-02-11,2026-02-11,Concluído,2
+2026028,Patronato,Iluminação pública,Telefone 156,2026-02-11,2026-02-16,Concluído,4
+2026029,Passo d'Areia,COLETA DE LIXO,Presencial,2026-08-04,2026-08-04,Concluído,5
+2026030,Camobi,Poda de árvore,WhatsApp,2026-04-06,2026-04-25,Concluído,5
+2026031,Patronato,COLETA DE LIXO,Telefone 156,2026-05-31,2026-06-01,Concluído,2
+2026032,Juscelino Kubitschek,Buraco na via,Telefone 156,2026-02-08,2026-02-22,Concluído,1
+2026033,Camobi,Água e esgoto,WhatsApp,2026-01-21,2026-01-21,Concluído,10
+2026034,Nossa Senhora de Lourdes,COLETA DE LIXO,Presencial,2026-05-20,2026-05-23,Concluído,3
+2026035,Tancredo Neves,PODA DE ARVORE,Portal,2026-04-12,2026-04-26,Concluído,1
+2026036,Nossa Senhora de Lourdes,Buraco na via,Telefone 156,2026-08-21,,Em aberto,
+2026037,Patronato,Buraco na via,WhatsApp,2026-03-07,2026-03-16,Concluído,2
+2026038,Centro,Água e esgoto ,WhatsApp,2026-06-25,2026-06-29,Concluído,1
+2026039,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-04-27,,Em aberto,
+2026040,Centro,Iluminação pública,Presencial,2026-08-10,,Em aberto,
+2026041,Nossa Senhora de Lourdes,Poda,Telefone 156,2026-04-08,2026-04-26,Concluído,4
+2026042,Patronato,Coleta de lixo,Telefone 156,2026-06-25,2026-07-01,Concluído,1
+2026043,Nossa Senhora de Lourdes,BURACO NA VIA,Telefone 156,2026-01-26,2026-02-06,Concluído,4
+2026044,Patronato,Iluminação pública,Telefone 156,2026-08-04,2026-08-14,Concluído,4
+2026045,Patronato,Coleta de lixo,WhatsApp,2026-03-10,2026-03-18,Concluído,2
+2026046,Camobi,AGUA E ESGOTO,WhatsApp,2026-03-08,2026-03-04,Concluído,3
+2026047,Camobi,Animais na via,Telefone 156,2026-02-13,2026-02-21,Concluído,5
+2026048,Tancredo Neves,Iluminação pública,Presencial,2026-07-25,2026-07-30,Concluído,-1
+2026049,Tancredo Neves,COLETA DE LIXO,Portal,2026-04-30,,Em aberto,
+2026050,Juscelino Kubitschek,Poda de árvore,WhatsApp,2026-06-07,2026-07-10,Concluído,1
+2026051,Nossa Senhora de Lourdes,Iluminação pública ,Portal,2026-07-25,2026-07-30,Concluído,5
+2026052,Camobi,ILUMINACAO PUBLICA,Telefone 156,2026-03-03,2026-03-06,Concluído,4
+2026053,Camobi,Buraco na via,Telefone 156,2026-03-18,2026-02-28,Concluído,5
+2026054,Juscelino Kubitschek,COLETA DE LIXO,Presencial,2026-01-29,2026-02-05,Concluído,4
+2026055,Camobi,Coleta de lixo,Telefone 156,2026-07-11,2026-07-17,Concluído,3
+2026056,Centro,Água e esgoto,Presencial,2026-07-16,2026-07-01,Concluído,5
+2026057,Nossa Senhora de Lourdes,Poda,Telefone 156,2026-01-13,2026-02-15,Concluído,2
+2026058,Camobi,Coleta de lixo,Presencial,2026-07-18,2026-07-25,Concluído,4
+2026059,Tancredo Neves,PODA DE ARVORE,Telefone 156,2026-08-12,2026-08-29,Concluído,5
+2026060,Camobi,Buraco na via,Telefone 156,2026-05-04,2026-05-28,Concluído,5
+2026061,Centro,Água e esgoto,Presencial,2026-04-20,2026-04-30,Concluído,1
+2026062,Nossa Senhora de Lourdes,Buraco na via,Telefone 156,2026-05-22,2026-06-09,Concluído,5
+2026063,Tancredo Neves,BURACO NA VIA,Portal,2026-06-02,2026-06-14,Concluído,1
+2026064,Passo d'Areia,Coleta de lixo,Telefone 156,2026-04-13,2026-04-21,Concluído,1
+2026065,Camobi,BURACO NA VIA,WhatsApp,2026-07-22,2026-07-06,Concluído,1
+2026066,Tancredo Neves,Iluminação pública,Portal,2026-06-01,2026-06-06,Concluído,5
+2026067,Juscelino Kubitschek,Poda,Telefone 156,2026-08-08,,Em aberto,
+2026068,Centro,COLETA DE LIXO,Presencial,2026-08-06,2026-08-09,Concluído,5
+2026069,Juscelino Kubitschek,Água e esgoto,Telefone 156,2026-02-12,2026-02-20,Concluído,4
+2026070,Centro,Coleta de lixo,Portal,2026-05-31,,Em aberto,
+2026071,Nossa Senhora de Lourdes,Buraco na via,Portal,2026-06-25,2026-07-06,Concluído,4
+2026072,Passo d'Areia,Coleta de lixo,Portal,2026-07-13,,Em aberto,
+2026073,Centro,Coleta de lixo ,Presencial,2026-04-22,2026-04-22,Concluído,2
+2026074,Nossa Senhora de Lourdes,BURACO NA VIA,WhatsApp,2026-02-28,2026-03-07,Concluído,4
+2026075,Camobi,Iluminação pública,Portal,2026-03-25,2026-04-02,Concluído,3
+2026076,Nossa Senhora de Lourdes,Poda de árvore,Telefone 156,2026-06-04,,Em aberto,
+2026077,Centro,Animais na via,Presencial,2026-04-07,2026-04-16,Concluído,1
+2026078,Centro,Poda de árvore,Portal,2026-07-15,2026-08-01,Concluído,0
+2026079,Nossa Senhora de Lourdes,Água e esgoto,WhatsApp,2026-02-19,2026-02-20,Concluído,3
+2026080,Camobi,Iluminação pública,Presencial,2026-04-07,2026-04-12,Concluído,5
+2026081,Passo d'Areia,Poda de árvore,Portal,2026-08-13,2026-08-24,Concluído,10
+2026082,Nossa Senhora de Lourdes,PODA DE ARVORE,Portal,2026-08-04,2026-08-04,Concluído,4
+2026083,Centro,Buraco na via,WhatsApp,2026-02-15,2026-02-26,Concluído,1
+2026084,Juscelino Kubitschek,Iluminação pública,WhatsApp,2026-02-01,2026-02-09,Concluído,3
+2026085,Patronato,Buraco na via,Portal,2026-04-10,2026-04-30,Concluído,3
+2026086,Juscelino Kubitschek,Coleta de lixo,Presencial,2026-03-18,,Em aberto,
+2026087,Nossa Senhora de Lourdes,Poda de árvore,Telefone 156,2026-01-29,2026-03-03,Concluído,3
+2026088,Centro,COLETA DE LIXO,Portal,2026-06-30,2026-07-04,Concluído,3
+2026089,Camobi,Buraco na via,WhatsApp,2026-06-27,2026-07-08,Concluído,5
+2026090,Patronato,ANIMAIS NA VIA,WhatsApp,2026-03-06,2026-03-20,Concluído,4
+2026091,Nossa Senhora de Lourdes,Poda,Telefone 156,2026-01-21,2026-02-24,Concluído,2
+2026092,Camobi,PODA DE ARVORE,WhatsApp,2026-01-14,2026-02-05,Concluído,3
+2026093,Centro,AGUA E ESGOTO,Telefone 156,2026-02-05,2026-01-15,Concluído,2
+2026094,Camobi,Poda,Presencial,2026-08-21,2026-08-21,Concluído,1
+2026095,Centro,Animais na via,Portal,2026-04-09,2026-04-07,Concluído,3
+2026096,Camobi,Buraco na via,Telefone 156,2026-04-13,,Em aberto,
+2026097,Camobi,Animais na via,WhatsApp,2026-06-11,,Em aberto,
+2026098,Centro,ILUMINACAO PUBLICA,Portal,2026-06-04,2026-06-14,Concluído,3
+2026099,Camobi,Iluminação pública,Portal,2026-01-08,2026-01-12,Concluído,6
+2026100,Centro,Poda de árvore,Telefone 156,2026-03-09,2026-02-04,Concluído,1
+2026101,Camobi,BURACO NA VIA,WhatsApp,2026-08-06,2026-08-28,Concluído,3
+2026102,Patronato,Iluminação pública,Telefone 156,2026-05-11,2026-05-17,Concluído,1
+2026103,Centro,Iluminação pública,Telefone 156,2026-04-21,2026-04-28,Concluído,5
+2026104,Passo d'Areia,Animais na via,WhatsApp,2026-02-04,2026-02-07,Concluído,4
+2026105,Centro,AGUA E ESGOTO,Presencial,2026-07-13,2026-07-25,Concluído,4
+2026106,Camobi,Animais na via,Telefone 156,2026-04-20,2026-04-30,Concluído,4
+2026107,Centro,PODA DE ARVORE,WhatsApp,2026-03-12,2026-04-03,Concluído,1
+2026108,Tancredo Neves,Água e esgoto,Telefone 156,2026-08-20,,Em aberto,
+2026109,Centro,Buraco na via,WhatsApp,2026-06-30,,Em aberto,
+2026110,Nossa Senhora de Lourdes,Poda de árvore,Portal,2026-07-31,2026-08-22,Concluído,2
+2026111,Centro,Coleta de lixo,Presencial,2026-05-21,,Em aberto,
+2026112,Nossa Senhora de Lourdes,BURACO NA VIA,Portal,2026-06-15,2026-05-30,Concluído,3
+2026113,Patronato,PODA DE ARVORE,Telefone 156,2026-01-20,2026-02-25,Concluído,4
+2026114,Centro,Iluminação pública,Presencial,2026-02-26,2026-02-27,Concluído,3
+2026115,Centro,Iluminação pública,Portal,2026-02-23,,Em aberto,
+2026116,Juscelino Kubitschek,Iluminação pública,Telefone 156,2026-04-25,2026-05-03,Concluído,1
+2026117,Camobi,Buraco na via,Portal,2026-01-26,,Em aberto,
+2026118,Centro,Iluminação pública,Portal,2026-01-22,2026-01-26,Concluído,4
+2026119,Camobi,Água e esgoto,Telefone 156,2026-05-26,,Em aberto,
+2026120,Juscelino Kubitschek,Coleta de lixo,Portal,2026-01-10,2026-01-16,Concluído,2
+2026121,Passo d'Areia,Poda,Presencial,2026-01-11,2026-02-07,Concluído,1
+2026122,Nossa Senhora de Lourdes,COLETA DE LIXO,Telefone 156,2026-03-28,2026-04-01,Concluído,5
+2026123,Camobi,BURACO NA VIA,WhatsApp,2026-04-02,2026-04-18,Concluído,1
+2026124,Centro,ILUMINACAO PUBLICA,WhatsApp,2026-04-23,2026-04-28,Concluído,4
+2026125,Juscelino Kubitschek,PODA DE ARVORE,Telefone 156,2026-07-25,2026-08-21,Concluído,5
+2026126,Patronato,PODA DE ARVORE,Telefone 156,2026-05-07,,Em aberto,
+2026127,Centro,Coleta de lixo,WhatsApp,2026-05-23,2026-05-27,Concluído,1
+2026128,Nossa Senhora de Lourdes,ILUMINACAO PUBLICA,Presencial,2026-07-19,2026-07-20,Concluído,2
+2026129,Tancredo Neves,ILUMINACAO PUBLICA,Portal,2026-02-13,,Em aberto,
+2026130,Tancredo Neves,ANIMAIS NA VIA,Portal,2026-03-15,2026-03-24,Concluído,5
+2026131,Centro,Buraco na via,Portal,2026-03-07,2026-03-20,Concluído,5
+2026132,Tancredo Neves,Buraco na via,Presencial,2026-07-14,2026-06-09,Concluído,3
+2026133,Passo d'Areia,Iluminação pública,Presencial,2026-07-23,2026-08-06,Concluído,3
+2026134,Nossa Senhora de Lourdes,Poda,WhatsApp,2026-04-16,2026-05-12,Concluído,5
+2026135,Passo d'Areia,Iluminação pública,Presencial,2026-07-15,2026-07-18,Concluído,1
+2026136,Juscelino Kubitschek,ILUMINACAO PUBLICA,Portal,2026-02-13,2026-02-20,Concluído,2
+2026137,Camobi,Iluminação pública,Portal,2026-07-14,2026-07-17,Concluído,5
+2026138,Passo d'Areia,BURACO NA VIA,Telefone 156,2026-08-01,,Em aberto,
+2026139,Nossa Senhora de Lourdes,Buraco na via,Portal,2026-07-05,2026-07-29,Concluído,2
+2026140,Nossa Senhora de Lourdes,AGUA E ESGOTO,Telefone 156,2026-06-20,2026-06-29,Concluído,1
+2026141,Centro,ILUMINACAO PUBLICA,WhatsApp,2026-02-16,2026-02-17,Concluído,1
+2026142,Centro,Animais na via,Telefone 156,2026-05-23,2026-05-24,Concluído,1
+2026143,Patronato,Buraco na via,Presencial,2026-01-07,2026-01-15,Concluído,5
+2026144,Patronato,Buraco na via ,Presencial,2026-03-01,2026-03-07,Concluído,4
+2026145,Passo d'Areia,Água e esgoto,Telefone 156,2026-05-16,2026-05-21,Concluído,2
+2026146,Patronato,BURACO NA VIA,Telefone 156,2026-07-04,2026-07-07,Concluído,4
+2026147,Patronato,Iluminação pública,Portal,2026-07-31,2026-08-07,Concluído,3
+2026148,Camobi,Água e esgoto ,WhatsApp,2026-04-25,2026-04-25,Concluído,2
+2026149,Camobi,Iluminação pública,Telefone 156,2026-02-08,2026-02-10,Concluído,3
+2026150,Centro,Água e esgoto,Portal,2026-01-24,2026-01-29,Concluído,2
+2026151,Patronato,Água e esgoto,Presencial,2026-01-23,,Em aberto,
+2026152,Patronato,Buraco na via,Telefone 156,2026-05-25,2026-06-13,Concluído,2
+2026153,Passo d'Areia,Buraco na via,Telefone 156,2026-02-10,2026-02-19,Concluído,3
+2026154,Camobi,Buraco na via,WhatsApp,2026-03-11,2026-04-03,Concluído,1
+2026155,Juscelino Kubitschek,Iluminação pública,Portal,2026-08-07,2026-07-25,Concluído,1
+2026156,Passo d'Areia,ANIMAIS NA VIA ,WhatsApp,2026-01-16,2026-01-25,Concluído,5
+2026157,Nossa Senhora de Lourdes,ILUMINACAO PUBLICA,WhatsApp,2026-04-07,,Em aberto,
+2026158,Centro,Buraco na via,Telefone 156,2026-07-19,2026-07-27,Concluído,1
+2026159,Centro,Buraco na via,Presencial,2026-01-16,2026-01-28,Concluído,1
+2026160,Camobi,Iluminação pública,Telefone 156,2026-06-20,2026-06-30,Concluído,5
+2026161,Juscelino Kubitschek,Iluminação pública ,Portal,2026-04-20,2026-04-23,Concluído,1
+2026162,Camobi,Coleta de lixo,Telefone 156,2026-06-20,2026-06-23,Concluído,1
+2026163,Tancredo Neves,Iluminação pública,Presencial,2026-04-10,2026-04-10,Concluído,5
+2026164,Patronato,Coleta de lixo,WhatsApp,2026-02-08,2026-02-12,Concluído,3
+2026165,Camobi,COLETA DE LIXO,Presencial,2026-07-18,,Em aberto,
+2026166,Camobi,ANIMAIS NA VIA,Telefone 156,2026-01-11,2026-01-21,Concluído,4
+2026167,Patronato,Iluminação pública,Portal,2026-06-24,2026-07-01,Concluído,5
+2026168,Patronato,COLETA DE LIXO,Presencial,2026-05-27,2026-05-29,Concluído,1
+2026169,Tancredo Neves,Iluminação pública,Portal,2026-06-09,2026-06-12,Concluído,3
+2026170,Nossa Senhora de Lourdes,Água e esgoto,Telefone 156,2026-08-21,2026-08-28,Concluído,2
+2026171,Passo d'Areia,Coleta de lixo,Telefone 156,2026-02-08,2026-02-10,Concluído,4
+2026172,Nossa Senhora de Lourdes,Buraco na via,Telefone 156,2026-05-23,,Em aberto,
+2026173,Patronato,Coleta de lixo,Telefone 156,2026-03-27,,Em aberto,
+2026174,Nossa Senhora de Lourdes,Coleta de lixo,Telefone 156,2026-02-10,2026-02-15,Concluído,5
+2026175,Passo d'Areia,Poda,Telefone 156,2026-02-05,2026-02-05,Concluído,2
+2026176,Nossa Senhora de Lourdes,AGUA E ESGOTO,WhatsApp,2026-03-27,2026-03-29,Concluído,2
+2026177,Nossa Senhora de Lourdes,AGUA E ESGOTO,Portal,2026-02-11,2026-02-14,Concluído,2
+2026178,Passo d'Areia,ILUMINACAO PUBLICA,Presencial,2026-06-08,2026-06-13,Concluído,4
+2026179,Camobi,COLETA DE LIXO,Portal,2026-07-09,2026-07-13,Concluído,5
+2026180,Centro,Buraco na via,Telefone 156,2026-05-18,2026-05-18,Concluído,3
+2026181,Passo d'Areia,AGUA E ESGOTO,Presencial,2026-06-14,2026-06-15,Concluído,3
+2026182,Tancredo Neves,BURACO NA VIA,WhatsApp,2026-02-27,,Em aberto,
+2026183,Camobi,Coleta de lixo,Telefone 156,2026-07-26,2026-07-26,Concluído,3
+2026184,Camobi,Animais na via,Telefone 156,2026-06-10,2026-06-15,Concluído,1
+2026185,Passo d'Areia,PODA DE ARVORE,Portal,2026-03-16,2026-04-06,Concluído,4
+2026186,Camobi,Iluminação pública,Portal,2026-06-06,,Em aberto,
+2026187,Centro,Iluminação pública,Telefone 156,2026-02-23,2026-03-01,Concluído,1
+2026188,Tancredo Neves,COLETA DE LIXO,WhatsApp,2026-01-27,2026-01-28,Concluído,2
+2026189,Camobi,Água e esgoto,WhatsApp,2026-05-14,2026-05-24,Concluído,5
+2026190,Patronato,Iluminação pública,WhatsApp,2026-08-07,2026-08-15,Concluído,5
+2026191,Tancredo Neves,Buraco na via,Telefone 156,2026-07-17,,Em aberto,
+2026192,Camobi,PODA DE ARVORE,Telefone 156,2026-03-14,2026-03-18,Concluído,2
+2026193,Patronato,PODA DE ARVORE,Portal,2026-06-09,,Em aberto,
+2026194,Juscelino Kubitschek,BURACO NA VIA,Presencial,2026-01-11,2026-01-23,Concluído,5
+2026195,Patronato,Iluminação pública,WhatsApp,2026-06-18,2026-06-30,Concluído,1
+2026196,Camobi,AGUA E ESGOTO,Portal,2026-05-26,2026-05-26,Concluído,3
+2026197,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-04-26,2026-05-01,Concluído,5
+2026198,Camobi,Iluminação pública,WhatsApp,2026-02-18,2026-02-21,Concluído,3
+2026199,Tancredo Neves,AGUA E ESGOTO,WhatsApp,2026-07-30,2026-08-08,Concluído,4
+2026200,Nossa Senhora de Lourdes,Iluminação pública,WhatsApp,2026-01-05,2026-01-12,Concluído,5
+2026201,Patronato,Coleta de lixo,Presencial,2026-02-05,2026-02-12,Concluído,5
+2026202,Juscelino Kubitschek,Água e esgoto,Presencial,2026-08-10,2026-08-20,Concluído,4
+2026203,Centro,PODA DE ARVORE,Telefone 156,2026-06-06,2026-06-28,Concluído,2
+2026204,Juscelino Kubitschek,Iluminação pública,Portal,2026-03-29,,Em aberto,
+2026205,Tancredo Neves,Poda de árvore,Telefone 156,2026-03-11,,Em aberto,
+2026206,Nossa Senhora de Lourdes,Coleta de lixo,WhatsApp,2026-05-17,2026-05-23,Concluído,2
+2026207,Nossa Senhora de Lourdes,Poda de árvore,Portal,2026-07-28,,Em aberto,
+2026208,Centro,Poda,Portal,2026-01-09,,Em aberto,
+2026209,Centro,Buraco na via ,Telefone 156,2026-06-19,2026-07-16,Concluído,5
+2026210,Juscelino Kubitschek,Poda,Presencial,2026-04-14,,Em aberto,
+2026211,Camobi,Iluminação pública,Presencial,2026-03-03,,Em aberto,
+2026212,Nossa Senhora de Lourdes,Iluminação pública,WhatsApp,2026-04-19,2026-04-24,Concluído,2
+2026213,Patronato,Poda de árvore,Portal,2026-04-25,2026-04-19,Concluído,5
+2026214,Patronato,ILUMINACAO PUBLICA,WhatsApp,2026-08-09,2026-08-15,Concluído,2
+2026215,Nossa Senhora de Lourdes,Iluminação pública,Presencial,2026-03-14,,Em aberto,
+2026216,Passo d'Areia,Água e esgoto,Presencial,2026-02-26,2026-03-05,Concluído,3
+2026217,Centro,Buraco na via,Telefone 156,2026-01-22,2026-01-29,Concluído,2
+2026218,Tancredo Neves,Poda,Telefone 156,2026-04-04,2026-05-03,Concluído,4
+2026219,Centro,Iluminação pública,WhatsApp,2026-07-16,2026-07-22,Concluído,3
+2026220,Juscelino Kubitschek,Animais na via,WhatsApp,2026-06-05,2026-06-12,Concluído,5
+2026221,Tancredo Neves,Coleta de lixo,Presencial,2026-07-15,2026-07-20,Concluído,3
+2026222,Centro,Iluminação pública,Portal,2026-01-20,2026-01-23,Concluído,2
+2026223,Patronato,Poda,Telefone 156,2026-06-05,2026-07-06,Concluído,4
+2026224,Camobi,Água e esgoto,Presencial,2026-08-04,2026-08-16,Concluído,5
+2026225,Passo d'Areia,Coleta de lixo,Portal,2026-04-25,2026-04-28,Concluído,3
+2026226,Camobi,Poda de árvore,Portal,2026-01-28,2026-03-06,Concluído,4
+2026227,Tancredo Neves,Água e esgoto,Portal,2026-07-19,2026-07-29,Concluído,2
+2026228,Nossa Senhora de Lourdes,Animais na via,Telefone 156,2026-01-14,,Em aberto,
+2026229,Patronato,Buraco na via,WhatsApp,2026-07-01,2026-07-17,Concluído,3
+2026230,Nossa Senhora de Lourdes,Poda de árvore,Telefone 156,2026-03-21,2026-04-03,Concluído,4
+2026231,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-03-03,,Em aberto,
+2026232,Tancredo Neves,Poda de árvore,Telefone 156,2026-05-23,2026-07-15,Concluído,5
+2026233,Centro,AGUA E ESGOTO,Telefone 156,2026-02-24,,Em aberto,
+2026234,Centro,Coleta de lixo,Presencial,2026-01-23,2026-01-24,Concluído,5
+2026235,Camobi,BURACO NA VIA,Portal,2026-04-02,2026-04-12,Concluído,4
+2026236,Camobi,Iluminação pública,Telefone 156,2026-05-12,2026-05-15,Concluído,4
+2026237,Centro,Buraco na via,Portal,2026-02-02,2026-02-02,Concluído,4
+2026238,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-05-23,2026-05-30,Concluído,5
+2026239,Patronato,Coleta de lixo,Telefone 156,2026-02-06,,Em aberto,
+2026240,Centro,Buraco na via,Portal,2026-04-15,2026-04-28,Concluído,1
+2026241,Centro,Animais na via,Portal,2026-02-05,2026-02-15,Concluído,2
+2026242,Centro,Buraco na via,Portal,2026-07-17,2026-07-31,Concluído,4
+2026243,Centro,BURACO NA VIA,Telefone 156,2026-06-26,2026-07-02,Concluído,1
+2026244,Patronato,Animais na via,Telefone 156,2026-04-05,2026-04-09,Concluído,2
+2026245,Nossa Senhora de Lourdes,Animais na via,Portal,2026-01-19,,Em aberto,
+2026246,Nossa Senhora de Lourdes,Buraco na via ,Telefone 156,2026-01-26,,Em aberto,
+2026247,Nossa Senhora de Lourdes,Coleta de lixo,Telefone 156,2026-02-07,2026-02-09,Concluído,1
+2026248,Centro,Animais na via,Presencial,2026-06-25,,Em aberto,
+2026249,Nossa Senhora de Lourdes,Coleta de lixo,Telefone 156,2026-05-02,2026-05-08,Concluído,2
+2026250,Patronato,Coleta de lixo,Telefone 156,2026-01-29,2026-01-06,Concluído,2
+2026251,Tancredo Neves,ILUMINACAO PUBLICA,Telefone 156,2026-02-13,2026-02-17,Concluído,3
+2026252,Patronato,Iluminação pública,Portal,2026-03-22,2026-04-02,Concluído,1
+2026253,Camobi,Poda de árvore,Presencial,2026-03-06,,Em aberto,
+2026254,Tancredo Neves,Coleta de lixo,Presencial,2026-05-30,2026-06-03,Concluído,3
+2026255,Patronato,Buraco na via,Telefone 156,2026-05-08,2026-05-08,Concluído,2
+2026256,Juscelino Kubitschek,Iluminação pública,Telefone 156,2026-05-16,2026-05-20,Concluído,3
+2026257,Camobi,Buraco na via,Portal,2026-03-10,2026-04-07,Concluído,1
+2026258,Camobi,Iluminação pública,Telefone 156,2026-05-22,2026-06-04,Concluído,3
+2026259,Centro,ANIMAIS NA VIA,Telefone 156,2026-04-19,2026-04-20,Concluído,4
+2026260,Centro,Iluminação pública,Portal,2026-07-10,2026-07-12,Concluído,1
+2026261,Centro,Iluminação pública,Presencial,2026-07-03,2026-07-03,Concluído,1
+2026262,Nossa Senhora de Lourdes,BURACO NA VIA,Presencial,2026-03-25,,Em aberto,
+2026263,Camobi,ILUMINACAO PUBLICA,Telefone 156,2026-07-09,,Em aberto,
+2026264,Patronato,Água e esgoto,WhatsApp,2026-08-13,2026-08-22,Concluído,2
+2026265,Centro,Água e esgoto,Portal,2026-04-15,2026-04-21,Concluído,3
+2026266,Camobi,Buraco na via,WhatsApp,2026-01-07,2026-01-12,Concluído,3
+2026267,Camobi,Iluminação pública,WhatsApp,2026-07-07,,Em aberto,
+2026268,Patronato,Poda de árvore,Telefone 156,2026-08-16,,Em aberto,
+2026269,Juscelino Kubitschek,Poda de árvore,WhatsApp,2026-06-23,2026-06-30,Concluído,2
+2026270,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-06-30,2026-06-30,Concluído,3
+2026271,Patronato,Buraco na via,Presencial,2026-03-19,2026-03-19,Concluído,4
+2026272,Centro,ILUMINACAO PUBLICA,Telefone 156,2026-07-22,2026-07-26,Concluído,4
+2026273,Camobi,Água e esgoto,Portal,2026-08-07,,Em aberto,
+2026274,Centro,Buraco na via,Presencial,2026-08-03,2026-08-08,Concluído,3
+2026275,Nossa Senhora de Lourdes,COLETA DE LIXO,Portal,2026-05-31,,Em aberto,
+2026276,Camobi,Coleta de lixo,Telefone 156,2026-02-11,2026-02-14,Concluído,2
+2026277,Patronato,Água e esgoto,Telefone 156,2026-03-31,2026-04-15,Concluído,4
+2026278,Camobi,ILUMINACAO PUBLICA,Presencial,2026-05-08,2026-05-09,Concluído,2
+2026279,Tancredo Neves,Buraco na via,Telefone 156,2026-01-22,,Em aberto,
+2026280,Centro,PODA DE ARVORE,Telefone 156,2026-07-31,2026-08-13,Concluído,4
+2026281,Juscelino Kubitschek,Buraco na via,Telefone 156,2026-07-11,2026-07-23,Concluído,3
+2026282,Patronato,Buraco na via,WhatsApp,2026-02-07,2026-02-15,Concluído,3
+2026283,Centro,Animais na via,Telefone 156,2026-01-05,,Em aberto,
+2026284,Patronato,AGUA E ESGOTO,WhatsApp,2026-05-26,2026-06-10,Concluído,4
+2026285,Centro,Água e esgoto,Presencial,2026-07-22,2026-07-26,Concluído,0
+2026286,Passo d'Areia,Poda de árvore,Portal,2026-06-27,,Em aberto,
+2026287,Centro,Animais na via,Portal,2026-03-15,2026-03-25,Concluído,1
+2026288,Nossa Senhora de Lourdes,Coleta de lixo,WhatsApp,2026-02-04,2026-02-07,Concluído,4
+2026289,Camobi,Animais na via,Presencial,2026-07-30,,Em aberto,
+2026290,Patronato,Água e esgoto,WhatsApp,2026-04-28,2026-05-15,Concluído,3
+2026291,Nossa Senhora de Lourdes,Buraco na via,Telefone 156,2026-01-30,2026-02-22,Concluído,5
+2026292,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-03-20,,Em aberto,
+2026293,Nossa Senhora de Lourdes,BURACO NA VIA,Portal,2026-01-30,2026-02-25,Concluído,5
+2026294,Nossa Senhora de Lourdes,COLETA DE LIXO,Portal,2026-01-09,,Em aberto,
+2026295,Camobi,Iluminação pública,Telefone 156,2026-06-28,2026-07-05,Concluído,1
+2026296,Patronato,Coleta de lixo,Portal,2026-07-25,2026-07-30,Concluído,5
+2026297,Tancredo Neves,AGUA E ESGOTO,Portal,2026-05-14,2026-05-25,Concluído,2
+2026298,Juscelino Kubitschek,ILUMINACAO PUBLICA,Presencial,2026-02-19,2026-02-26,Concluído,3
+2026299,Centro,Buraco na via,Telefone 156,2026-05-30,2026-06-21,Concluído,1
+2026300,Camobi,Iluminação pública,Telefone 156,2026-01-08,2026-01-19,Concluído,5
+2026301,Nossa Senhora de Lourdes,Buraco na via,Telefone 156,2026-06-11,2026-06-21,Concluído,2
+2026302,Tancredo Neves,Buraco na via,Portal,2026-05-15,,Em aberto,
+2026303,Passo d'Areia,BURACO NA VIA,Telefone 156,2026-01-21,2026-02-03,Concluído,4
+2026304,Juscelino Kubitschek,BURACO NA VIA ,Presencial,2026-04-05,2026-04-14,Concluído,2
+2026305,Patronato,BURACO NA VIA,Telefone 156,2026-01-17,2026-02-09,Concluído,2
+2026306,Patronato,Água e esgoto,Presencial,2026-02-13,2026-03-01,Concluído,5
+2026307,Juscelino Kubitschek,Animais na via,Presencial,2026-05-01,2026-05-03,Concluído,5
+2026308,Patronato,Água e esgoto,WhatsApp,2026-06-14,2026-06-14,Concluído,5
+2026309,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-01-17,2026-01-21,Concluído,5
+2026310,Patronato,ANIMAIS NA VIA,Presencial,2026-07-25,2026-08-03,Concluído,4
+2026311,Centro,Iluminação pública,Portal,2026-08-01,2026-08-06,Concluído,1
+2026312,Centro,Buraco na via,Presencial,2026-07-22,,Em aberto,
+2026313,Passo d'Areia,Buraco na via,Portal,2026-02-04,,Em aberto,
+2026314,Camobi,Buraco na via,WhatsApp,2026-06-03,2026-06-08,Concluído,2
+2026315,Juscelino Kubitschek,Buraco na via ,Telefone 156,2026-05-19,,Em aberto,
+2026316,Centro,Buraco na via ,Presencial,2026-06-07,,Em aberto,
+2026317,Camobi,Buraco na via,Portal,2026-04-21,2026-05-08,Concluído,3
+2026318,Patronato,PODA DE ARVORE,WhatsApp,2026-04-19,2026-05-26,Concluído,-1
+2026319,Nossa Senhora de Lourdes,Iluminação pública,Presencial,2026-07-17,2026-07-27,Concluído,5
+2026320,Patronato,PODA DE ARVORE,Telefone 156,2026-01-25,2026-02-15,Concluído,2
+2026321,Centro,Animais na via,WhatsApp,2026-04-17,2026-04-24,Concluído,2
+2026322,Tancredo Neves,Animais na via,WhatsApp,2026-05-12,2026-05-20,Concluído,2
+2026323,Patronato,Água e esgoto,Telefone 156,2026-01-16,2026-01-31,Concluído,4
+2026324,Patronato,AGUA E ESGOTO,WhatsApp,2026-08-17,,Em aberto,
+2026325,Patronato,Poda de árvore,WhatsApp,2026-05-08,2026-06-02,Concluído,5
+2026326,Centro,Animais na via,Portal,2026-03-21,2026-03-23,Concluído,5
+2026327,Camobi,Buraco na via,WhatsApp,2026-02-12,2026-03-07,Concluído,4
+2026328,Nossa Senhora de Lourdes,Animais na via,Portal,2026-06-07,,Em aberto,
+2026329,Juscelino Kubitschek,Iluminação pública,Portal,2026-07-26,2026-07-29,Concluído,3
+2026330,Patronato,Animais na via,Presencial,2026-02-09,2026-02-09,Concluído,4
+2026331,Centro,Água e esgoto,Telefone 156,2026-07-08,,Em aberto,
+2026332,Camobi,Coleta de lixo,Presencial,2026-03-28,2026-04-02,Concluído,3
+2026333,Nossa Senhora de Lourdes,BURACO NA VIA,Telefone 156,2026-04-24,2026-05-09,Concluído,2
+2026334,Centro,Buraco na via,Portal,2026-01-28,2026-02-07,Concluído,4
+2026335,Patronato,Iluminação pública,Presencial,2026-07-23,2026-08-04,Concluído,2
+2026336,Centro,ILUMINACAO PUBLICA,WhatsApp,2026-07-23,2026-08-02,Concluído,5
+2026337,Centro,Poda,WhatsApp,2026-05-21,2026-06-23,Concluído,5
+2026338,Juscelino Kubitschek,Iluminação pública,WhatsApp,2026-02-11,2026-02-22,Concluído,4
+2026339,Patronato,Animais na via,Telefone 156,2026-07-04,2026-07-11,Concluído,2
+2026340,Tancredo Neves,AGUA E ESGOTO,WhatsApp,2026-08-21,,Em aberto,
+2026341,Tancredo Neves,Coleta de lixo,Telefone 156,2026-02-28,2026-03-03,Concluído,4
+2026342,Juscelino Kubitschek,Iluminação pública,Presencial,2026-05-01,,Em aberto,
+2026343,Tancredo Neves,COLETA DE LIXO,Presencial,2026-04-13,2026-04-20,Concluído,1
+2026344,Nossa Senhora de Lourdes,Água e esgoto,Telefone 156,2026-01-21,2026-02-03,Concluído,3
+2026345,Nossa Senhora de Lourdes,Iluminação pública,WhatsApp,2026-07-15,2026-07-22,Concluído,5
+2026346,Centro,Coleta de lixo,Telefone 156,2026-08-08,2026-08-10,Concluído,3
+2026347,Patronato,Água e esgoto,Telefone 156,2026-05-05,2026-05-07,Concluído,3
+2026348,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-08-07,2026-08-08,Concluído,2
+2026349,Juscelino Kubitschek,Iluminação pública,Telefone 156,2026-04-24,2026-04-30,Concluído,2
+2026350,Patronato,Buraco na via,Presencial,2026-05-04,2026-05-12,Concluído,4
+2026351,Centro,Poda,WhatsApp,2026-01-05,,Em aberto,
+2026352,Patronato,PODA DE ARVORE,WhatsApp,2026-02-11,,Em aberto,
+2026353,Juscelino Kubitschek,BURACO NA VIA,Portal,2026-06-29,2026-06-30,Concluído,2
+2026354,Patronato,Iluminação pública,Presencial,2026-08-10,2026-08-15,Concluído,2
+2026355,Centro,ILUMINACAO PUBLICA,Portal,2026-08-05,2026-07-19,Concluído,2
+2026356,Centro,Buraco na via,WhatsApp,2026-01-26,2026-02-24,Concluído,4
+2026357,Nossa Senhora de Lourdes,Buraco na via,Presencial,2026-03-29,2026-04-07,Concluído,4
+2026358,Tancredo Neves,ILUMINACAO PUBLICA,WhatsApp,2026-04-03,2026-03-08,Concluído,3
+2026359,Tancredo Neves,Iluminação pública,Portal,2026-07-14,2026-07-18,Concluído,4
+2026360,Camobi,Coleta de lixo,Presencial,2026-08-16,2026-08-22,Concluído,2
+2026361,Juscelino Kubitschek,Iluminação pública,Portal,2026-03-10,2026-03-14,Concluído,2
+2026362,Patronato,Iluminação pública,Presencial,2026-05-03,2026-05-10,Concluído,3
+2026363,Centro,ILUMINACAO PUBLICA,WhatsApp,2026-05-11,2026-05-20,Concluído,3
+2026364,Nossa Senhora de Lourdes,Poda,WhatsApp,2026-05-02,2026-06-01,Concluído,3
+2026365,Nossa Senhora de Lourdes,Poda de árvore,Presencial,2026-05-01,,Em aberto,
+2026366,Camobi,Água e esgoto,Telefone 156,2026-05-06,2026-05-21,Concluído,2
+2026367,Centro,Coleta de lixo,Telefone 156,2026-01-12,,Em aberto,
+2026368,Passo d'Areia,BURACO NA VIA ,WhatsApp,2026-07-23,2026-07-28,Concluído,5
+2026369,Tancredo Neves,Coleta de lixo,Portal,2026-03-16,2026-03-16,Concluído,2
+2026370,Passo d'Areia,Coleta de lixo,WhatsApp,2026-08-08,2026-08-10,Concluído,2
+2026371,Centro,Buraco na via,Portal,2026-04-18,2026-05-06,Concluído,2
+2026372,Nossa Senhora de Lourdes,Iluminação pública,Portal,2026-04-28,2026-05-06,Concluído,4
+2026373,Passo d'Areia,Buraco na via,Telefone 156,2026-05-06,2026-05-19,Concluído,4
+2026374,Centro,Buraco na via,Presencial,2026-01-26,2026-02-21,Concluído,4
+2026375,Centro,ILUMINACAO PUBLICA,Presencial,2026-08-02,2026-08-02,Concluído,4
+2026376,Tancredo Neves,Buraco na via,Portal,2026-02-28,2026-03-29,Concluído,1
+2026377,Centro,Buraco na via,Portal,2026-02-08,2026-02-15,Concluído,4
+2026378,Nossa Senhora de Lourdes,Iluminação pública,Presencial,2026-06-19,2026-06-20,Concluído,5
+2026379,Camobi,AGUA E ESGOTO,Telefone 156,2026-03-25,2026-03-31,Concluído,3
+2026380,Centro,Poda,Portal,2026-08-17,,Em aberto,
+2026381,Centro,Coleta de lixo,Presencial,2026-04-02,2026-04-05,Concluído,2
+2026382,Tancredo Neves,Buraco na via,Portal,2026-05-08,2026-05-27,Concluído,4
+2026383,Patronato,AGUA E ESGOTO,Presencial,2026-07-15,2026-07-15,Concluído,1
+2026384,Patronato,ANIMAIS NA VIA,Portal,2026-01-24,2026-02-05,Concluído,5
+2026385,Tancredo Neves,Poda de árvore,Telefone 156,2026-05-18,,Em aberto,
+2026386,Centro,Iluminação pública,Telefone 156,2026-01-07,2026-01-12,Concluído,3
+2026387,Nossa Senhora de Lourdes,Iluminação pública,Portal,2026-02-10,,Em aberto,
+2026388,Centro,Água e esgoto,Presencial,2026-01-08,2026-01-19,Concluído,4
+2026389,Camobi,Animais na via,WhatsApp,2026-04-08,2026-04-10,Concluído,4
+2026390,Centro,Poda de árvore,Portal,2026-06-30,2026-07-29,Concluído,3
+2026391,Passo d'Areia,Coleta de lixo,WhatsApp,2026-08-06,2026-08-11,Concluído,4
+2026392,Camobi,Iluminação pública,WhatsApp,2026-03-25,,Em aberto,
+2026393,Juscelino Kubitschek,Iluminação pública,WhatsApp,2026-06-16,2026-06-18,Concluído,3
+2026394,Patronato,AGUA E ESGOTO,Telefone 156,2026-06-05,2026-06-17,Concluído,1
+2026395,Patronato,Poda de árvore ,Portal,2026-02-28,,Em aberto,
+2026396,Centro,PODA DE ARVORE,Portal,2026-05-18,,Em aberto,
+2026397,Patronato,Iluminação pública,WhatsApp,2026-08-13,2026-08-20,Concluído,5
+2026398,Camobi,Poda,Telefone 156,2026-04-10,2026-05-04,Concluído,3
+2026399,Camobi,Água e esgoto,WhatsApp,2026-08-13,2026-08-23,Concluído,5
+2026400,Camobi,Buraco na via,Portal,2026-06-18,2026-06-27,Concluído,4
+2026401,Passo d'Areia,Coleta de lixo,WhatsApp,2026-01-15,2026-01-20,Concluído,5
+2026402,Camobi,Buraco na via,Telefone 156,2026-06-26,2026-07-07,Concluído,1
+2026403,Tancredo Neves,PODA DE ARVORE,WhatsApp,2026-04-13,2026-05-08,Concluído,5
+2026404,Juscelino Kubitschek,Iluminação pública,Telefone 156,2026-06-02,2026-06-02,Concluído,5
+2026405,Nossa Senhora de Lourdes,Poda de árvore,Telefone 156,2026-02-06,,Em aberto,
+2026406,Nossa Senhora de Lourdes,Poda,Telefone 156,2026-02-02,2025-12-26,Concluído,5
+2026407,Tancredo Neves,Iluminação pública,Presencial,2026-06-20,2026-06-28,Concluído,4
+2026408,Centro,Poda de árvore,WhatsApp,2026-01-14,2026-02-16,Concluído,1
+2026409,Camobi,Buraco na via,Telefone 156,2026-01-23,2026-01-23,Concluído,3
+2026410,Centro,Água e esgoto,Presencial,2026-08-17,2026-08-09,Concluído,1
+2026411,Centro,AGUA E ESGOTO,WhatsApp,2026-03-05,2026-03-17,Concluído,5
+2026412,Nossa Senhora de Lourdes,Coleta de lixo,Portal,2026-04-15,2026-04-19,Concluído,5
+2026413,Camobi,BURACO NA VIA,Portal,2026-04-12,2026-04-28,Concluído,2
+2026414,Tancredo Neves,Poda de árvore,Portal,2026-06-21,2026-06-21,Concluído,4
+2026415,Juscelino Kubitschek,Coleta de lixo,Presencial,2026-05-06,2026-05-06,Concluído,4
+2026416,Tancredo Neves,BURACO NA VIA,Telefone 156,2026-05-01,2026-05-01,Concluído,1
+2026417,Patronato,BURACO NA VIA,WhatsApp,2026-05-07,2026-05-12,Concluído,5
+2026418,Juscelino Kubitschek,PODA DE ARVORE,Portal,2026-02-04,,Em aberto,
+2026419,Nossa Senhora de Lourdes,Iluminação pública,Presencial,2026-06-15,2026-06-22,Concluído,5
+2026420,Centro,COLETA DE LIXO,Presencial,2026-01-30,2026-02-06,Concluído,10
+2026421,Centro,PODA DE ARVORE,Presencial,2026-08-06,2026-08-08,Concluído,1
+2026422,Passo d'Areia,Iluminação pública,Presencial,2026-02-06,2026-02-14,Concluído,1
+2026423,Centro,Água e esgoto,Portal,2026-07-24,2026-07-03,Concluído,5
+2026424,Centro,Poda de árvore,Telefone 156,2026-06-13,2026-07-01,Concluído,3
+2026425,Camobi,Coleta de lixo,Telefone 156,2026-04-21,2026-04-23,Concluído,1
+2026426,Patronato,Água e esgoto,WhatsApp,2026-05-07,2026-05-26,Concluído,1
+2026427,Tancredo Neves,Poda de árvore,Telefone 156,2026-07-14,2026-08-20,Concluído,4
+2026428,Juscelino Kubitschek,Coleta de lixo,Telefone 156,2026-02-26,2026-03-03,Concluído,1
+2026429,Camobi,Buraco na via,Telefone 156,2026-06-30,2026-07-03,Concluído,5
+2026430,Patronato,Animais na via,Telefone 156,2026-08-16,2026-08-22,Concluído,2
+2026431,Centro,Buraco na via,Portal,2026-08-11,,Em aberto,
+2026432,Centro,Iluminação pública,WhatsApp,2026-02-21,2026-03-04,Concluído,1
+2026433,Centro,ILUMINACAO PUBLICA,WhatsApp,2026-03-26,2026-03-26,Concluído,4
+2026434,Juscelino Kubitschek,Poda de árvore,Telefone 156,2026-05-21,2026-06-21,Concluído,2
+2026435,Centro,Água e esgoto,Portal,2026-02-05,2026-02-12,Concluído,2
+2026436,Nossa Senhora de Lourdes,ANIMAIS NA VIA,Portal,2026-01-24,2026-01-28,Concluído,5
+2026437,Camobi,Buraco na via,Telefone 156,2026-05-08,,Em aberto,
+2026438,Tancredo Neves,Iluminação pública,Telefone 156,2026-06-04,2026-06-04,Concluído,4
+2026439,Centro,Iluminação pública,Telefone 156,2026-06-06,2026-06-09,Concluído,4
+2026440,Tancredo Neves,Coleta de lixo ,Telefone 156,2026-07-29,2026-08-01,Concluído,5
+2026441,Tancredo Neves,ILUMINACAO PUBLICA,Portal,2026-02-14,2026-02-15,Concluído,2
+2026442,Passo d'Areia,COLETA DE LIXO,Portal,2026-03-18,2026-03-20,Concluído,2
+2026443,Tancredo Neves,BURACO NA VIA,Portal,2026-02-28,2026-02-28,Concluído,3
+2026444,Juscelino Kubitschek,Buraco na via,Telefone 156,2026-05-23,,Em aberto,
+2026445,Juscelino Kubitschek,Água e esgoto ,Presencial,2026-02-17,2026-02-23,Concluído,3
+2026446,Nossa Senhora de Lourdes,ILUMINACAO PUBLICA,Telefone 156,2026-05-11,,Em aberto,
+2026447,Tancredo Neves,AGUA E ESGOTO,Portal,2026-03-07,2026-03-13,Concluído,4
+2026448,Centro,Coleta de lixo,WhatsApp,2026-08-20,2026-08-22,Concluído,3
+2026449,Tancredo Neves,ILUMINACAO PUBLICA,Telefone 156,2026-06-28,2026-06-30,Concluído,3
+2026450,Camobi,Coleta de lixo,Telefone 156,2026-05-08,,Em aberto,
+2026451,Nossa Senhora de Lourdes,BURACO NA VIA,Telefone 156,2026-05-25,2026-06-24,Concluído,4
+2026452,Nossa Senhora de Lourdes,Iluminação pública,WhatsApp,2026-06-30,2026-07-02,Concluído,1
+2026453,Camobi,Buraco na via,Telefone 156,2026-07-29,,Em aberto,
+2026454,Camobi,ILUMINACAO PUBLICA,Portal,2026-07-14,2026-07-19,Concluído,1
+2026455,Passo d'Areia,ANIMAIS NA VIA ,Telefone 156,2026-02-18,2026-02-24,Concluído,2
+2026456,Patronato,Buraco na via,WhatsApp,2026-07-27,2026-06-21,Concluído,5
+2026457,Passo d'Areia,ILUMINACAO PUBLICA,Portal,2026-04-30,,Em aberto,
+2026458,Centro,Animais na via,Telefone 156,2026-07-13,2026-07-17,Concluído,2
+2026459,Patronato,Iluminação pública,Portal,2026-08-17,2026-08-18,Concluído,5
+2026460,Camobi,Poda de árvore,WhatsApp,2026-02-27,,Em aberto,
+2026461,Camobi,Água e esgoto,Presencial,2026-08-16,2026-08-26,Concluído,4
+2026462,Patronato,Buraco na via,Portal,2026-07-22,,Em aberto,
+2026463,Tancredo Neves,ANIMAIS NA VIA,Portal,2026-03-15,2026-03-20,Concluído,3
+2026464,Patronato,Água e esgoto,WhatsApp,2026-07-07,2026-07-07,Concluído,2
+2026465,Juscelino Kubitschek,Iluminação pública,Telefone 156,2026-08-08,,Em aberto,
+2026466,Camobi,COLETA DE LIXO,WhatsApp,2026-05-06,2026-05-11,Concluído,4
+2026467,Nossa Senhora de Lourdes,Iluminação pública,Telefone 156,2026-06-16,,Em aberto,
+2026468,Tancredo Neves,Água e esgoto,Portal,2026-05-27,2026-06-02,Concluído,3
+2026469,Patronato,Coleta de lixo,WhatsApp,2026-02-16,2026-02-16,Concluído,5
+2026470,Camobi,Buraco na via,Telefone 156,2026-01-09,2026-01-09,Concluído,3
+2026471,Passo d'Areia,Animais na via ,Telefone 156,2026-01-17,2026-01-22,Concluído,1
+2026472,Nossa Senhora de Lourdes,ILUMINACAO PUBLICA,Presencial,2026-04-07,2026-04-16,Concluído,1
+2026473,Juscelino Kubitschek,Buraco na via,Telefone 156,2026-07-14,2026-07-20,Concluído,2
+2026474,Camobi,Água e esgoto,WhatsApp,2026-08-18,2026-08-23,Concluído,5
+2026475,Centro,Coleta de lixo,WhatsApp,2026-05-06,,Em aberto,
+2026476,Centro,ILUMINACAO PUBLICA ,WhatsApp,2026-03-16,2026-03-22,Concluído,2
+2026477,Passo d'Areia,Poda de árvore,WhatsApp,2026-01-06,2026-02-01,Concluído,5
+2026478,Tancredo Neves,Buraco na via,Telefone 156,2026-04-18,2026-05-12,Concluído,2
+2026479,Tancredo Neves,Coleta de lixo,Presencial,2026-06-05,2026-06-09,Concluído,2
+2026480,Camobi,AGUA E ESGOTO,Presencial,2026-06-25,2026-06-03,Concluído,3
+2026481,Tancredo Neves,Iluminação pública,WhatsApp,2026-03-10,2026-03-20,Concluído,6
+2026482,Juscelino Kubitschek,Iluminação pública,Telefone 156,2026-06-15,2026-06-17,Concluído,5
+2026483,Passo d'Areia,Buraco na via,Portal,2026-05-13,,Em aberto,
+2026484,Centro,Poda de árvore,WhatsApp,2026-05-01,2026-05-13,Concluído,5
+2026485,Centro,Buraco na via,Telefone 156,2026-01-12,2026-01-17,Concluído,4
+2026486,Juscelino Kubitschek,Buraco na via ,Portal,2026-02-02,,Em aberto,
+2026487,Patronato,Água e esgoto,Portal,2026-02-21,2026-02-28,Concluído,4
+2026488,Nossa Senhora de Lourdes,Poda,Telefone 156,2026-04-14,2026-05-11,Concluído,1
+2026489,Patronato,Coleta de lixo,Telefone 156,2026-07-14,2026-07-16,Concluído,2
+2026490,Passo d'Areia,Iluminação pública ,WhatsApp,2026-05-21,2026-05-26,Concluído,1
+2026491,Nossa Senhora de Lourdes,Buraco na via,WhatsApp,2026-02-15,2026-02-20,Concluído,4
+2026492,Juscelino Kubitschek,ILUMINACAO PUBLICA,Portal,2026-02-18,2026-02-25,Concluído,5
+2026493,Juscelino Kubitschek,Animais na via,Presencial,2026-04-24,2026-04-24,Concluído,4
+2026494,Centro,Animais na via,Portal,2026-02-27,2026-03-10,Concluído,5
+2026495,Centro,Iluminação pública,Presencial,2026-06-06,,Em aberto,
+2026496,Nossa Senhora de Lourdes,Coleta de lixo,Portal,2026-04-26,2026-04-26,Concluído,4
+2026497,Camobi,Buraco na via,WhatsApp,2026-03-25,2026-04-06,Concluído,2
+2026498,Juscelino Kubitschek,Iluminação pública,Presencial,2026-06-01,,Em aberto,
+2026499,Nossa Senhora de Lourdes,Poda ,Telefone 156,2026-07-24,2026-08-04,Concluído,2
+2026500,Tancredo Neves,Iluminação pública,Presencial,2026-08-06,2026-08-13,Concluído,3

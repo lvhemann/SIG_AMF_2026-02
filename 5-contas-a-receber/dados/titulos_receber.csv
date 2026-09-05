@@ -1,0 +1,561 @@
+titulo_id,cliente,emissao,vencimento,pagamento,valor,forma_pagamento,situacao
+44001,Restaurante Barcellos,2026-03-30,2026-04-29,2026-03-15,"R$ 2.653,19",CHEQUE,Pago
+44002,Padaria Pereira,2026-06-05,2026-06-20,2026-06-14,"R$ 3.820,06",Boleto,Pago
+44003,Restaurante Barcellos,2026-06-08,2026-07-06,,"R$ 3.198,16",Cheque,Em aberto
+44004,Auto Peças Bueno,2026-06-03,2026-07-03,2026-07-13,"R$ 3.554,01",Cheque,Pago
+44005,Papelaria Pilla,2026-06-04,2026-08-03,2026-07-28,"R$ 1.733,55",Transferência,Pago
+44006,Mercado Santos,2026-04-26,2026-05-24,2026-05-31,"R$ 200,10",Cheque,Pago
+44007,Auto Peças Rodrigues,2026-01-16,2026-02-15,2026-02-22,"R$ 2.810,50",Boleto,Pago
+44008,Materiais Costa,2026-03-13,2026-03-28,2026-03-31,"R$ 4.182,50",BOLETO ,Pago
+44009,Auto Peças Weber,2026-03-07,2026-04-06,2026-04-09,"R$ 3.288,29",Cheq.,Em aberto
+44010,Mercado Barcellos,2026-07-22,2026-08-21,2026-08-16,"R$ 3.195,56",Cartão de crédito,Pago
+44011,Restaurante Oliveira,2026-04-04,2026-05-02,2026-05-01,"R$ 1.625,38",Cartão de crédito,Pago
+44012,Padaria Cardoso,2026-03-14,2026-04-11,2026-04-09,"R$ 3.826,13",Transferência,Pago
+44013,Mercado Pereira,2026-03-14,2026-04-13,2026-04-12,"R$ 1.048,68",Transferência,Pago
+44014,Farmácia Rodrigues,2026-07-22,2026-08-21,2026-08-16,"R$ 2.593,32",Boleto,Pago
+44015,Materiais Souza,2026-06-26,2026-07-17,2026-07-13,"R$ 4.326,05",Pix,Pago
+44016,Farmácia Silva,2026-03-14,2026-04-13,2026-04-13,"R$ 3.503,54",Cartão de crédito,Pago
+44017,Papelaria Oliveira,2026-01-24,2026-03-25,2026-03-22,"R$ 4.669,71",PIX,Pago
+44018,Auto Peças Goulart,2026-04-23,2026-05-08,2026-05-05,"R$ 1.950,58",Boleto,Pago
+44019,Restaurante Oliveira,2026-05-31,2026-07-30,2026-07-27,"R$ 303,70",Boleto,Pago
+44020,Papelaria Goulart,2026-06-01,2026-06-29,,"R$ 443,75",Pix,Pago
+44021,Auto Peças Schneider,2026-07-26,2026-08-25,2026-08-21,"R$ 2.808,85",Cartão de crédito,Pago
+44022,Restaurante Gomes,2026-07-17,2026-08-16,2026-08-31,"R$ 963,12",Boleto,Pago
+44023,Materiais Carvalho,2026-07-22,2026-09-20,2026-08-31,"R$ 4.583,44",BOLETO,Pago
+44024,Padaria Goulart,2026-01-24,2026-02-23,2026-02-22,"R$ 1.066,91",Transferência,Pago
+44025,Papelaria Vargas,2026-04-21,2026-05-06,2026-04-30,"R$ 954,86",PIX,Pago
+44026,Restaurante Carvalho,2026-01-17,2026-02-16,2026-02-10,"R$ 514,03",Transferência,Pago
+44027,Açougue Fagundes,2026-02-16,2026-03-09,2026-03-09,"R$ 4.498,94",Boleto,Pago
+44028,Materiais Beltrame,2026-02-22,2026-04-08,2026-04-11,"R$ 316,13",Boleto,Em aberto
+44029,Restaurante Dutra,2026-03-31,2026-05-15,2026-05-16,"R$ 2.505,49",Pix,Pago
+44030,Auto Peças Fontoura,2026-02-06,2026-04-07,2026-04-07,"R$ 3.559,99",Cartão de crédito,Pago
+44031,Auto Peças Pereira,2026-07-23,2026-08-20,,"R$ 1.799,22",Boleto,Em aberto
+44032,Materiais Rocha,2026-06-22,2026-08-06,2026-08-01,"R$ 1.468,87",Pix,Pago
+44033,Restaurante Barcellos,2026-07-22,2026-08-21,2026-08-18,"R$ 2.606,94",PIX,Pago
+44034,Materiais Schneider,2026-05-31,2026-06-30,2026-06-28,,Cartão de crédito,Pago
+44035,Restaurante Machado,2026-04-21,2026-05-21,2026-06-02,"R$ 191,31",BOLETO,Pago
+44036,Auto Peças Schneider,2026-02-04,2026-04-05,2026-03-30,"R$ 3.492,65",Cartão de crédito,Pago
+44037,Papelaria Rocha,2026-07-03,2026-08-02,,"R$ 4.565,86",Boleto,Pago
+44038,Mercado Almeida,2026-03-01,2026-04-30,2026-04-25,"R$ 1.966,50",Cartão de crédito,Pago
+44039,Padaria Machado,2026-03-17,2026-04-14,2026-04-11,"R$ 801,33",PIX,Pago
+44040,Açougue Rocha,2026-04-29,2026-05-20,2026-05-19,"R$ 2.906,77",Boleto,Pago
+44041,Restaurante Goulart,2026-02-14,2026-03-07,,,Boleto,Em aberto
+44042,Restaurante Vargas,2026-07-21,2026-08-18,2026-08-18,"R$ 1.818,14",Boleto,Pago
+44043,Auto Peças Almeida,2026-02-27,2026-03-14,2026-03-13,"R$ 3.215,48",Cheque,Pago
+44044,Mercado Souza,2026-01-31,2026-03-02,2026-02-25,"R$ 1.342,05",PIX,Pago
+44045,Padaria Marques,2026-02-07,2026-03-09,2026-03-03,"R$ 3.083,54",TRANSFERENCIA,Pago
+44046,Açougue Schneider,2026-04-04,2026-05-02,,"R$ 3.369,15",Boleto,Em aberto
+44047,Mercado Carvalho,2026-04-20,2026-06-19,2026-06-14,"R$ 385,05",PIX,Pago
+44048,Auto Peças Ribeiro,2026-06-28,2026-08-12,2026-08-08,"R$ 218,12",Transferência,Pago
+44049,Padaria Ferreira,2026-01-29,2026-02-28,2026-02-22,"R$ 4.770,94",CARTAO DE CREDITO,Pago
+44050,Papelaria Goulart,2026-04-08,2026-04-29,,"R$ 1.815,13",Boleto,Pago
+44051,Padaria Pilla,2026-02-11,2026-02-26,2026-03-16,"R$ 1.520,61",Cheq.,Pago
+44052,Farmácia Rocha,2026-03-31,2026-04-15,2026-04-09,"R$ 2.410,52",Cartão de crédito,Pago
+44053,Farmácia Goulart,2026-07-02,2026-08-01,2026-08-01,"R$ 2.304,61",Cheq.,Pago
+44054,Padaria Sartori,2026-05-28,2026-06-18,2026-07-05,"R$ 2.258,56",Transferência,Em aberto
+44055,Papelaria Zanella,2026-05-06,2026-07-05,2026-06-30,"R$ 2.285,53",Cheque,Pago
+44056,Açougue Carvalho,2026-06-05,2026-07-05,2026-07-03,"R$ 3.040,24",PIX,Pago
+44057,Auto Peças Martins,2026-07-07,2026-07-28,2026-07-29,"R$ 2.143,80",Boleto,Pago
+44058,Restaurante Gomes,2026-05-26,2026-06-10,2026-06-24,"R$ 1.077,29",Cheq.,Pago
+44059,Restaurante Oliveira,2026-01-29,2026-02-19,2026-02-17,"R$ 2.468,95",PIX,Pago
+44060,Mercado Weber,2026-06-28,2026-07-13,,"R$ 2.875,09",Cheq.,Em aberto
+44061,Mercado Zanella,2026-06-15,2026-08-14,2026-08-14,"R$ 2.045,47",TRANSFERENCIA,Pago
+44062,Padaria Bortolotto,2026-03-15,2026-05-14,2026-05-09,"R$ 3.085,33",Cartão de crédito,Pago
+44063,Restaurante Machado,2026-03-23,2026-04-22,,"R$ 2.486,89",CARTAO DE CREDITO,Em aberto
+44064,Materiais Moraes,2026-02-28,2026-03-21,,"R$ 2.515,04",BOLETO,Pago
+44065,Farmácia Martins,2026-01-20,2026-02-04,2026-02-04,"R$ 739,76",PIX,Pago
+44066,Auto Peças Kunz,2026-03-02,2026-04-01,2026-03-26,"R$ 1.171,60",Cartão de crédito,Pago
+44067,Papelaria Zanella,2026-02-06,2026-04-07,2026-04-24,"R$ 4.212,76",Cartão de crédito,Em aberto
+44068,Mercado Goulart,2026-04-23,2026-05-21,2026-05-15,"R$ 2.859,54",PIX,Pago
+44069,Materiais Goulart,2026-05-27,2026-06-11,2026-06-05,"R$ 4.137,78",Cartão de crédito,Pago
+44070,Restaurante Gomes,2026-04-23,2026-05-23,,"R$ 553,61",Cheq.,Pago
+44071,Restaurante Fontoura,2026-07-24,2026-08-08,,"R$ 4.783,75",Boleto ,Pago
+44072,Papelaria Schneider,2026-04-24,2026-06-08,2026-06-06,"R$ 613,17",Cartão de crédito,Pago
+44073,Materiais Goulart,2026-06-10,2026-07-25,2026-08-31,"R$ 1.128,35",Cheque,Pago
+44074,Açougue Rocha,2026-03-12,2026-04-11,2026-05-02,"R$ 1.623,27",Cheq.,Pago
+44075,Restaurante Moraes,2026-05-19,2026-06-09,2026-06-07,"R$ 4.477,69",Boleto ,Pago
+44076,Açougue Santos,2026-04-12,2026-05-12,2026-05-08,"R$ 3.947,09",Pix,Pago
+44077,Papelaria Rodrigues,2026-01-29,2026-02-28,2026-02-26,a negociar,BOLETO,Pago
+44078,Materiais Brum,2026-07-28,2026-08-27,2026-08-31,"R$ 1.945,70",Boleto,Pago
+44079,Restaurante Gomes,2026-03-31,2026-04-21,2026-04-18,"R$ 1.118,03",Cartão de crédito,Pago
+44080,Mercado Zanella,2026-04-14,2026-05-05,2026-05-02,"R$ 2.564,98",Pix,Pago
+44081,Papelaria Machado,2026-03-06,2026-04-03,2026-04-02,"R$ 4.018,07",Cartão de crédito,Pago
+44082,Farmácia Goulart,2026-03-31,2026-04-15,2026-04-13,"R$ 843,25",Boleto,Pago
+44083,Padaria Rossi,2026-06-13,2026-06-28,2026-06-01,"R$ 3.540,38",Boleto,Pago
+44084,Mercado Costa,2026-05-13,2026-06-10,2026-06-10,"R$ 3.070,25",Transferência,Pago
+44085,Restaurante Oliveira,2026-01-11,2026-03-12,2026-01-08,"R$ 2.223,95",Boleto ,Pago
+44086,Papelaria Souza,2026-01-21,2026-02-20,2026-02-15,"R$ 622,80",Cartão de crédito,Pago
+44087,Açougue Ribeiro,2026-05-27,2026-06-11,2026-06-07,"R$ 2.588,82",Cheq.,Pago
+44088,Açougue Kunz,2026-04-10,2026-05-10,2026-05-04,"R$ 3.665,53",Transferência,Pago
+44089,Açougue Fagundes,2026-02-25,2026-03-12,,"R$ 1.312,83",Cheq.,Em aberto
+44090,Mercado Bueno,2026-05-16,2026-06-30,2026-06-28,"R$ 1.106,06",BOLETO,Pago
+44091,Mercado Feltrin,2026-07-20,2026-08-10,2026-08-04,"R$ 3.580,63",PIX,Pago
+44092,Mercado Rocha,2026-01-25,2026-02-09,2026-02-07,"R$ 3.237,79",BOLETO,Pago
+44093,Mercado Bueno,2026-05-21,2026-06-11,2026-06-28,"R$ 2.841,33",Cheq.,Pago
+44094,Restaurante Santos,2026-01-11,2026-02-08,,"R$ 2.843,49",PIX,Pago
+44095,Padaria Oliveira,2026-04-20,2026-05-18,2026-05-13,"R$ 1.233,00",Boleto,Pago
+44096,Papelaria Moraes,2026-03-29,2026-04-13,2026-04-13,"R$ 2.098,18",CARTAO DE CREDITO,Pago
+44097,Farmácia Zanella,2026-04-09,2026-05-24,2026-05-26,"R$ 1.516,34",Cartão de crédito,Pago
+44098,Restaurante Costa,2026-03-09,2026-03-24,,"R$ 2.353,53",Boleto,Pago
+44099,Materiais Martins,2026-03-16,2026-05-15,2026-05-23,"R$ 3.049,85",Boleto,Pago
+44100,Padaria Beltrame,2026-02-01,2026-03-18,2026-04-04,"R$ 1.448,64",BOLETO,Pago
+44101,Materiais Rocha,2026-04-14,2026-05-14,2026-05-23,"R$ 1.452,19",Cheq.,Pago
+44102,Padaria Pilla,2026-07-10,2026-08-07,2026-08-04,"R$ 2.199,11",Transferência,Pago
+44103,Papelaria Barcellos,2026-03-18,2026-05-02,,"R$ 736,46",Pix ,Em aberto
+44104,Padaria Vargas,2026-03-12,2026-04-26,2026-04-20,"R$ 4.169,74",Boleto,Pago
+44105,Mercado Souza,2026-02-20,2026-03-13,,"R$ 805,24",Pix,Em aberto
+44106,Padaria Pilla,2026-02-18,2026-03-20,2026-04-13,"R$ 3.401,26",BOLETO,Pago
+44107,Restaurante Nunes,2026-02-11,2026-02-26,2026-02-20,"R$ 3.741,17",Cheq.,Pago
+44108,Farmácia Goulart,2026-04-26,2026-05-24,,"R$ 1.500,89",Boleto,Em aberto
+44109,Materiais Brum,2026-05-01,2026-05-22,2026-06-17,"R$ 252,17",Cheq.,Pago
+44110,Auto Peças Costa,2026-05-21,2026-07-05,2026-07-04,"R$ 783,98",Cartão de crédito,Pago
+44111,Papelaria Silva,2026-07-01,2026-08-30,,"R$ 4.539,79",Transferência,Em aberto
+44112,Restaurante Ribeiro,2026-03-30,2026-04-27,2026-05-08,"R$ 344,94",BOLETO,Pago
+44113,Papelaria Feltrin,2026-04-19,2026-06-03,2026-06-02,"R$ 1.405,29",PIX,Pago
+44114,Mercado Nunes,2026-01-08,2026-03-09,2026-03-04,"R$ 2.736,39",PIX,Pago
+44115,Padaria Kunz,2026-02-25,2026-04-26,2026-04-25,"R$ 2.776,08",BOLETO,Pago
+44116,Materiais Rodrigues,2026-02-19,2026-03-12,2026-03-18,"R$ 3.042,83",Boleto,Pago
+44117,Auto Peças Sartori,2026-04-06,2026-05-06,2026-05-24,"R$ 1.350,74",BOLETO,Pago
+44118,Açougue Nunes,2026-05-18,2026-06-15,,"R$ 2.528,81",Cartão de crédito,Em aberto
+44119,Açougue Bueno,2026-04-21,2026-05-12,2026-05-07,"R$ 3.870,15",BOLETO,Pago
+44120,Açougue Pilla,2026-07-15,2026-09-13,2026-08-31,"R$ 2.222,69",Cartão de crédito,Pago
+44121,Padaria Menezes,2026-01-21,2026-03-07,2026-03-02,"R$ 3.310,02",CARTAO DE CREDITO,Pago
+44122,Auto Peças Trindade,2026-02-01,2026-04-02,2026-03-27,"R$ 580,90",BOLETO,Pago
+44123,Restaurante Goulart,2026-06-04,2026-07-04,,"R$ 4.208,41",CARTAO DE CREDITO,Em aberto
+44124,Materiais Zanella,2026-04-27,2026-05-27,2026-05-22,"R$ 4.161,34",TRANSFERENCIA,Pago
+44125,Materiais Fagundes,2026-04-09,2026-04-30,2026-04-28,"R$ 3.909,44",Transferência,Pago
+44126,Mercado Weber,2026-05-30,2026-06-27,2026-06-25,"R$ 4.216,91",Boleto,Pago
+44127,Papelaria Pilla,2026-03-29,2026-05-13,2026-05-12,,Boleto,Pago
+44128,Restaurante Costa,2026-04-04,2026-05-19,,"R$ 4.285,59",Boleto,Em aberto
+44129,Padaria Sartori,2026-07-28,2026-08-12,2026-08-23,"R$ 736,44",BOLETO,Pago
+44130,Materiais Ferreira,2026-07-04,2026-08-18,,"R$ 1.652,60",BOLETO,Em aberto
+44131,Papelaria Moraes,2026-01-20,2026-03-06,2026-03-03,"R$ 573,36",PIX,Pago
+44132,Auto Peças Fontoura,2026-06-08,2026-06-29,2026-06-25,"R$ 3.283,03",Boleto ,Pago
+44133,Restaurante Pilla,2026-04-13,2026-06-12,2026-06-06,a negociar,Boleto,Pago
+44134,Farmácia Bueno,2026-03-21,2026-05-20,,"R$ 948,76",Boleto,Pago
+44135,Auto Peças Beltrame,2026-04-16,2026-05-16,2026-05-12,"R$ 1.506,67",Transferência,Pago
+44136,Auto Peças Fontoura,2026-07-19,2026-09-17,2026-08-31,"R$ 2.071,41",Boleto,Pago
+44137,Padaria Trindade,2026-06-20,2026-08-19,,"R$ 1.982,41",Transferência,Em aberto
+44138,Farmácia Rodrigues,2026-06-01,2026-07-16,2026-07-16,"R$ 3.074,08",Boleto,Pago
+44139,Padaria Schneider,2026-06-02,2026-07-02,2026-06-26,"R$ 699,44",PIX,Pago
+44140,Mercado Gomes,2026-02-19,2026-04-05,2026-03-31,"R$ 437,47",Transferência,Pago
+44141,Materiais Schneider,2026-07-16,2026-09-14,2026-08-31,"R$ 3.541,03",Boleto,Pago
+44142,Papelaria Menezes,2026-04-01,2026-05-16,2026-05-15,"R$ 2.574,69",PIX,Pago
+44143,Materiais Santos,2026-01-17,2026-03-03,2026-03-02,"R$ 2.163,91",PIX,Pago
+44144,Açougue Almeida,2026-07-31,2026-08-30,2026-08-27,"R$ 835,31",Transferência,Pago
+44145,Padaria Feltrin,2026-06-13,2026-08-12,2026-08-06,"R$ 4.272,28",PIX,Pago
+44146,Papelaria Trindade,2026-03-22,2026-04-21,,"R$ 2.698,73",CARTAO DE CREDITO,Em aberto
+44147,Materiais Cardoso,2026-07-15,2026-08-14,2026-08-08,"R$ 2.767,47",Transferência,Pago
+44148,Padaria Costa,2026-04-27,2026-05-18,2026-06-13,"R$ 3.058,59",Boleto,Pago
+44149,Mercado Fontoura,2026-01-14,2026-02-28,2026-02-28,"R$ 2.007,44",CHEQUE,Pago
+44150,Auto Peças Rocha,2026-06-08,2026-08-07,2026-08-04,"R$ 1.638,88",Cheq.,Pago
+44151,Restaurante Brum,2026-07-29,2026-08-28,2026-08-27,"R$ 3.129,79",Boleto,Pago
+44152,Materiais Machado,2026-07-19,2026-08-03,2026-07-28,"R$ 4.489,10",BOLETO,Pago
+44153,Auto Peças Kunz,2026-02-13,2026-04-14,2026-04-10,"R$ 4.025,10",Boleto,Pago
+44154,Papelaria Fagundes,2026-01-22,2026-03-23,2026-03-18,"R$ 251,57",PIX,Pago
+44155,Restaurante Carvalho,2026-01-25,2026-02-22,2026-02-19,"R$ 1.932,84",Cartão de crédito,Pago
+44156,Auto Peças Machado,2026-03-03,2026-03-18,,"R$ 4.773,52",Cartão de crédito,Em aberto
+44157,Restaurante Fagundes,2026-02-05,2026-03-07,2026-03-01,"R$ 846,46",Boleto,Pago
+44158,Farmácia Fagundes,2026-06-28,2026-08-27,2026-08-24,"R$ 1.039,74",PIX,Pago
+44159,Auto Peças Silva,2026-06-15,2026-07-06,2026-07-02,"R$ 3.310,65",Cartão de crédito,Pago
+44160,Açougue Ferreira,2026-06-13,2026-07-13,2026-07-09,"R$ 1.888,26",Cartão de crédito,Pago
+44161,Açougue Bortolotto,2026-05-21,2026-07-20,2026-07-15,"R$ 586,74",BOLETO,Pago
+44162,Materiais Moraes,2026-05-11,2026-06-10,2026-06-06,"R$ 1.641,30",PIX,Pago
+44163,Mercado Vargas,2026-07-19,2026-08-09,,"R$ 1.298,93",Boleto,Em aberto
+44164,Padaria Cardoso,2026-02-18,2026-03-20,2026-03-19,"R$ 608,56",PIX,Pago
+44165,Padaria Marques,2026-01-17,2026-02-01,2026-01-27,"R$ 4.530,20",Cheq.,Pago
+44166,Auto Peças Schneider,2026-03-11,2026-04-10,,"R$ 3.879,84",BOLETO,Pago
+44167,Restaurante Rodrigues,2026-05-13,2026-06-03,,"R$ 3.910,70",Cartão de crédito,Em aberto
+44168,Auto Peças Vargas,2026-04-11,2026-05-26,2026-05-29,"R$ 2.957,07",Pix,Pago
+44169,Açougue Rossi,2026-05-28,2026-07-12,2026-07-21,"R$ 2.095,65",Boleto,Pago
+44170,Materiais Cardoso,2026-04-20,2026-06-19,2026-06-16,"R$ 4.505,19",Cartão de crédito,Pago
+44171,Padaria Beltrame,2026-07-01,2026-07-16,2026-07-12,"R$ 1.199,47",PIX,Pago
+44172,Mercado Bueno,2026-02-12,2026-03-29,2026-05-01,"R$ 1.684,01",Boleto,Pago
+44173,Papelaria Bueno,2026-06-18,2026-07-18,2026-07-17,"R$ 2.163,58",Boleto,Pago
+44174,Papelaria Costa,2026-03-17,2026-04-16,2026-02-20,,Cheq.,Pago
+44175,Auto Peças Costa,2026-04-05,2026-05-20,2026-05-19,"R$ 435,68",Boleto,Pago
+44176,Auto Peças Oliveira,2026-04-08,2026-05-23,2026-06-14,"R$ 187,43",Boleto,Pago
+44177,Restaurante Fagundes,2026-02-03,2026-03-20,2026-03-20,"R$ 1.721,05",BOLETO,Pago
+44178,Mercado Bortolotto,2026-04-29,2026-05-29,2026-06-13,"R$ 1.746,32",Boleto,Pago
+44179,Mercado Bortolotto,2026-05-24,2026-06-21,2026-06-21,"R$ 465,39",Boleto,Pago
+44180,Materiais Santos,2026-04-25,2026-06-09,2026-06-06,"R$ 550,00",Cartão de crédito,Pago
+44181,Farmácia Souza,2026-05-03,2026-05-24,2026-05-22,"R$ 916,33",Cheque,Pago
+44182,Farmácia Machado,2026-07-04,2026-09-02,,"R$ 2.171,90",Transferência,Em aberto
+44183,Mercado Trindade,2026-03-27,2026-05-11,2026-05-11,"R$ 1.901,01",Cheque,Pago
+44184,Farmácia Ribeiro,2026-01-17,2026-02-14,2026-02-13,"R$ 4.135,65",Transferência,Pago
+44185,Farmácia Rocha,2026-02-23,2026-03-25,2026-03-24,"R$ 335,58",Boleto,Pago
+44186,Papelaria Sartori,2026-01-17,2026-02-01,2026-01-27,"R$ 1.219,31",Cartão de crédito,Pago
+44187,Padaria Moraes,2026-02-15,2026-04-01,2026-05-02,"R$ 3.691,95",Boleto,Pago
+44188,Açougue Nunes,2026-03-20,2026-04-17,2026-04-13,"R$ 3.338,48",PIX,Pago
+44189,Materiais Goulart,2026-04-16,2026-05-01,2026-04-28,"R$ 649,95",Pix,Pago
+44190,Mercado Martins,2026-01-11,2026-02-25,2026-02-25,"R$ 2.762,28",PIX,Pago
+44191,Auto Peças Ferreira,2026-01-22,2026-02-21,2026-02-16,"R$ 3.138,10",PIX,Pago
+44192,Restaurante Ribeiro,2026-07-10,2026-08-09,2026-08-08,"R$ 3.905,52",Cartão de crédito,Pago
+44193,Padaria Ribeiro,2026-07-07,2026-08-06,2026-08-06,"R$ 1.740,62",Cheque,Pago
+44194,Restaurante Fontoura,2026-03-14,2026-05-13,2026-05-10,"R$ 4.644,69",Transferência,Pago
+44195,Papelaria Oliveira,2026-01-06,2026-01-27,2026-01-31,a negociar,BOLETO,Pago
+44196,Auto Peças Sartori,2026-01-06,2026-01-21,2026-02-01,"R$ 3.488,70",Boleto,Em aberto
+44197,Açougue Almeida,2026-05-08,2026-05-23,2026-05-23,"R$ 1.220,08",Boleto,Pago
+44198,Mercado Ferreira,2026-01-25,2026-02-22,2026-02-19,"R$ 4.764,23",Boleto,Pago
+44199,Materiais Moraes,2026-03-16,2026-04-13,2026-04-25,"R$ 478,07",Boleto,Pago
+44200,Mercado Weber,2026-02-06,2026-03-08,2026-03-05,"R$ 870,56",Boleto,Pago
+44201,Papelaria Dutra,2026-03-25,2026-05-09,2026-05-09,"R$ 1.510,83",TRANSFERENCIA,Pago
+44202,Padaria Costa,2026-02-19,2026-04-05,2026-03-31,"R$ 4.444,30",Boleto,Pago
+44203,Farmácia Lima,2026-04-23,2026-06-22,2026-06-16,"R$ 595,35",Transferência,Pago
+44204,Açougue Pilla,2026-02-09,2026-03-09,2026-03-03,"R$ 1.784,13",Transferência,Pago
+44205,Auto Peças Nunes,2026-01-19,2026-02-16,,"R$ 1.770,68",Boleto,Pago
+44206,Mercado Nunes,2026-03-16,2026-04-06,2026-04-05,"R$ 3.079,36",Pix,Pago
+44207,Açougue Costa,2026-05-13,2026-06-12,2026-06-10,"R$ 2.288,39",Pix,Pago
+44208,Restaurante Fagundes,2026-07-02,2026-08-16,2026-08-15,"R$ 1.770,48",Cartão de crédito,Pago
+44209,Padaria Pereira,2026-06-08,2026-06-23,2026-06-17,"R$ 999,92",Cartão de crédito,Pago
+44210,Auto Peças Bueno,2026-05-30,2026-06-20,2026-06-18,"R$ 2.240,99",CARTAO DE CREDITO,Pago
+44211,Mercado Vargas,2026-02-08,2026-03-25,2026-03-21,"R$ 3.016,77",Boleto,Pago
+44212,Auto Peças Ribeiro,2026-06-26,2026-07-24,2026-07-19,"R$ 902,01",Cartão de crédito,Pago
+44213,Materiais Costa,2026-03-15,2026-03-30,2026-03-26,"R$ 3.432,46",PIX ,Pago
+44214,Farmácia Barcellos,2026-02-09,2026-04-10,2026-04-10,"R$ 1.400,08",Cartão de crédito,Pago
+44215,Açougue Zanella,2026-03-12,2026-04-09,2026-04-04,"R$ 4.660,43",Cartão de crédito,Pago
+44216,Materiais Sartori,2026-06-11,2026-07-11,2026-07-11,"R$ 3.896,72",PIX,Pago
+44217,Mercado Martins,2026-01-28,2026-02-12,2026-02-07,"R$ 4.294,16",PIX,Pago
+44218,Papelaria Brum,2026-03-07,2026-03-28,,"R$ 555,17",Pix,Em aberto
+44219,Açougue Vargas,2026-06-30,2026-07-15,2026-07-11,"R$ 4.605,20",Pix,Pago
+44220,Restaurante Martins,2026-02-14,2026-03-01,,"R$ 3.795,85",Cheq.,Em aberto
+44221,Mercado Rossi,2026-03-15,2026-05-14,2026-05-23,"R$ 4.148,01",Cheque,Pago
+44222,Açougue Ferreira,2026-04-27,2026-06-26,2026-06-22,"R$ 1.814,05",PIX,Pago
+44223,Mercado Goulart,2026-01-26,2026-03-12,2026-03-12,"R$ 3.913,83",Transferência,Pago
+44224,Farmácia Zanella,2026-06-09,2026-08-08,2026-08-04,"R$ 2.169,63",Boleto,Pago
+44225,Padaria Sartori,2026-04-06,2026-06-05,2026-06-04,"R$ 4.744,95",Cartão de crédito,Pago
+44226,Papelaria Rodrigues,2026-04-16,2026-05-07,2026-05-09,"R$ 2.167,36",PIX,Pago
+44227,Restaurante Brum,2026-06-03,2026-07-03,2026-07-02,"R$ 4.696,39",PIX,Pago
+44228,Açougue Bortolotto,2026-06-12,2026-07-03,2026-06-28,"R$ 1.630,65",Transferência,Pago
+44229,Papelaria Rocha,2026-07-06,2026-09-04,2026-08-31,"R$ 4.018,07",BOLETO,Pago
+44230,Farmácia Rossi,2026-05-20,2026-07-19,2026-07-17,"R$ 1.104,72",PIX,Pago
+44231,Restaurante Rossi,2026-02-27,2026-03-14,2026-03-10,"R$ 4.507,14",PIX,Pago
+44232,Auto Peças Trindade,2026-02-03,2026-03-20,2026-03-18,"R$ 2.955,18",Boleto,Pago
+44233,Açougue Weber,2026-03-19,2026-04-18,2026-04-12,"R$ 2.500,72",Boleto,Pago
+44234,Papelaria Martins,2026-07-07,2026-08-06,2026-08-02,"R$ 4.338,67",Boleto ,Pago
+44235,Mercado Lima,2026-07-18,2026-08-17,2026-08-11,"R$ 2.817,57",Boleto,Pago
+44236,Materiais Ferreira,2026-06-01,2026-07-16,,"R$ 2.605,66",PIX,Pago
+44237,Mercado Trindade,2026-01-27,2026-02-26,2026-03-09,"R$ 1.339,06",Boleto,Pago
+44238,Restaurante Machado,2026-07-13,2026-08-10,2026-08-07,"R$ 3.653,39",Cartão de crédito,Pago
+44239,Farmácia Oliveira,2026-06-13,2026-07-13,2026-07-07,"R$ 3.111,79",Cheque,Pago
+44240,Materiais Costa,2026-03-21,2026-05-20,2026-05-20,"R$ 1.864,95",Boleto,Pago
+44241,Auto Peças Rocha,2026-07-30,2026-09-28,2026-08-31,"R$ 620,88",Cheque,Pago
+44242,Materiais Vargas,2026-07-06,2026-09-04,,"R$ 2.851,92",CARTAO DE CREDITO,Em aberto
+44243,Mercado Feltrin,2026-06-17,2026-08-01,2026-08-08,a negociar,CARTAO DE CREDITO,Pago
+44244,Restaurante Moraes,2026-06-12,2026-07-10,2026-07-04,"R$ 1.851,56",BOLETO,Pago
+44245,Padaria Gomes,2026-04-14,2026-06-13,2026-06-08,"R$ 1.486,22",CARTAO DE CREDITO,Pago
+44246,Restaurante Rocha,2026-06-23,2026-08-22,2026-08-21,"R$ 1.210,12",Transferência,Pago
+44247,Farmácia Beltrame,2026-02-25,2026-03-27,2026-03-22,"R$ 3.988,52",PIX,Pago
+44248,Açougue Gomes,2026-07-18,2026-08-08,,"R$ 1.330,24",BOLETO,Em aberto
+44249,Materiais Barcellos,2026-03-07,2026-03-22,,"R$ 4.649,07",Boleto,Pago
+44250,Materiais Feltrin,2026-07-20,2026-08-04,2026-07-29,"R$ 1.196,38",CARTAO DE CREDITO,Pago
+44251,Açougue Santos,2026-02-16,2026-03-16,2026-03-15,"R$ 1.147,06",PIX,Pago
+44252,Padaria Ferreira,2026-03-01,2026-03-31,2026-03-28,"R$ 926,09",Boleto,Pago
+44253,Padaria Schneider,2026-02-25,2026-04-26,2026-04-20,"R$ 3.289,07",Cartão de crédito,Pago
+44254,Mercado Machado,2026-05-22,2026-07-06,,"R$ 1.153,77",PIX,Em aberto
+44255,Restaurante Lima,2026-07-29,2026-09-27,2026-08-31,"R$ 3.400,89",BOLETO,Pago
+44256,Materiais Nunes,2026-01-18,2026-03-19,2026-03-18,"R$ 4.697,83",CHEQUE,Pago
+44257,Papelaria Martins,2026-07-10,2026-08-09,2026-08-24,"R$ 1.494,36",Boleto,Pago
+44258,Materiais Moraes,2026-07-31,2026-09-14,2026-08-31,"R$ 4.491,52",Cheque ,Pago
+44259,Papelaria Menezes,2026-06-22,2026-07-20,,"R$ 4.360,53",Cartão de crédito,Pago
+44260,Açougue Menezes,2026-04-12,2026-04-27,2026-05-25,"R$ 4.321,95",Boleto,Pago
+44261,Padaria Dutra,2026-06-23,2026-07-23,2026-08-12,"R$ 4.349,83",Boleto,Pago
+44262,Farmácia Almeida,2026-02-21,2026-03-23,2026-03-31,"R$ 4.510,88",Transferência,Pago
+44263,Padaria Trindade,2026-06-05,2026-06-26,2026-06-20,"R$ 2.688,11",BOLETO,Pago
+44264,Padaria Gomes,2026-06-04,2026-08-03,2026-08-04,"R$ 1.807,95",PIX,Pago
+44265,Auto Peças Menezes,2026-07-01,2026-07-22,2026-07-22,"R$ 1.174,94",BOLETO,Pago
+44266,Mercado Carvalho,2026-03-25,2026-04-22,2026-04-21,"R$ 1.646,89",Transferência,Pago
+44267,Padaria Brum,2026-05-19,2026-06-18,2026-07-01,"R$ 4.776,22",BOLETO,Em aberto
+44268,Restaurante Souza,2026-07-18,2026-08-17,2026-08-22,"R$ 3.019,64",CHEQUE,Em aberto
+44269,Restaurante Moraes,2026-01-25,2026-02-24,2026-02-23,"R$ 3.996,68",Cartão de crédito,Pago
+44270,Papelaria Costa,2026-01-30,2026-02-14,2026-02-19,"R$ 2.427,30",Cheq.,Pago
+44271,Papelaria Lima,2026-06-08,2026-08-07,2026-08-07,"R$ 683,34",Cartão de crédito,Pago
+44272,Farmácia Weber,2026-04-23,2026-05-08,2026-05-08,"R$ 4.425,11",Cartão de crédito,Pago
+44273,Farmácia Brum,2026-07-24,2026-08-08,2026-08-05,"R$ 1.939,06",PIX,Pago
+44274,Padaria Rossi,2026-07-13,2026-08-12,2026-08-08,"R$ 1.273,23",PIX,Pago
+44275,Mercado Zanella,2026-01-28,2026-02-25,2026-02-19,"R$ 4.529,15",Transferência,Pago
+44276,Materiais Santos,2026-01-13,2026-02-03,2026-03-01,"R$ 905,88",Boleto,Pago
+44277,Restaurante Zanella,2026-05-21,2026-06-18,2026-06-17,"R$ 2.963,06",PIX,Pago
+44278,Auto Peças Carvalho,2026-06-18,2026-07-18,2026-07-15,"R$ 4.604,97",TRANSFERENCIA,Pago
+44279,Mercado Weber,2026-05-23,2026-07-22,2026-07-17,"R$ 423,44",PIX,Pago
+44280,Auto Peças Nunes,2026-01-27,2026-03-13,2026-03-24,"R$ 3.200,67",Cheq.,Pago
+44281,Açougue Trindade,2026-05-29,2026-06-19,2026-06-17,"R$ 1.841,19",PIX,Pago
+44282,Restaurante Rocha,2026-06-27,2026-08-26,2026-08-20,"R$ 456,30",Transferência,Pago
+44283,Materiais Rocha,2026-03-01,2026-04-30,2026-04-29,"R$ 3.492,88",Cartão de crédito,Pago
+44284,Farmácia Almeida,2026-06-16,2026-07-01,2026-06-27,"R$ 1.387,80",BOLETO,Pago
+44285,Açougue Weber,2026-07-06,2026-08-03,2026-08-03,"R$ 1.146,76",BOLETO,Pago
+44286,Açougue Oliveira,2026-07-21,2026-08-20,2026-08-19,"R$ 1.229,07",Boleto,Pago
+44287,Farmácia Trindade,2026-02-25,2026-03-12,2026-03-15,a negociar,TRANSFERENCIA,Pago
+44288,Açougue Cardoso,2026-02-17,2026-04-03,2026-04-01,"R$ 1.829,37",PIX,Pago
+44289,Papelaria Zanella,2026-04-16,2026-05-31,2026-05-30,"R$ 1.787,91",Cartão de crédito,Pago
+44290,Papelaria Oliveira,2026-07-04,2026-08-01,,"R$ 386,06",Transferência,Em aberto
+44291,Açougue Machado,2026-02-01,2026-02-16,2026-01-11,"R$ 1.922,01",Pix,Pago
+44292,Materiais Weber,2026-03-10,2026-04-24,,"R$ 3.870,62",CARTAO DE CREDITO,Pago
+44293,Açougue Costa,2026-05-23,2026-06-07,2026-06-01,"R$ 3.223,39",Cartão de crédito,Pago
+44294,Restaurante Pereira,2026-05-23,2026-07-22,2026-08-06,"R$ 441,42",Boleto,Pago
+44295,Açougue Bueno,2026-02-02,2026-04-03,2026-04-03,"R$ 1.092,67",CARTAO DE CREDITO,Pago
+44296,Açougue Menezes,2026-01-31,2026-04-01,2026-03-28,"R$ 4.046,02",Cartão de crédito,Pago
+44297,Restaurante Machado,2026-07-24,2026-08-23,2026-08-23,"R$ 2.827,05",CHEQUE,Pago
+44298,Restaurante Trindade,2026-01-18,2026-03-19,2026-03-15,"R$ 2.969,19",Cartão de crédito,Pago
+44299,Mercado Ribeiro,2026-02-21,2026-04-07,2026-04-09,"R$ 4.006,87",Transferência,Em aberto
+44300,Açougue Trindade,2026-01-06,2026-01-27,,"R$ 3.243,15",Cartão de crédito,Em aberto
+44301,Papelaria Pilla,2026-06-15,2026-07-15,2026-07-10,"R$ 2.997,98",Cartão de crédito,Pago
+44302,Padaria Costa,2026-02-26,2026-03-26,2026-03-26,"R$ 4.660,40",Cartão de crédito,Pago
+44303,Auto Peças Rocha,2026-06-13,2026-07-04,2026-07-01,"R$ 3.086,37",Boleto,Pago
+44304,Auto Peças Machado,2026-05-05,2026-06-02,2026-05-29,"R$ 3.228,29",Cartão de crédito,Pago
+44305,Restaurante Nunes,2026-04-17,2026-06-01,2026-06-15,"R$ 1.218,81",Cheque,Pago
+44306,Auto Peças Fontoura,2026-07-13,2026-08-12,2026-08-12,"R$ 3.218,13",Boleto,Pago
+44307,Restaurante Beltrame,2026-06-13,2026-07-04,2026-07-02,"R$ 1.881,62",Boleto,Pago
+44308,Papelaria Santos,2026-05-12,2026-06-11,2026-06-08,"R$ 4.660,57",PIX,Pago
+44309,Mercado Santos,2026-01-13,2026-02-27,2026-02-21,"R$ 4.708,07",BOLETO,Pago
+44310,Mercado Ferreira,2026-02-12,2026-03-05,2026-03-05,"R$ 3.008,10",Boleto,Pago
+44311,Mercado Santos,2026-05-15,2026-06-14,,"R$ 4.269,59",CARTAO DE CREDITO,Pago
+44312,Mercado Zanella,2026-01-28,2026-02-25,2026-02-23,"R$ 1.047,64",PIX,Pago
+44313,Materiais Pilla,2026-06-30,2026-07-21,2026-07-15,"R$ 2.903,87",Boleto,Pago
+44314,Restaurante Nunes,2026-06-27,2026-07-27,2026-07-25,"R$ 2.251,94",Transferência,Pago
+44315,Farmácia Sartori,2026-02-09,2026-03-09,2026-03-08,"R$ 2.459,21",BOLETO,Pago
+44316,Padaria Zanella,2026-04-14,2026-05-14,2026-05-10,"R$ 2.293,96",Boleto,Pago
+44317,Materiais Carvalho,2026-01-14,2026-02-13,2026-02-21,"R$ 2.079,08",Transferência,Pago
+44318,Padaria Nunes,2026-03-30,2026-04-29,2026-05-14,"R$ 2.617,03",Cheq.,Pago
+44319,Padaria Kunz,2026-01-27,2026-02-17,2026-02-13,"R$ 1.209,64",Transferência,Pago
+44320,Papelaria Dutra,2026-05-28,2026-06-27,2026-07-13,"R$ 1.262,18",PIX,Em aberto
+44321,Mercado Martins,2026-04-23,2026-05-23,,"R$ 4.687,68",Boleto,Pago
+44322,Mercado Martins,2026-07-07,2026-08-21,2026-08-20,"R$ 4.124,28",Boleto,Pago
+44323,Restaurante Martins,2026-05-26,2026-06-16,2026-06-10,"R$ 2.951,82",BOLETO,Pago
+44324,Mercado Gomes,2026-05-19,2026-06-18,2026-06-16,"R$ 2.709,34",CHEQUE,Pago
+44325,Açougue Bueno,2026-04-28,2026-05-26,2026-05-23,"R$ 1.145,59",Cheq.,Pago
+44326,Mercado Brum,2026-02-06,2026-03-23,2026-03-19,"R$ 3.854,41",Boleto,Pago
+44327,Mercado Nunes,2026-05-27,2026-06-26,,"R$ 2.930,83",Boleto,Pago
+44328,Restaurante Bueno,2026-06-18,2026-07-09,2026-07-25,"R$ 2.848,25",Boleto,Pago
+44329,Auto Peças Almeida,2026-03-15,2026-03-30,2026-03-26,"R$ 4.544,72",Boleto,Pago
+44330,Açougue Santos,2026-02-13,2026-03-15,,"R$ 4.377,71",Cartão de crédito,Em aberto
+44331,Farmácia Moraes,2026-06-21,2026-07-12,2026-07-12,"R$ 2.911,42",Transferência,Pago
+44332,Padaria Rodrigues,2026-01-23,2026-02-13,2026-02-11,"R$ 467,15",Boleto,Pago
+44333,Auto Peças Feltrin,2026-03-15,2026-04-14,2026-04-11,"R$ 3.064,79",Boleto,Pago
+44334,Açougue Barcellos,2026-07-12,2026-08-11,2026-08-05,"R$ 4.428,39",PIX,Pago
+44335,Auto Peças Weber,2026-03-22,2026-04-21,2026-04-19,"R$ 956,69",Cartão de crédito,Pago
+44336,Mercado Trindade,2026-07-27,2026-09-25,,"R$ 4.452,23",Transferência,Em aberto
+44337,Farmácia Ribeiro,2026-01-06,2026-02-03,2026-02-01,"R$ 3.590,54",Cartão de crédito,Pago
+44338,Açougue Nunes,2026-05-08,2026-06-05,2026-06-03,"R$ 3.308,62",Boleto,Pago
+44339,Mercado Costa,2026-02-10,2026-03-27,2026-05-11,"R$ 3.545,15",Cheque,Pago
+44340,Açougue Goulart,2026-04-16,2026-05-16,2026-05-15,"R$ 602,93",Boleto,Pago
+44341,Mercado Marques,2026-04-22,2026-06-21,2026-06-15,"R$ 3.086,60",Boleto,Pago
+44342,Auto Peças Santos,2026-04-25,2026-06-24,2026-08-31,"R$ 316,73",Cheque,Pago
+44343,Mercado Almeida,2026-04-10,2026-05-08,2026-05-03,"R$ 847,76",Boleto,Pago
+44344,Mercado Pereira,2026-01-24,2026-02-14,2026-02-10,,PIX,Pago
+44345,Papelaria Beltrame,2026-02-27,2026-03-14,2026-03-29,"R$ 3.267,22",Boleto,Pago
+44346,Papelaria Barcellos,2026-06-10,2026-07-08,2026-07-07,"R$ 4.332,40",Cartão de crédito,Pago
+44347,Mercado Carvalho,2026-01-09,2026-02-23,2026-03-01,"R$ 1.340,29",BOLETO ,Pago
+44348,Papelaria Brum,2026-04-09,2026-05-07,2026-05-10,"R$ 3.604,46",Boleto,Pago
+44349,Restaurante Rodrigues,2026-07-26,2026-09-09,2026-08-31,"R$ 2.705,69",Cheq.,Pago
+44350,Farmácia Goulart,2026-05-22,2026-07-21,2026-07-16,"R$ 2.233,79",Cartão de crédito,Pago
+44351,Mercado Nunes,2026-07-23,2026-09-21,2026-08-31,"R$ 3.673,57",CARTAO DE CREDITO,Pago
+44352,Materiais Brum,2026-01-13,2026-03-14,2026-03-11,"R$ 1.849,66",Cartão de crédito,Pago
+44353,Restaurante Vargas,2026-06-23,2026-08-22,,"R$ 3.927,48",TRANSFERENCIA,Em aberto
+44354,Farmácia Machado,2026-03-28,2026-04-18,2026-04-14,"R$ 3.841,64",Boleto,Pago
+44355,Farmácia Costa,2026-07-11,2026-08-10,,"R$ 1.268,79",BOLETO,Em aberto
+44356,Materiais Pereira,2026-07-13,2026-07-28,2026-07-26,"R$ 1.807,56",BOLETO,Pago
+44357,Açougue Rocha,2026-04-04,2026-04-25,2026-04-19,"R$ 4.482,66",Transferência,Pago
+44358,Materiais Barcellos,2026-03-25,2026-04-09,2026-04-04,"R$ 2.862,46",Boleto,Pago
+44359,Mercado Barcellos,2026-02-24,2026-03-11,2026-03-15,"R$ 3.017,18",PIX,Pago
+44360,Materiais Kunz,2026-03-03,2026-04-02,2026-04-12,"R$ 2.587,11",Boleto,Pago
+44361,Padaria Feltrin,2026-04-17,2026-06-16,2026-07-04,"R$ 2.594,59",PIX,Em aberto
+44362,Farmácia Weber,2026-05-20,2026-06-04,2026-06-01,"R$ 3.075,23",Cartão de crédito,Pago
+44363,Papelaria Bueno,2026-05-29,2026-07-13,2026-07-12,"R$ 2.597,96",Transferência,Pago
+44364,Materiais Feltrin,2026-01-18,2026-02-02,2026-01-31,"R$ 923,47",Pix,Pago
+44365,Restaurante Trindade,2026-01-05,2026-02-04,2026-01-31,"R$ 1.910,70",Cartão de crédito,Pago
+44366,Farmácia Zanella,2026-03-07,2026-03-22,,"R$ 1.455,23",CHEQUE,Pago
+44367,Padaria Bortolotto,2026-05-21,2026-06-11,2026-06-08,"R$ 4.197,29",PIX,Pago
+44368,Papelaria Carvalho,2026-02-26,2026-03-26,2026-03-20,"R$ 824,48",Transferência,Pago
+44369,Farmácia Fagundes,2026-04-21,2026-05-21,2026-05-17,"R$ 1.136,83",PIX,Pago
+44370,Auto Peças Carvalho,2026-04-30,2026-05-30,,"R$ 3.153,30",PIX,Em aberto
+44371,Padaria Schneider,2026-03-22,2026-05-21,2026-05-17,"R$ 2.233,65",Cartão de crédito,Pago
+44372,Farmácia Goulart,2026-02-17,2026-03-19,2026-03-15,"R$ 435,87",BOLETO,Pago
+44373,Açougue Sartori,2026-01-12,2026-02-26,2026-02-23,"R$ 4.377,36",Boleto,Pago
+44374,Restaurante Rodrigues,2026-04-14,2026-05-14,2026-05-09,"R$ 3.316,15",Cartão de crédito ,Pago
+44375,Restaurante Fontoura,2026-01-06,2026-02-05,2026-02-05,"R$ 1.766,25",Boleto,Pago
+44376,Restaurante Rocha,2026-07-31,2026-08-30,2026-08-24,"R$ 3.328,83",Cartão de crédito,Pago
+44377,Açougue Almeida,2026-07-22,2026-09-20,2026-08-31,"R$ 3.302,31",Cheque,Pago
+44378,Açougue Martins,2026-03-01,2026-03-31,2026-03-29,"R$ 200,08",TRANSFERENCIA,Pago
+44379,Padaria Almeida,2026-07-26,2026-09-09,2026-08-31,"R$ 317,67",BOLETO,Pago
+44380,Açougue Ferreira,2026-02-04,2026-03-21,2026-03-19,"R$ 2.373,52",Pix,Pago
+44381,Açougue Moraes,2026-01-18,2026-02-17,2026-02-15,"R$ 300,69",TRANSFERENCIA,Pago
+44382,Auto Peças Dutra,2026-02-13,2026-03-30,2026-03-27,"R$ 2.688,96",Cartão de crédito,Pago
+44383,Papelaria Feltrin,2026-03-18,2026-04-08,2026-04-03,a negociar,Boleto,Pago
+44384,Materiais Schneider,2026-04-24,2026-05-15,2026-05-10,"R$ 2.265,19",BOLETO,Pago
+44385,Materiais Rocha,2026-05-14,2026-06-04,2026-06-02,"R$ 415,73",Cartão de crédito,Pago
+44386,Mercado Marques,2026-02-02,2026-04-03,2026-04-09,"R$ 3.436,86",Cartão de crédito,Pago
+44387,Padaria Martins,2026-06-12,2026-08-11,2026-08-07,"R$ 639,32",Transferência,Pago
+44388,Farmácia Beltrame,2026-04-17,2026-06-16,2026-06-15,"R$ 4.483,21",Boleto,Pago
+44389,Restaurante Pilla,2026-07-18,2026-08-02,2026-08-22,"R$ 2.085,17",BOLETO,Pago
+44390,Materiais Bortolotto,2026-03-16,2026-04-15,2026-04-11,"R$ 2.993,48",PIX,Pago
+44391,Restaurante Fagundes,2026-07-05,2026-08-19,,"R$ 1.745,40",Cartão de crédito,Pago
+44392,Auto Peças Brum,2026-04-04,2026-05-02,,"R$ 2.272,85",Boleto,Em aberto
+44393,Farmácia Sartori,2026-05-22,2026-06-21,2026-06-28,"R$ 3.872,30",Boleto,Pago
+44394,Açougue Feltrin,2026-04-06,2026-06-05,2026-05-30,"R$ 812,79",PIX,Pago
+44395,Açougue Souza,2026-05-23,2026-07-07,2026-07-06,"R$ 4.446,87",Boleto,Pago
+44396,Açougue Ferreira,2026-02-05,2026-04-06,2026-04-25,"R$ 2.333,28",Boleto,Pago
+44397,Auto Peças Rocha,2026-06-15,2026-07-06,2026-05-28,"R$ 1.780,88",Boleto,Pago
+44398,Açougue Menezes,2026-03-23,2026-04-22,2026-04-17,"R$ 418,80",Boleto,Pago
+44399,Açougue Schneider,2026-01-31,2026-03-17,2026-03-17,"R$ 1.557,21",Boleto,Pago
+44400,Papelaria Dutra,2026-07-23,2026-08-22,2026-08-22,"R$ 4.057,55",CHEQUE,Pago
+44401,Açougue Pereira,2026-04-28,2026-06-12,2026-06-13,"R$ 2.634,70",PIX,Pago
+44402,Auto Peças Zanella,2026-07-08,2026-09-06,2026-08-31,"R$ 3.841,39",BOLETO,Pago
+44403,Papelaria Dutra,2026-06-21,2026-07-12,,"R$ 1.525,96",CHEQUE,Em aberto
+44404,Papelaria Brum,2026-03-06,2026-04-05,2026-04-01,"R$ 2.349,06",Boleto,Pago
+44405,Açougue Machado,2026-04-20,2026-06-19,2026-08-02,"R$ 3.705,48",CHEQUE,Pago
+44406,Padaria Bueno,2026-04-10,2026-04-25,2026-05-13,"R$ 4.069,74",Boleto,Pago
+44407,Farmácia Beltrame,2026-02-11,2026-03-11,2026-03-10,"R$ 3.896,49",Cartão de crédito,Pago
+44408,Padaria Rocha,2026-02-18,2026-03-20,2026-03-20,"R$ 854,69",Boleto,Pago
+44409,Mercado Schneider,2026-03-14,2026-04-04,2026-04-04,"R$ 1.076,00",Boleto,Pago
+44410,Padaria Silva,2026-07-26,2026-09-24,2026-07-15,"R$ 1.573,50",Cartão de crédito,Pago
+44411,Farmácia Fagundes,2026-07-29,2026-08-28,2026-08-27,"R$ 3.475,66",Pix,Pago
+44412,Restaurante Lima,2026-06-27,2026-07-27,,"R$ 480,13",Pix,Em aberto
+44413,Restaurante Rossi,2026-06-24,2026-07-22,2026-07-17,"R$ 907,92",Boleto,Pago
+44414,Açougue Pilla,2026-04-10,2026-06-09,2026-06-08,"R$ 4.450,77",Cheque,Pago
+44415,Auto Peças Menezes,2026-04-07,2026-05-05,2026-05-03,"R$ 1.856,24",Boleto,Pago
+44416,Materiais Souza,2026-01-25,2026-02-09,2026-02-04,"R$ 2.289,74",Cartão de crédito,Pago
+44417,Mercado Nunes,2026-03-18,2026-04-15,2026-04-25,"R$ 1.344,89",Boleto,Em aberto
+44418,Padaria Rocha,2026-06-03,2026-07-18,2026-07-16,"R$ 2.339,59",Transferência,Pago
+44419,Papelaria Marques,2026-07-20,2026-08-17,2026-08-13,"R$ 4.108,86",Transferência,Pago
+44420,Padaria Pilla,2026-01-07,2026-02-06,2026-02-06,"R$ 3.559,86",Cheq.,Pago
+44421,Açougue Dutra,2026-01-22,2026-03-08,2026-03-05,"R$ 1.261,41",Boleto,Pago
+44422,Papelaria Moraes,2026-02-15,2026-03-17,2026-03-12,"R$ 2.252,37",Cartão de crédito,Pago
+44423,Mercado Brum,2026-01-06,2026-02-05,2026-02-05,"R$ 4.098,65",Boleto,Pago
+44424,Padaria Martins,2026-04-12,2026-05-12,2026-05-08,"R$ 3.042,35",PIX,Pago
+44425,Farmácia Menezes,2026-02-05,2026-03-22,2026-03-19,"R$ 3.197,92",Cartão de crédito,Pago
+44426,Restaurante Bortolotto,2026-02-08,2026-03-10,2026-03-11,"R$ 620,60",Pix,Pago
+44427,Materiais Rocha,2026-02-03,2026-03-05,2026-03-05,"R$ 3.494,26",Boleto,Pago
+44428,Papelaria Ferreira,2026-05-29,2026-06-13,2026-07-07,"R$ 4.727,98",Boleto,Pago
+44429,Auto Peças Trindade,2026-01-15,2026-02-05,2026-02-05,"R$ 845,23",Transferência,Pago
+44430,Padaria Oliveira,2026-02-13,2026-03-15,2026-03-13,"R$ 1.876,43",Cartão de crédito,Pago
+44431,Farmácia Lima,2026-06-06,2026-07-06,2026-07-01,"R$ 1.157,55",PIX,Pago
+44432,Papelaria Pilla,2026-01-23,2026-02-13,2026-02-11,"R$ 1.158,04",PIX,Pago
+44433,Materiais Kunz,2026-01-13,2026-02-10,2026-03-04,"R$ 1.572,22",Cheq.,Pago
+44434,Açougue Oliveira,2026-03-13,2026-04-27,2026-04-27,"R$ 4.147,35",CARTAO DE CREDITO,Pago
+44435,Auto Peças Santos,2026-02-02,2026-02-17,2026-02-13,"R$ 377,23",Boleto,Pago
+44436,Padaria Weber,2026-03-05,2026-04-04,2026-04-04,"R$ 1.591,92",Transferência,Pago
+44437,Padaria Almeida,2026-01-10,2026-02-09,2026-02-06,"R$ 2.845,51",Boleto,Pago
+44438,Papelaria Weber,2026-01-19,2026-02-18,2026-02-16,"R$ 3.347,69",PIX,Pago
+44439,Farmácia Souza,2026-03-17,2026-04-16,2026-05-19,"R$ 2.058,48",BOLETO,Pago
+44440,Materiais Silva,2026-07-19,2026-08-16,2026-08-15,"R$ 3.864,20",Boleto,Pago
+44441,Açougue Ribeiro,2026-02-03,2026-03-20,2026-03-15,"R$ 880,80",Pix,Pago
+44442,Mercado Fagundes,2026-05-15,2026-06-29,2026-06-29,"R$ 2.193,72",Cartão de crédito,Pago
+44443,Farmácia Trindade,2026-07-26,2026-08-23,2026-08-19,"R$ 1.006,54",Pix ,Pago
+44444,Açougue Trindade,2026-05-19,2026-06-18,2026-06-17,"R$ 1.262,37",PIX,Pago
+44445,Padaria Almeida,2026-05-07,2026-06-06,2026-06-09,"R$ 1.776,08",Cheq. ,Pago
+44446,Auto Peças Weber,2026-06-26,2026-07-11,2026-07-05,"R$ 3.115,44",Transferência,Pago
+44447,Papelaria Ribeiro,2026-04-09,2026-04-30,2026-04-29,"R$ 3.919,24",Pix,Pago
+44448,Padaria Zanella,2026-02-04,2026-02-19,2026-02-18,"R$ 3.996,83",BOLETO,Pago
+44449,Materiais Oliveira,2026-03-16,2026-05-15,2026-06-03,"R$ 3.743,17",Boleto,Pago
+44450,Restaurante Bortolotto,2026-03-29,2026-04-26,2026-04-20,"R$ 2.393,96",BOLETO,Pago
+44451,Padaria Ribeiro,2026-07-07,2026-07-22,2026-07-19,"R$ 650,07",Boleto,Pago
+44452,Padaria Costa,2026-03-15,2026-04-14,2026-04-10,"R$ 1.141,53",Boleto,Pago
+44453,Farmácia Brum,2026-04-01,2026-05-01,2026-04-27,"R$ 632,00",Boleto,Pago
+44454,Padaria Oliveira,2026-07-17,2026-08-01,2026-07-28,"R$ 3.727,01",Cartão de crédito,Pago
+44455,Açougue Rossi,2026-07-07,2026-08-04,2026-08-02,"R$ 3.202,57",Cartão de crédito,Pago
+44456,Auto Peças Lima,2026-07-10,2026-07-25,2026-07-19,"R$ 2.777,19",Pix,Pago
+44457,Auto Peças Ribeiro,2026-05-06,2026-06-20,2026-06-16,"R$ 1.360,57",PIX,Pago
+44458,Materiais Sartori,2026-01-13,2026-02-10,2026-02-04,"R$ 3.759,39",PIX,Pago
+44459,Açougue Almeida,2026-05-06,2026-06-20,2026-06-17,"R$ 1.753,70",Cartão de crédito,Pago
+44460,Materiais Zanella,2026-07-26,2026-09-24,2026-07-17,a negociar,Boleto,Pago
+44461,Padaria Barcellos,2026-05-31,2026-06-28,,"R$ 1.595,47",Transferência,Em aberto
+44462,Auto Peças Bortolotto,2026-01-29,2026-02-13,2026-02-07,"R$ 1.400,10",Cartão de crédito,Pago
+44463,Restaurante Brum,2026-03-04,2026-04-18,2026-04-28,"R$ 249,18",Boleto,Pago
+44464,Auto Peças Gomes,2026-03-11,2026-04-25,2026-05-15,"R$ 2.310,38",CHEQUE,Pago
+44465,Restaurante Bueno,2026-01-05,2026-01-20,2026-01-25,"R$ 1.899,25",BOLETO,Pago
+44466,Materiais Barcellos,2026-06-15,2026-06-30,2026-06-27,"R$ 1.374,42",Cartão de crédito,Pago
+44467,Papelaria Brum,2026-06-01,2026-06-29,2026-07-29,"R$ 3.146,49",Cheq.,Pago
+44468,Restaurante Bortolotto,2026-04-09,2026-04-24,2026-04-24,"R$ 3.661,64",PIX,Pago
+44469,Auto Peças Ribeiro,2026-07-13,2026-08-27,2026-08-26,"R$ 4.067,98",Boleto,Pago
+44470,Padaria Vargas,2026-06-08,2026-07-08,2026-07-06,"R$ 3.300,63",PIX,Pago
+44471,Restaurante Silva,2026-04-13,2026-06-12,2026-06-07,a negociar,Boleto,Pago
+44472,Papelaria Costa,2026-01-30,2026-02-14,2026-02-12,"R$ 234,69",BOLETO,Pago
+44473,Restaurante Marques,2026-06-09,2026-07-07,2026-07-02,"R$ 1.913,91",BOLETO ,Pago
+44474,Materiais Dutra,2026-06-01,2026-06-29,2026-07-03,"R$ 969,07",Transferência,Pago
+44475,Restaurante Kunz,2026-06-05,2026-07-03,2026-06-28,"R$ 4.661,10",Cartão de crédito,Pago
+44476,Mercado Schneider,2026-03-04,2026-04-18,2026-04-15,"R$ 1.308,17",Boleto,Pago
+44477,Açougue Menezes,2026-06-24,2026-08-08,2026-06-01,"R$ 545,55",Boleto,Pago
+44478,Padaria Kunz,2026-02-12,2026-03-12,2026-02-06,"R$ 2.741,41",Boleto,Pago
+44479,Papelaria Moraes,2026-03-10,2026-04-24,2026-04-20,"R$ 1.471,08",CHEQUE ,Pago
+44480,Restaurante Rocha,2026-02-16,2026-03-03,2026-03-03,"R$ 3.546,54",Boleto,Pago
+44481,Mercado Dutra,2026-03-13,2026-04-27,2026-05-09,"R$ 785,76",Boleto,Pago
+44482,Padaria Weber,2026-05-02,2026-05-23,2026-05-19,"R$ 2.206,05",Boleto,Pago
+44483,Farmácia Oliveira,2026-05-05,2026-06-04,2026-06-26,"R$ 1.729,77",Cheque,Pago
+44484,Papelaria Almeida,2026-06-21,2026-07-21,2026-07-17,"R$ 3.399,59",Cartão de crédito,Pago
+44485,Farmácia Weber,2026-01-11,2026-02-01,2026-03-06,"R$ 457,71",Cheque,Pago
+44486,Restaurante Trindade,2026-07-19,2026-08-18,2026-08-15,"R$ 3.179,67",Pix,Pago
+44487,Auto Peças Pereira,2026-01-21,2026-02-05,2026-02-03,"R$ 3.409,89",Cheq.,Pago
+44488,Restaurante Goulart,2026-05-24,2026-06-23,2026-06-19,"R$ 3.593,43",Boleto,Pago
+44489,Açougue Goulart,2026-06-29,2026-07-29,2026-07-29,"R$ 4.526,49",Boleto,Pago
+44490,Padaria Rocha,2026-07-16,2026-08-15,2026-08-14,"R$ 1.926,27",Cartão de crédito,Pago
+44491,Açougue Menezes,2026-03-15,2026-04-29,,"R$ 4.016,19",Boleto,Pago
+44492,Materiais Rossi,2026-04-06,2026-05-06,2026-05-06,"R$ 1.160,47",Boleto,Pago
+44493,Padaria Trindade,2026-03-11,2026-04-10,2026-04-29,"R$ 520,42",Boleto,Em aberto
+44494,Mercado Feltrin,2026-07-10,2026-07-31,2026-07-27,"R$ 595,62",Transferência,Pago
+44495,Restaurante Costa,2026-03-20,2026-04-17,2026-04-14,"R$ 2.647,97",Cartão de crédito,Pago
+44496,Mercado Schneider,2026-01-22,2026-02-21,2026-02-24,"R$ 4.111,65",BOLETO,Em aberto
+44497,Restaurante Trindade,2026-06-12,2026-08-11,2026-08-05,"R$ 2.542,59",Transferência ,Pago
+44498,Restaurante Martins,2026-02-01,2026-03-18,2026-03-12,"R$ 514,00",Transferência,Pago
+44499,Auto Peças Rossi,2026-06-18,2026-08-17,2026-08-16,"R$ 4.294,53",Transferência,Pago
+44500,Mercado Costa,2026-02-09,2026-03-02,2026-03-21,"R$ 2.296,51",Cheq.,Pago
+44501,Açougue Zanella,2026-03-26,2026-05-10,2026-05-10,"R$ 1.268,47",Cheq.,Pago
+44502,Padaria Sartori,2026-03-28,2026-05-12,,"R$ 3.695,36",Boleto,Em aberto
+44503,Restaurante Kunz,2026-07-07,2026-08-04,2026-08-10,"R$ 1.453,21",TRANSFERENCIA,Pago
+44504,Açougue Fontoura,2026-02-28,2026-04-14,2026-04-08,"R$ 1.361,54",CARTAO DE CREDITO,Pago
+44505,Materiais Cardoso,2026-06-13,2026-06-28,2026-06-22,"R$ 1.373,24",BOLETO,Pago
+44506,Farmácia Zanella,2026-01-08,2026-01-23,2026-01-17,"R$ 2.009,88",Cartão de crédito,Pago
+44507,Restaurante Kunz,2026-06-28,2026-07-26,2026-07-24,"R$ 3.349,80",PIX,Pago
+44508,Farmácia Gomes,2026-04-22,2026-05-20,2026-05-19,"R$ 965,90",Transferência,Pago
+44509,Mercado Santos,2026-02-25,2026-03-25,2026-03-20,"R$ 3.358,21",Pix,Pago
+44510,Materiais Trindade,2026-02-03,2026-03-20,2026-04-04,"R$ 3.550,89",Boleto,Pago
+44511,Padaria Pereira,2026-02-06,2026-03-08,2026-03-03,"R$ 4.456,56",Boleto,Pago
+44512,Farmácia Rossi,2026-02-11,2026-02-26,2026-03-26,"R$ 2.726,65",Cheq.,Pago
+44513,Auto Peças Brum,2026-04-02,2026-05-02,,"R$ 4.206,80",Transferência,Pago
+44514,Açougue Souza,2026-05-27,2026-06-24,2026-06-23,"R$ 2.863,68",CARTAO DE CREDITO,Pago
+44515,Farmácia Sartori,2026-03-26,2026-04-16,2026-04-11,"R$ 4.152,84",PIX,Pago
+44516,Restaurante Ribeiro,2026-07-03,2026-08-02,2026-08-01,"R$ 2.131,21",Transferência,Pago
+44517,Mercado Rocha,2026-05-01,2026-05-31,2026-05-29,"R$ 3.828,42",BOLETO,Pago
+44518,Materiais Fagundes,2026-04-21,2026-05-21,2026-05-20,"R$ 1.132,84",PIX,Pago
+44519,Auto Peças Zanella,2026-06-13,2026-06-28,2026-06-25,"R$ 4.543,48",BOLETO,Pago
+44520,Restaurante Santos,2026-05-02,2026-06-16,2026-06-15,"R$ 4.484,23",Boleto,Pago
+44521,Papelaria Rodrigues,2026-07-25,2026-08-24,2026-08-18,"R$ 1.427,26",Cartão de crédito,Pago
+44522,Açougue Costa,2026-07-27,2026-09-10,2026-08-31,"R$ 4.555,78",Boleto,Pago
+44523,Padaria Ribeiro,2026-05-19,2026-06-03,2026-05-28,"R$ 4.469,13",Cartão de crédito,Pago
+44524,Açougue Rossi,2026-05-29,2026-06-28,2026-05-10,"R$ 609,03",BOLETO,Pago
+44525,Farmácia Marques,2026-05-24,2026-06-14,2026-06-10,"R$ 3.036,83",Cartão de crédito,Pago
+44526,Padaria Trindade,2026-04-19,2026-06-03,2026-06-02,"R$ 1.516,26",Transferência ,Pago
+44527,Farmácia Pereira,2026-05-25,2026-07-24,2026-07-22,"R$ 912,65",PIX,Pago
+44528,Mercado Bueno,2026-04-22,2026-05-22,2026-05-19,"R$ 4.013,33",Boleto,Pago
+44529,Restaurante Costa,2026-01-21,2026-03-22,2026-03-16,"R$ 1.755,62",PIX,Pago
+44530,Açougue Nunes,2026-04-13,2026-05-13,2026-05-13,"R$ 3.224,93",Cartão de crédito,Pago
+44531,Restaurante Costa,2026-02-17,2026-04-03,2026-03-30,"R$ 1.449,00",Boleto,Pago
+44532,Açougue Dutra,2026-02-19,2026-03-12,2026-03-07,"R$ 4.069,03",Boleto,Pago
+44533,Restaurante Trindade,2026-07-10,2026-08-09,2026-08-31,"R$ 4.180,08",Boleto,Pago
+44534,Papelaria Kunz,2026-05-25,2026-06-22,2026-06-26,"R$ 726,81",Cartão de crédito,Em aberto
+44535,Materiais Bortolotto,2026-04-09,2026-04-24,2026-04-20,"R$ 1.877,93",BOLETO,Pago
+44536,Auto Peças Schneider,2026-01-12,2026-02-26,2026-02-20,"R$ 1.412,44",Transferência,Pago
+44537,Açougue Barcellos,2026-03-04,2026-04-03,2026-03-29,"R$ 4.664,73",Cartão de crédito,Pago
+44538,Padaria Rodrigues,2026-03-06,2026-05-05,2026-05-04,"R$ 1.863,81",Boleto,Pago
+44539,Farmácia Zanella,2026-03-11,2026-05-10,2026-05-10,"R$ 4.792,31",Pix,Pago
+44540,Papelaria Bueno,2026-07-14,2026-08-13,2026-08-13,"R$ 4.142,21",PIX,Pago
+44541,Auto Peças Souza,2026-02-16,2026-03-18,2026-03-16,"R$ 3.129,33",Transferência,Pago
+44542,Farmácia Costa,2026-04-07,2026-05-22,2026-05-19,"R$ 2.328,98",Cheq.,Pago
+44543,Auto Peças Souza,2026-02-27,2026-03-20,2026-03-15,"R$ 4.499,58",Transferência,Pago
+44544,Açougue Feltrin,2026-03-02,2026-05-01,2026-05-01,"R$ 2.652,06",Boleto,Pago
+44545,Farmácia Rossi,2026-07-01,2026-08-30,,,PIX,Em aberto
+44546,Padaria Kunz,2026-06-11,2026-07-11,2026-07-09,"R$ 3.652,00",BOLETO,Pago
+44547,Padaria Silva,2026-07-09,2026-07-30,2026-07-27,"R$ 4.680,95",BOLETO,Pago
+44548,Papelaria Machado,2026-07-08,2026-07-23,2026-06-23,"R$ 2.590,36",PIX ,Pago
+44549,Materiais Cardoso,2026-05-08,2026-06-07,2026-06-02,"R$ 2.557,02",Boleto,Pago
+44550,Mercado Beltrame,2026-06-27,2026-08-26,2026-08-25,"R$ 2.809,96",BOLETO,Pago
+44551,Materiais Gomes,2026-03-24,2026-04-23,2026-04-18,"R$ 2.370,42",PIX,Pago
+44552,Restaurante Fagundes,2026-07-29,2026-08-26,,"R$ 4.726,97",Transferência,Pago
+44553,Farmácia Dutra,2026-01-11,2026-01-26,2026-03-05,"R$ 3.797,21",Cheque,Pago
+44554,Padaria Menezes,2026-02-15,2026-03-17,2026-03-15,"R$ 4.651,27",BOLETO,Pago
+44555,Açougue Ribeiro,2026-07-15,2026-09-13,2026-08-31,"R$ 430,40",Transferência,Pago
+44556,Farmácia Bueno,2026-07-31,2026-08-30,2026-08-27,"R$ 1.261,37",CARTAO DE CREDITO,Pago
+44557,Papelaria Kunz,2026-06-09,2026-07-09,2026-07-06,"R$ 2.344,19",Cartão de crédito,Pago
+44558,Padaria Almeida,2026-04-05,2026-06-04,2026-06-07,"R$ 2.572,56",Cheq.,Pago
+44559,Açougue Fagundes,2026-05-09,2026-05-24,2026-05-19,"R$ 3.651,33",CHEQUE,Pago
+44560,Restaurante Oliveira,2026-07-04,2026-08-03,2026-08-03,"R$ 3.286,03",Cheque,Pago

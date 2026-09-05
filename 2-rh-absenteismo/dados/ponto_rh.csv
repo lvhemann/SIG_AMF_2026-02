@@ -1,0 +1,431 @@
+registro_id,colaborador,setor,cargo,admissao,desligamento,motivo_saida,faltas_ano,dias_trabalhados
+7001,Rodrigo Zanella,PRODUCAO,Técnico,2020-04-30,,,10,187
+7002,Fabio Weber,Produção,Técnico,2019-10-29,,,4,211
+7003,Patricia Bueno,Administrativo,Analista,2024-03-24,,,3,209
+7004,Joao Sartori,PRODUCAO,Operador,2020-03-19,,,9,212
+7005,Bruno Schneider Menezes,Produção,Operador,2024-05-01,,,11,180
+7006,Bruna Ferreira,Produção,Técnico,2022-10-17,,,10,217
+7007,Aline Nunes,ADMINISTRATIVO,Analista,2024-09-11,,,1,211
+7008,Elisa Vargas Costa,Produção,Operador,2021-07-05,,,2,198
+7009,Simone Sartori,QUALIDADE,Operador,2020-12-21,,,,204
+7010,Vanessa Lima,Administrativo,Auxiliar,2025-10-02,,,3,187
+7011,Simone Lima,PRODUCAO,Técnico,2020-05-15,,,,214
+7012,Gustavo Gomes,Comercial,Analista,2024-11-23,,,4,192
+7013,Eduarda Souza,Manutenção,Analista,2023-10-29,,,14,196
+7014,Eduarda Nunes,Produção,Operador,2022-10-22,2024-07-24,Pedido de demissão,5,201
+7015,Douglas Brum,LOGISTICA,Analista,2022-08-03,,,9,212
+7016,Vinicius Schneider,PRODUCAO,Técnico,2023-08-24,,,10,214
+7017,Ricardo Rodrigues,Logística,Supervisor,2020-07-29,,,12,187
+7018,Priscila Machado,Produção,Técnico,2024-01-22,,,5,210
+7019,Sabrina Rodrigues,Produção,Técnico,2020-10-25,,,10,208
+7020,Nathalia Silva,LOGISTICA,Auxiliar,2019-09-21,,,6,185
+7021,Eduardo Cardoso,Manut.,Técnico,2022-06-25,,,23,199
+7022,Maria Oliveira Cardoso,Manutenção,Técnico,2019-03-08,2024-11-08,Pedido de demissão,18,211
+7023,Alexandre Sartori,LOGISTICA,Auxiliar,2020-09-16,,,8,189
+7024,Matheus Ferreira,Produção,Analista,2019-08-19,2025-12-03,Aposentadoria,13,203
+7025,Maria Oliveira,Manut.,Operador,2022-12-20,,,,199
+7026,Juliana Cardoso,Comercial,Auxiliar,2024-10-02,,,2,209
+7027,Aline Zanella,Qualidade,Operador,2022-08-30,,,4,204
+7028,Matheus Cardoso,Qualidade,Analista,2024-02-10,,,3,218
+7029,Jessica Kunz,Administrativo,Operador,2022-02-13,,,3,209
+7030,Tatiane Bueno,PRODUCAO,Supervisor,2024-02-12,,,13,196
+7031,Daniela Bueno Schneider,Produção,Analista,2023-10-29,,,7,196
+7032,Patricia Ferreira Menezes,MANUTENCAO,Operador,2024-06-02,,,12,216
+7033,Eduarda Schneider,Comercial,Supervisor,2022-09-01,,,5,187
+7034,Renata Martins,MANUTENCAO,Auxiliar,2025-09-19,,,13,208
+7035,Patricia Fontoura,Produção ,Auxiliar,2022-06-05,,,4,182
+7036,Alexandre Fagundes,Logística,Operador,2024-10-17,,,7,203
+7037,Bruno Almeida Menezes,ADMINISTRATIVO,Técnico,2019-05-02,2020-04-05,Pedido de demissão,3,180
+7038,Rosane Schneider,MANUTENCAO,Operador,2025-05-25,,,1000,194
+7039,Marcos Oliveira Souza,Administrativo,Operador,2023-10-26,,,5,194
+7040,Douglas Santos,LOGISTICA,Auxiliar,2019-01-23,2022-12-16,FIM DE CONTRATO,7,199
+7041,Fernanda Sartori Trindade,MANUTENCAO,Operador,2025-11-21,,,10,196
+7042,Andre Kunz Silva,Logística,Operador,2019-02-03,,,0,216
+7043,Camila Pereira Costa,Qualidade,Analista,2025-02-28,,,2,190
+7044,Adriana Fagundes Gomes,Qualidade ,Auxiliar,2021-06-25,,,5,215
+7045,Cristiane Silva,Manut.,Supervisor,2022-05-21,,,1,204
+7046,Cesar Trindade,QUALIDADE,Técnico,2019-09-28,2021-11-16,Fim de contrato,4,220
+7047,Aline Martins,Produção,Auxiliar,2025-05-14,,,4,182
+7048,Tatiane Bueno,Qualidade,Analista,2019-01-21,,,6,181
+7049,Vanessa Lima,MANUTENCAO,Operador,2022-04-06,,,9,213
+7050,Carla Feltrin Pilla,MANUTENCAO,Analista,2024-04-09,2024-09-15,FIM DE CONTRATO,13,188
+7051,Maicon Zanella,Logística,Supervisor,2022-02-18,,,10,202
+7052,Leticia Souza,ADMINISTRATIVO,Analista,2022-11-19,,,,216
+7053,Bruna Brum,Manutenção,Analista,2022-10-18,,,2,192
+7054,Ricardo Gomes,MANUTENCAO,Operador,2020-01-19,,,10,199
+7055,Fernanda Fontoura Oliveira,Logística,Técnico,2019-09-03,2020-10-23,Aposentadoria,6,218
+7056,Tiago Gomes,ADMINISTRATIVO,Auxiliar,2021-04-06,,,4,186
+7057,Aline Sartori,Administrativo,Analista,2022-06-04,2023-12-19,PEDIDO DE DEMISSAO,2,204
+7058,Gabriela Lima,Qualidade,Operador,2022-04-23,,,2,197
+7059,Bruna Beltrame Schneider,COMERCIAL,Operador,2019-07-17,2020-04-19,Pedido de demissão,4,220
+7060,Fabio Bueno Dutra,PRODUCAO,Operador,2024-05-02,,,9,195
+7061,Adriana Machado,Logística,Analista,2019-08-01,,,4,205
+7062,Elisa Barcellos Pereira,Produção,Auxiliar,2022-06-12,2024-07-11,DEMISSAO SEM JUSTA CAUSA,7,206
+7063,Jessica Zanella Trindade,PRODUCAO,Operador,2023-03-05,,,10,218
+7064,Diego Cardoso Trindade,Qualidade,Analista,2024-02-19,,,5,191
+7065,Gustavo Ferreira,Manut.,Técnico,2021-07-30,,,,181
+7066,Andre Souza,Manutenção,Técnico,2023-12-25,,,12,208
+7067,Paulo Ribeiro Rocha,Produção,Operador,2021-06-12,,,2,215
+7068,Luciana Moraes,QUALIDADE,Analista,2021-02-17,,,4,196
+7069,Lucas Cardoso Feltrin,MANUTENCAO,Operador,2019-10-05,,,16,213
+7070,Ricardo Brum,Produção,Operador,2021-02-27,,,2,188
+7071,Vanessa Almeida Almeida,Produção,Auxiliar,2020-09-28,,,13,206
+7072,Douglas Brum,Logística,Operador,2024-04-08,,,10,209
+7073,Mariana Costa Pereira,Produção,Analista,2023-11-16,,,7,195
+7074,Eduarda Cardoso Trindade,Logística,Analista,2021-05-10,,,8,198
+7075,Elisa Lima Fontoura,MANUTENCAO,Operador,2023-12-20,2025-04-02,Demissão sem justa causa,10,212
+7076,Larissa Ferreira Nunes,Administrativo,Auxiliar,2024-07-28,2025-06-14,Fim de contrato,4,194
+7077,Luciana Machado,PRODUCAO,Analista,2023-02-23,,,7,195
+7078,Andre Lima,LOGISTICA,Auxiliar,2021-02-01,,,12,211
+7079,Nathalia Vargas Fagundes,Logística,Operador,2019-03-02,2026-05-13,PEDIDO DE DEMISSAO,13,196
+7080,Carla Moraes,Administrativo,Operador,2022-02-01,2025-05-04,Pedido de demissão,1,187
+7081,Elisa Moraes Silva,Qualidade,Operador,2021-04-08,,,3,216
+7082,Tatiane Pereira Bortolotto,MANUTENCAO,Supervisor,2023-01-04,,,365,186
+7083,Renata Rocha Dutra,Qualidade,Supervisor,2020-08-27,2024-11-01,Demissão sem justa causa,,180
+7084,Pedro Martins Souza,Produção,Técnico,2024-12-27,2026-01-27,FIM DE CONTRATO,12,213
+7085,Cesar Nunes Bortolotto,MANUTENCAO,Técnico,2021-12-28,,,365,180
+7086,Maicon Rodrigues,Produção,Operador,2022-08-03,,,7,192
+7087,Juliana Souza Fagundes,Qualidade,Técnico,2025-05-05,2026-01-08,Fim de contrato,6,181
+7088,Adriana Pereira Oliveira,Administrativo,Operador,2022-12-16,,,-3,201
+7089,Matheus Rossi Rodrigues,Produção,Operador,2023-05-09,,,8,197
+7090,Daniela Goulart,Manutenção,Operador,2023-12-09,2025-07-05,Demissão sem justa causa,11,197
+7091,Renata Beltrame,Produção,Técnico,2025-04-12,,,12,213
+7092,Paulo Vargas Rodrigues,Logística ,Operador,2022-12-06,,,7,215
+7093,Maria Schneider,Qualidade,Analista,2019-03-23,,,3,200
+7094,Simone Bortolotto Bueno,COMERCIAL,Técnico,2024-06-20,,,2,192
+7095,Elisa Souza,PRODUCAO,Operador,2021-05-31,,,5,214
+7096,Sabrina Barcellos,Produção,Supervisor,2024-05-16,2026-05-15,PEDIDO DE DEMISSAO,9,200
+7097,Jonas Rodrigues Cardoso,Produção ,Operador,2022-01-27,2024-04-28,Demissão sem justa causa,,193
+7098,Douglas Bortolotto,QUALIDADE,Supervisor,2025-11-02,,,5,194
+7099,Gabriela Moraes,PRODUCAO,Operador,2025-11-23,,,6,211
+7100,Douglas Beltrame Oliveira,COMERCIAL ,Técnico,2021-12-23,,,3,214
+7101,Camila Brum,Qualidade ,Técnico,2019-05-07,,,5,214
+7102,Bruna Martins,Produção,Técnico,2021-05-17,,,14,216
+7103,Rodrigo Schneider Feltrin,Produção,Operador,2025-02-28,,,9,191
+7104,Camila Sartori,Produção,Operador,2026-01-14,,,0,196
+7105,Bruno Barcellos Machado,Administrativo,Técnico,2025-11-30,,,3,205
+7106,Tiago Feltrin Almeida,Manutenção,Técnico,2019-06-13,,,18,199
+7107,Sergio Fontoura,Produção,Auxiliar,2024-08-27,2026-03-26,Fim de contrato,6,213
+7108,Everton Barcellos Trindade,Qualidade,Auxiliar,2021-11-10,2022-11-29,PEDIDO DE DEMISSAO,4,214
+7109,Matheus Machado Menezes,ADMINISTRATIVO,Operador,2019-09-21,,,6,207
+7110,Luciana Beltrame Moraes,QUALIDADE,Técnico,2022-02-24,2023-09-30,Fim de contrato,3,192
+7111,Cristiane Carvalho,Administrativo,Operador,2024-07-20,2025-03-30,Demissão sem justa causa,4,190
+7112,Amanda Pereira,LOGISTICA,Operador,2022-05-29,,,6,191
+7113,Patricia Pilla,PRODUCAO,Operador,2025-12-03,,,4,207
+7114,Nathalia Oliveira,Administrativo,Analista,2020-03-25,2023-06-03,PEDIDO DE DEMISSAO,6,199
+7115,Everton Oliveira,Produção ,Operador,2020-08-05,,,10,202
+7116,Nelson Fontoura Fontoura,Manut.,Operador,2023-09-20,,,26,200
+7117,Douglas Souza,COMERCIAL,Supervisor,2019-07-12,,,4,195
+7118,Jessica Carvalho,Produção,Técnico,2021-02-25,,,6,185
+7119,Gabriela Martins,LOGISTICA,Supervisor,2020-09-28,2021-03-27,Fim de contrato,7,205
+7120,Lucas Ribeiro,Manutenção ,Operador,2024-05-10,2025-01-02,Aposentadoria,0,182
+7121,Lucas Fontoura,Produção,Operador,2025-03-10,,,5,186
+7122,Vinicius Brum,Produção,Operador,2019-02-08,2025-07-14,Demissão sem justa causa,11,189
+7123,Paulo Rossi Lima,COMERCIAL,Auxiliar,2022-05-19,,,3,215
+7124,Renata Almeida,LOGISTICA,Operador,2025-04-11,,,2,210
+7125,Ana Cardoso,Produção,Supervisor,2021-05-09,2024-07-23,Fim de contrato,11,200
+7126,Leonardo Oliveira,MANUTENCAO,Auxiliar,2024-05-07,,,10,182
+7127,Fabio Feltrin,Logística,Operador,2025-11-27,,,4,195
+7128,Leonardo Barcellos Brum,MANUTENCAO,Técnico,2022-07-08,,,21,192
+7129,Gabriela Machado Rocha,Comercial,Técnico,2023-09-16,,,2,207
+7130,Felipe Santos,Manutenção,Técnico,2022-02-09,,,14,184
+7131,Rafael Rodrigues,PRODUCAO,Analista,2025-04-11,2025-11-25,Demissão sem justa causa,9,190
+7132,Eduarda Bortolotto Lima,Produção,Analista,2022-10-24,,,7,202
+7133,Jessica Trindade,Produção,Analista,2021-09-23,,,3,213
+7134,Jonas Souza,Produção,Técnico,2025-09-08,2026-05-04,Demissão sem justa causa,9,191
+7135,Daniela Santos,MANUTENCAO ,Técnico,2024-09-11,,,13,216
+7136,Jessica Lima Zanella,Administrativo,Operador,2019-06-30,,,2,214
+7137,Pedro Rodrigues,PRODUCAO,Analista,2023-12-01,,,15,197
+7138,Marcos Lima,Produção,Técnico,2020-04-12,,,5,187
+7139,Juliana Fagundes,Manut.,Operador,2023-10-21,2024-05-07,FIM DE CONTRATO,12,218
+7140,Renata Silva,Manut.,Técnico,2022-07-07,,,10,200
+7141,Nathalia Fagundes,COMERCIAL,Operador,2025-06-11,2026-02-18,FIM DE CONTRATO,2,203
+7142,Jonas Machado,Comercial,Analista,2021-03-06,2024-01-01,Pedido de demissão,4,209
+7143,Gustavo Pereira,MANUTENCAO ,Supervisor,2024-04-19,,,25,195
+7144,Tatiane Souza Moraes,Manut.,Operador,2023-05-25,,,19,209
+7145,Eduardo Weber Machado,Qualidade,Operador,2025-04-16,2026-01-12,Fim de contrato,3,212
+7146,Bianca Dutra Weber,Produção,Supervisor,2022-03-13,2024-06-07,DEMISSAO SEM JUSTA CAUSA,10,186
+7147,Patricia Feltrin Sartori,PRODUCAO,Operador,2024-03-13,,,4,182
+7148,Gabriela Santos,MANUTENCAO,Operador,2019-02-14,2024-06-25,Pedido de demissão,10,195
+7149,Simone Trindade Rodrigues,Logística,Auxiliar,2025-11-06,,,4,213
+7150,Ana Barcellos Nunes,Produção,Analista,2019-03-25,,,10,210
+7151,Juliana Brum,Produção,Técnico,2025-01-06,2025-07-03,Pedido de demissão,2,205
+7152,Paulo Weber Vargas,Comercial,Auxiliar,2023-06-22,,,4,191
+7153,Gabriela Barcellos,COMERCIAL,Operador,2020-12-22,,,2,198
+7154,Rodrigo Marques,Produção,Operador,2019-05-01,,,6,220
+7155,Fernanda Costa,Produção,Supervisor,2021-04-01,,,8,192
+7156,Maicon Marques,PRODUCAO,Operador,2020-04-18,2023-02-19,Demissão sem justa causa,6,195
+7157,Paulo Zanella,LOGISTICA ,Operador,2019-06-15,,,,220
+7158,Diego Rossi Fagundes,Produção,Técnico,2020-02-12,,,11,196
+7159,Priscila Rossi,Produção,Supervisor,2023-05-20,,,12,207
+7160,Elisa Barcellos Carvalho,Produção,Operador,2019-10-18,2024-10-29,Pedido de demissão,4,210
+7161,Fabio Carvalho,Manutenção,Analista,2022-05-10,,,5,198
+7162,Nathalia Souza Dutra,Administrativo,Operador,2022-02-13,,,3,214
+7163,Rosane Feltrin,Administrativo,Operador,2023-12-03,,,3,200
+7164,Ana Fontoura Sartori,Logística,Operador,2022-12-12,,,-3,202
+7165,Nelson Moraes Lima,Logística,Operador,2021-08-11,,,2,216
+7166,Carla Vargas,LOGISTICA,Auxiliar,2022-02-10,2023-01-28,DEMISSAO SEM JUSTA CAUSA,5,213
+7167,Matheus Oliveira,Produção,Operador,2021-11-13,,,6,218
+7168,Rafael Rodrigues,PRODUCAO,Auxiliar,2023-02-27,,,16,188
+7169,Marcos Lima Sartori,Produção,Operador,2022-10-11,,,2,189
+7170,Carla Fontoura,Produção,Operador,2021-05-08,,,6,180
+7171,Tatiane Bortolotto,Manutenção,Operador,2021-12-30,2026-02-01,FIM DE CONTRATO,12,180
+7172,Sabrina Fontoura,Manutenção,Operador,2021-11-09,,,999,185
+7173,Willian Schneider,PRODUCAO,Supervisor,2021-05-28,2025-02-25,DEMISSAO SEM JUSTA CAUSA,7,219
+7174,Willian Moraes,Produção,Operador,2021-09-29,,,7,188
+7175,Aline Souza,Logística,Operador,2022-05-18,,,14,189
+7176,Patricia Barcellos,Comercial ,Operador,2022-04-15,,,5,184
+7177,Mariana Sartori,Administrativo,Operador,2024-06-15,2026-01-06,Fim de contrato,3,217
+7178,Larissa Bortolotto,QUALIDADE,Operador,2020-06-18,2025-03-09,PEDIDO DE DEMISSAO,4,202
+7179,Maicon Vargas,Administrativo,Analista,2022-07-10,,,0,180
+7180,Willian Costa,ADMINISTRATIVO,Técnico,2026-01-31,,,1,215
+7181,Nelson Barcellos,Manut.,Operador,2019-06-13,,,999,196
+7182,Adriana Zanella Carvalho,Logística,Operador,2023-08-24,2026-04-24,Fim de contrato,10,190
+7183,Eduarda Pilla,Comercial,Auxiliar,2024-06-14,,,3,181
+7184,Lucas Fagundes,Logística,Técnico,2022-11-26,,,6,187
+7185,Camila Fontoura,Manut.,Operador,2023-10-10,,,,192
+7186,Cesar Weber,Administrativo,Operador,2021-11-01,,,5,180
+7187,Tiago Cardoso Feltrin,MANUTENCAO ,Auxiliar,2022-09-23,2025-11-08,Fim de contrato,30,185
+7188,Leonardo Rocha,Administrativo,Analista,2021-07-30,2025-01-23,Demissão sem justa causa,4,214
+7189,Douglas Santos Almeida,Administrativo,Operador,2021-12-16,,,5,191
+7190,Sabrina Fontoura Vargas,Produção,Técnico,2021-10-18,,,6,199
+7191,Lucas Bueno,LOGISTICA,Operador,2024-06-13,,,8,202
+7192,Camila Gomes,Qualidade,Analista,2024-05-16,,,3,214
+7193,Rodrigo Menezes Dutra,Produção,Operador,2021-07-24,,,6,196
+7194,Matheus Zanella Bortolotto,Produção,Analista,2019-08-21,,,0,207
+7195,Nelson Kunz,Administrativo,Técnico,2025-09-28,,,4,211
+7196,Larissa Weber Ferreira,Logística ,Operador,2021-10-07,,,10,197
+7197,Aline Bortolotto,Produção ,Auxiliar,2023-05-21,2025-05-08,Demissão sem justa causa,10,216
+7198,Amanda Oliveira,Produção,Analista,2019-06-28,,,8,220
+7199,Aline Souza,Logística,Operador,2019-11-22,,,10,197
+7200,Nelson Souza,Logística,Operador,2022-02-22,,,4,191
+7201,Luciana Menezes,Produção,Operador,2020-02-05,2023-09-13,Pedido de demissão,15,198
+7202,Leticia Marques Carvalho,Produção,Analista,2025-02-18,,,8,181
+7203,Leonardo Kunz Lima,Comercial,Operador,2025-06-28,,,6,200
+7204,Eduardo Sartori Brum,Produção,Auxiliar,2024-08-03,2025-08-20,Pedido de demissão,9,204
+7205,Fernanda Bueno Zanella,Comercial,Supervisor,2021-11-09,,,5,213
+7206,Juliana Zanella Rossi,Manutenção,Analista,2019-07-01,,,,185
+7207,Leticia Santos,Produção,Técnico,2019-08-04,2021-06-30,Demissão sem justa causa,5,212
+7208,Rosane Sartori,Qualidade,Analista,2022-11-15,2025-04-04,PEDIDO DE DEMISSAO,8,204
+7209,Mariana Rodrigues,Qualidade,Operador,2019-03-23,2021-03-28,FIM DE CONTRATO,6,201
+7210,Pedro Bueno Souza,PRODUCAO,Técnico,2019-07-15,2022-10-30,Pedido de demissão,11,189
+7211,Nelson Pereira,QUALIDADE,Supervisor,2022-06-26,2023-04-25,Aposentadoria,4,200
+7212,Bianca Bortolotto Moraes,PRODUCAO,Técnico,2024-07-15,,,6,190
+7213,Alexandre Rossi Goulart,Comercial,Operador,2025-02-10,2026-02-17,PEDIDO DE DEMISSAO,,220
+7214,Nathalia Menezes,Produção,Analista,2023-07-31,,,6,200
+7215,Joao Cardoso,LOGISTICA,Auxiliar,2025-08-23,,,2,217
+7216,Adriana Kunz,QUALIDADE,Supervisor,2024-11-27,,,6,200
+7217,Lucas Pereira,PRODUCAO,Analista,2025-02-05,2025-11-02,Pedido de demissão,0,213
+7218,Eduarda Martins,Qualidade,Operador,2019-12-17,,,2,206
+7219,Gabriela Beltrame Martins,Comercial,Técnico,2019-08-16,,,7,209
+7220,Daniela Vargas,Comercial,Operador,2023-08-20,2024-07-23,DEMISSAO SEM JUSTA CAUSA,8,208
+7221,Cesar Goulart Menezes,Qualidade,Operador,2023-01-09,,,3,196
+7222,Eduarda Costa,Comercial,Analista,2019-10-27,2023-07-18,FIM DE CONTRATO,1,210
+7223,Luciana Dutra Beltrame,Produção,Supervisor,2020-09-02,,,4,208
+7224,Marcos Pereira,Administrativo,Operador,2020-03-06,,,4,215
+7225,Felipe Silva,Manutenção,Operador,2024-05-15,,,999,195
+7226,Juliana Vargas,ADMINISTRATIVO,Operador,2023-05-03,,,3,211
+7227,Carla Barcellos Cardoso,Comercial,Auxiliar,2025-06-08,,,4,197
+7228,Rodrigo Beltrame,Produção,Operador,2019-10-11,,,0,193
+7229,Jessica Oliveira,MANUTENCAO,Técnico,2022-11-02,2025-09-26,FIM DE CONTRATO,8,203
+7230,Matheus Souza,Administrativo,Operador,2022-12-09,,,5,214
+7231,Simone Marques,Logística,Operador,2020-07-18,2023-03-28,Demissão sem justa causa,11,207
+7232,Felipe Moraes,Manutenção ,Operador,2022-06-01,,,14,201
+7233,Paulo Souza,Produção,Operador,2025-10-27,,,3,205
+7234,Larissa Nunes,Manut.,Operador,2024-09-25,,,17,213
+7235,Jessica Nunes Pilla,Comercial,Técnico,2020-02-10,2021-09-09,Aposentadoria,4,186
+7236,Gustavo Rocha,Produção ,Operador,2024-09-11,,,11,216
+7237,Bianca Ferreira,Produção,Supervisor,2022-12-13,2024-06-28,Pedido de demissão,8,185
+7238,Cristiane Ferreira,Qualidade ,Operador,2021-08-03,,,4,209
+7239,Vanessa Cardoso Ferreira,PRODUCAO,Operador,2021-07-21,2025-09-18,Fim de contrato,9,213
+7240,Leticia Bortolotto Lima,PRODUCAO,Técnico,2025-11-16,,,8,197
+7241,Sabrina Souza,PRODUCAO,Auxiliar,2019-04-02,,,3,190
+7242,Adriana Pereira,Produção,Operador,2023-03-06,,,5,181
+7243,Bianca Rossi,Qualidade,Técnico,2025-03-28,,,3,215
+7244,Daniela Almeida Marques,PRODUCAO,Analista,2023-09-18,2024-09-24,Demissão sem justa causa,3,200
+7245,Eduardo Zanella,Qualidade,Técnico,2023-10-07,,,5,208
+7246,Rafael Rocha,Qualidade,Operador,2020-07-08,2023-09-04,PEDIDO DE DEMISSAO,5,197
+7247,Eduarda Bueno,Produção,Técnico,2022-05-06,2023-07-13,DEMISSAO SEM JUSTA CAUSA,6,203
+7248,Daniela Carvalho Rodrigues,Qualidade,Analista,2022-11-04,,,2,202
+7249,Adriana Vargas,Produção,Técnico,2024-11-18,,,-3,205
+7250,Pedro Weber,Administrativo,Operador,2023-10-02,,,1,197
+7251,Juliana Moraes Schneider,Qualidade,Auxiliar,2020-05-09,,,999,182
+7252,Fernanda Kunz Moraes,LOGISTICA,Operador,2023-08-05,,,3,186
+7253,Tatiane Weber,Logística,Operador,2022-12-21,,,,199
+7254,Leonardo Rossi,Logística,Supervisor,2020-01-09,,,6,207
+7255,Bruna Moraes Fontoura,Produção,Técnico,2023-09-10,,,8,195
+7256,Amanda Schneider,Produção,Operador,2019-05-06,,,5,189
+7257,Sabrina Barcellos Fontoura,Administrativo,Operador,2025-07-14,,,,181
+7258,Amanda Bueno,LOGISTICA,Auxiliar,2023-04-18,,,10,188
+7259,Nelson Pilla,Produção,Técnico,2024-10-15,,,7,200
+7260,Adriana Moraes,Manut.,Operador,2023-06-08,,,6,192
+7261,Ricardo Pereira Fontoura,Produção,Operador,2021-04-23,2025-02-01,Pedido de demissão,5,190
+7262,Maicon Beltrame Pilla,Administrativo,Operador,2021-01-18,2024-04-05,FIM DE CONTRATO,5,188
+7263,Gabriela Ferreira,Manut.,Analista,2024-07-25,,,9,197
+7264,Marcos Weber Martins,Manutenção,Analista,2021-07-18,2022-02-14,Pedido de demissão,19,197
+7265,Simone Nunes,Administrativo,Operador,2024-08-11,,,1,197
+7266,Bruna Goulart Gomes,Produção,Técnico,2025-06-16,,,9,187
+7267,Aline Oliveira Goulart,Administrativo,Técnico,2022-11-06,,,0,206
+7268,Sabrina Goulart,LOGISTICA,Técnico,2024-08-13,2026-05-02,Demissão sem justa causa,5,203
+7269,Alexandre Fontoura,ADMINISTRATIVO,Analista,2024-08-09,,,6,212
+7270,Joao Vargas Marques,Administrativo,Técnico,2021-05-04,,,,217
+7271,Gustavo Schneider,LOGISTICA,Técnico,2024-12-07,2025-04-20,Fim de contrato,4,205
+7272,Ana Rodrigues Barcellos,Produção,Analista,2024-08-05,,,-3,207
+7273,Maria Silva,Qualidade,Técnico,2019-08-10,,,1,212
+7274,Felipe Carvalho,Produção,Operador,2023-08-18,,,,180
+7275,Alexandre Rocha,PRODUCAO,Operador,2025-10-30,,,4,218
+7276,Willian Moraes,Administrativo,Operador,2024-04-05,,,2,189
+7277,Gustavo Rodrigues,Administrativo,Técnico,2022-12-28,,,3,202
+7278,Eduardo Silva Beltrame,MANUTENCAO,Operador,2021-01-18,,,2,200
+7279,Jessica Souza Beltrame,QUALIDADE,Operador,2019-06-28,2024-01-26,PEDIDO DE DEMISSAO,4,219
+7280,Juliana Rodrigues,Manut.,Técnico,2019-07-07,,,19,190
+7281,Mariana Ribeiro Goulart,Produção,Operador,2024-02-16,2024-08-04,FIM DE CONTRATO,8,182
+7282,Sabrina Goulart,PRODUCAO,Supervisor,2019-03-19,,,4,189
+7283,Rodrigo Pilla,LOGISTICA ,Analista,2023-08-26,,,13,204
+7284,Aline Barcellos,COMERCIAL,Operador,2021-01-08,,,365,213
+7285,Jonas Rodrigues,Qualidade,Operador,2024-03-03,,,4,194
+7286,Everton Costa,Manutenção,Analista,2024-12-27,,,18,216
+7287,Sergio Martins Dutra,Logística,Operador,2023-06-07,2026-04-06,PEDIDO DE DEMISSAO,6,203
+7288,Tatiane Goulart,Produção,Auxiliar,2024-06-22,,,11,191
+7289,Eduardo Rodrigues,Logística,Operador,2023-02-25,,,7,198
+7290,Priscila Kunz,PRODUCAO,Operador,2024-02-13,,,8,217
+7291,Sabrina Fagundes,Administrativo,Operador,2025-01-09,,,3,215
+7292,Joao Beltrame,Logística,Supervisor,2022-10-02,,,8,219
+7293,Cristiane Silva Barcellos,Produção,Técnico,2022-07-01,,,,195
+7294,Bruno Menezes,Manutenção,Auxiliar,2019-03-07,2019-10-24,Pedido de demissão,12,180
+7295,Fernanda Goulart,Administrativo,Operador,2019-02-03,,,4,183
+7296,Camila Pereira,Comercial,Supervisor,2023-07-20,,,3,207
+7297,Lucas Almeida,Produção,Auxiliar,2019-09-27,,,10,217
+7298,Renata Rodrigues,LOGISTICA ,Técnico,2021-11-11,2025-08-26,Pedido de demissão,1000,214
+7299,Fabio Silva,Qualidade,Operador,2019-11-24,,,5,184
+7300,Simone Rodrigues Menezes,Qualidade,Supervisor,2020-07-18,,,4,214
+7301,Larissa Costa Barcellos,MANUTENCAO ,Supervisor,2022-05-23,2026-04-20,Pedido de demissão,22,217
+7302,Mariana Feltrin,Produção,Técnico,2019-10-06,2024-01-23,Demissão sem justa causa,13,217
+7303,Vanessa Cardoso Carvalho,Produção,Operador,2020-05-24,2025-12-12,Pedido de demissão,3,209
+7304,Vinicius Barcellos Brum,Produção,Operador,2024-03-05,,,4,193
+7305,Leticia Feltrin,Manutenção,Operador,2019-10-05,,,13,208
+7306,Maicon Carvalho,PRODUCAO,Analista,2023-04-18,,,11,215
+7307,Leonardo Marques,PRODUCAO,Auxiliar,2021-03-06,,,6,186
+7308,Thiago Rossi Oliveira,Produção,Auxiliar,2025-10-02,,,11,196
+7309,Mariana Fagundes,Logística,Operador,2020-01-04,2022-06-05,Pedido de demissão,7,193
+7310,Patricia Schneider,Comercial,Técnico,2021-02-25,,,6,194
+7311,Douglas Cardoso Moraes,Qualidade,Operador,2023-03-27,2024-02-01,Pedido de demissão,3,185
+7312,Camila Fontoura,Manut.,Analista,2019-04-01,,,0,205
+7313,Matheus Machado,MANUTENCAO,Operador,2022-05-22,,,17,188
+7314,Thiago Bueno Barcellos,Produção ,Operador,2024-07-31,,,4,199
+7315,Juliana Dutra,Logística,Supervisor,2025-04-14,2026-03-08,Fim de contrato,5,198
+7316,Ana Gomes Feltrin,PRODUCAO,Operador,2022-08-08,,,8,219
+7317,Rodrigo Silva Barcellos,PRODUCAO,Operador,2021-09-08,,,10,220
+7318,Andre Martins,Qualidade,Operador,2020-02-25,,,7,202
+7319,Nelson Brum Rossi,Produção ,Analista,2024-08-24,,,5,184
+7320,Felipe Vargas,LOGISTICA,Técnico,2019-11-06,,,8,207
+7321,Paulo Rocha,Qualidade,Analista,2019-11-26,,,2,203
+7322,Ana Nunes,Logística,Operador,2019-01-16,2024-01-15,Pedido de demissão,6,188
+7323,Vanessa Ferreira Silva,Manutenção,Auxiliar,2021-12-24,,,14,185
+7324,Daniela Dutra,MANUTENCAO,Auxiliar,2020-04-11,,,16,181
+7325,Bianca Rodrigues Brum,MANUTENCAO,Operador,2022-07-07,2024-06-18,Aposentadoria,7,192
+7326,Felipe Rossi,ADMINISTRATIVO,Operador,2022-09-21,,,4,188
+7327,Maicon Weber,Manut.,Técnico,2022-11-11,,,23,185
+7328,Ana Carvalho,Qualidade,Operador,2019-03-10,,,3,220
+7329,Carla Bueno,COMERCIAL,Técnico,2021-12-09,,,3,220
+7330,Patricia Cardoso,LOGISTICA ,Supervisor,2020-06-30,2025-02-04,Demissão sem justa causa,7,197
+7331,Gabriela Nunes Fontoura,Comercial,Operador,2024-04-01,2024-09-20,Demissão sem justa causa,6,188
+7332,Ana Pilla Lima,QUALIDADE,Operador,2019-10-30,,,2,183
+7333,Jonas Machado,Comercial ,Técnico,2021-02-03,,,5,207
+7334,Simone Kunz Barcellos,Qualidade ,Analista,2025-02-23,,,0,182
+7335,Jessica Sartori,Qualidade,Analista,2019-11-04,2024-05-21,Demissão sem justa causa,6,218
+7336,Ricardo Sartori,Manutenção,Auxiliar,2019-06-20,2025-10-28,Fim de contrato,18,194
+7337,Bianca Feltrin,Logística,Técnico,2020-01-23,,,5,193
+7338,Felipe Oliveira,Produção,Operador,2024-09-13,,,6,209
+7339,Larissa Rocha,Logística,Supervisor,2023-01-29,,,1,193
+7340,Douglas Bortolotto,Produção,Técnico,2022-12-12,2024-06-19,Demissão sem justa causa,5,189
+7341,Gustavo Martins,Manut.,Auxiliar,2024-02-25,2024-09-30,PEDIDO DE DEMISSAO,11,189
+7342,Cristiane Sartori,Manut.,Operador,2022-12-13,,,12,199
+7343,Leonardo Brum Goulart,Administrativo,Auxiliar,2023-04-11,2023-10-08,Demissão sem justa causa,,211
+7344,Luciana Menezes,Manut.,Operador,2023-07-06,,,14,220
+7345,Eduardo Silva,Comercial,Auxiliar,2024-04-13,,,5,193
+7346,Willian Fagundes,COMERCIAL,Analista,2025-11-18,,,5,210
+7347,Nathalia Vargas,Administrativo,Técnico,2025-02-03,,,2,181
+7348,Rafael Menezes,Logística,Operador,2024-10-05,,,4,182
+7349,Tiago Fagundes Martins,Qualidade,Técnico,2024-12-30,,,0,206
+7350,Bruna Moraes,Produção,Operador,2022-06-08,,,,187
+7351,Ana Vargas,LOGISTICA,Operador,2023-06-07,,,6,184
+7352,Larissa Brum Brum,Administrativo,Operador,2022-03-05,,,,182
+7353,Ana Cardoso,Produção,Auxiliar,2023-01-14,,,8,196
+7354,Gustavo Dutra,Produção,Supervisor,2020-06-09,,,11,199
+7355,Patricia Beltrame Bortolotto,Logística,Analista,2023-01-29,,,,181
+7356,Douglas Kunz,Produção,Operador,2025-01-21,,,12,211
+7357,Alexandre Trindade Costa,LOGISTICA,Analista,2025-10-13,2026-03-28,DEMISSAO SEM JUSTA CAUSA,4,187
+7358,Nathalia Martins,Produção,Operador,2019-07-05,2024-05-26,Pedido de demissão,5,193
+7359,Nelson Dutra,Administrativo,Operador,2024-04-10,,,6,182
+7360,Marcos Moraes Pilla,PRODUCAO,Auxiliar,2020-10-21,,,-3,189
+7361,Larissa Cardoso,Administrativo,Operador,2020-07-19,,,5,217
+7362,Tiago Carvalho,Manutenção ,Operador,2023-07-15,,,16,210
+7363,Rosane Rocha,MANUTENCAO,Analista,2023-04-28,,,12,209
+7364,Joao Cardoso Oliveira,Produção,Operador,2022-03-05,2025-06-29,Pedido de demissão,2,200
+7365,Nelson Feltrin Rodrigues,Produção,Operador,2023-11-30,,,6,188
+7366,Eduardo Brum,Logística,Operador,2021-06-14,,,5,213
+7367,Gabriela Costa,Produção,Supervisor,2022-07-29,,,7,217
+7368,Andre Ribeiro,PRODUCAO,Supervisor,2025-04-19,,,4,210
+7369,Bianca Rodrigues,Produção,Auxiliar,2023-06-08,2026-04-01,Fim de contrato,,190
+7370,Vanessa Sartori,Manutenção,Supervisor,2024-10-10,,,7,212
+7371,Eduarda Menezes,Administrativo,Operador,2021-03-12,2023-08-29,PEDIDO DE DEMISSAO,2,208
+7372,Douglas Costa Marques,Produção,Operador,2020-04-29,,,-3,191
+7373,Willian Dutra,Logística,Analista,2024-01-13,2025-08-08,Demissão sem justa causa,11,193
+7374,Pedro Barcellos,Produção,Operador,2022-03-01,,,10,180
+7375,Everton Sartori Vargas,Administrativo,Analista,2020-07-11,,,5,218
+7376,Matheus Rocha Schneider,Produção,Operador,2019-06-22,,,4,200
+7377,Otavio Bueno,Qualidade,Operador,2022-08-12,,,4,195
+7378,Daniela Rodrigues,Logística,Técnico,2025-03-28,,,2,182
+7379,Rafael Bueno Bortolotto,Produção,Operador,2025-11-18,,,4,218
+7380,Patricia Trindade,Comercial,Operador,2025-04-28,,,3,208
+7381,Camila Bortolotto,Logística,Auxiliar,2023-06-16,,,6,199
+7382,Amanda Machado Fontoura,Produção,Auxiliar,2019-07-31,2025-07-15,Pedido de demissão,8,211
+7383,Jonas Lima,Produção,Técnico,2025-06-10,,,6,188
+7384,Cristiane Barcellos,Produção,Auxiliar,2021-03-03,,,12,180
+7385,Thiago Menezes Schneider,MANUTENCAO ,Técnico,2021-07-20,2023-02-08,PEDIDO DE DEMISSAO,14,188
+7386,Gabriela Feltrin Schneider,Produção,Operador,2024-12-02,,,3,219
+7387,Vanessa Almeida,Qualidade,Analista,2022-09-03,,,2,196
+7388,Larissa Almeida,Qualidade,Supervisor,2021-05-25,,,3,197
+7389,Adriana Kunz Weber,Comercial,Técnico,2021-01-19,,,2,213
+7390,Amanda Bortolotto,Produção,Analista,2019-01-27,,,5,180
+7391,Priscila Bueno,Produção,Operador,2024-08-07,2026-03-30,Fim de contrato,6,200
+7392,Eduarda Barcellos,Logística,Técnico,2022-05-28,,,4,210
+7393,Otavio Gomes,Produção,Operador,2019-07-15,,,8,207
+7394,Rafael Cardoso,Produção,Operador,2024-04-29,,,3,184
+7395,Fernanda Machado,Produção,Operador,2019-12-08,,,10,189
+7396,Vanessa Ferreira,Qualidade,Operador,2023-09-01,2025-07-17,Pedido de demissão,5,184
+7397,Eduardo Dutra,PRODUCAO,Operador,2020-08-10,,,10,218
+7398,Everton Ferreira,Produção,Operador,2020-01-30,,,10,191
+7399,Fabio Dutra Barcellos,ADMINISTRATIVO,Analista,2024-04-11,,,2,185
+7400,Maicon Weber,Manutenção,Auxiliar,2019-06-17,,,23,205
+7401,Gustavo Rocha Marques,MANUTENCAO,Operador,2022-12-17,,,0,191
+7402,Tiago Oliveira,Manut.,Operador,2021-09-16,2025-10-07,Demissão sem justa causa,5,192
+7403,Daniela Brum Dutra,Produção,Auxiliar,2021-07-29,,,8,182
+7404,Rosane Brum Fontoura,Produção,Supervisor,2021-01-28,,,8,189
+7405,Joao Brum,Manut.,Técnico,2022-11-30,2023-04-17,FIM DE CONTRATO,14,190
+7406,Sabrina Gomes,Manutenção,Analista,2024-12-17,,,15,186
+7407,Priscila Rossi,PRODUCAO,Analista,2022-06-14,,,9,202
+7408,Luciana Marques Silva,Logística,Operador,2020-10-06,,,5,204
+7409,Aline Fagundes,Produção,Operador,2021-02-09,2023-04-20,PEDIDO DE DEMISSAO,7,216
+7410,Jessica Dutra Beltrame,ADMINISTRATIVO,Operador,2022-08-03,,,2,194
+7411,Sabrina Fagundes,Manutenção,Técnico,2019-12-03,,,20,199
+7412,Andre Weber,Comercial,Auxiliar,2020-12-13,,,6,184
+7413,Cesar Rossi Nunes,Produção,Analista,2023-11-20,,,3,214
+7414,Simone Almeida,LOGISTICA,Técnico,2025-04-10,2025-09-08,Demissão sem justa causa,13,184
+7415,Douglas Vargas Kunz,Comercial,Auxiliar,2021-03-05,,,2,194
+7416,Fabio Lima,Logística,Analista,2019-07-29,,,7,187
+7417,Luciana Costa,Produção,Supervisor,2022-12-24,,,11,198
+7418,Nelson Bueno,Logística,Analista,2019-06-27,,,8,197
+7419,Andre Moraes Kunz,Produção,Analista,2023-01-29,2024-02-06,Fim de contrato,14,218
+7420,Mariana Schneider,Manut.,Auxiliar,2020-04-07,,,17,200
+7421,Cristiane Carvalho,Administrativo,Auxiliar,2021-05-18,,,2,209
+7422,Thiago Marques,MANUTENCAO,Analista,2023-10-08,,,10,207
+7423,Juliana Schneider,MANUTENCAO,Analista,2019-08-22,2021-08-18,Pedido de demissão,12,216
+7424,Thiago Nunes,Administrativo ,Operador,2020-05-10,,,4,201
+7425,Marcos Fontoura Dutra,Administrativo,Técnico,2024-02-23,,,2,183
+7426,Eduarda Goulart,Logística,Operador,2025-12-14,2026-05-09,Fim de contrato,,204
+7427,Sabrina Fontoura Trindade,Comercial ,Operador,2022-06-12,,,5,181
+7428,Nathalia Feltrin,Manutenção,Operador,2021-10-17,2024-10-05,Pedido de demissão,9,220
+7429,Luciana Nunes Fagundes,Administrativo,Técnico,2019-02-11,,,3,186
+7430,Jessica Bueno,Manutenção,Auxiliar,2021-09-10,,,13,180

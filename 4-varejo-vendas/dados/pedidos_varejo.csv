@@ -1,0 +1,661 @@
+pedido_id,data,cliente,cidade,vendedor,categoria,produto,quantidade,valor_unitario,frete,canal,status
+90001,2026-04-22,Luciana Beltrame Carvalho,Cachoeira do Sul,Cleber Antunes,Jardinagem,Item 210,2,"R$ 56,98","R$ 56,02",WhatsApp,Faturado
+90002,2026-07-30,Gustavo Zanella Vargas,Santa Maria,Rosane Pilla,Jardinagem,Item 204,3,"R$ 67,81","R$ 29,47",WhatsApp,Faturado
+90003,2026-05-18,Vanessa Ribeiro,São Sepé,Ivan Bortolotto,HIDRAULICA,Item 205,2,"R$ 108,13","R$ 50,61",Telefone,Faturado
+90004,2026-02-11,Fernanda Brum,Santa Maria,Cleber Antunes,Hidráulica,Item 202,3,"R$ 100,66","R$ 0,00",Loja física,Faturado
+90005,2026-08-05,Fabio Vargas Pilla,Restinga Sêca,Ivan Bortolotto,Ferramentas,Item 199,2,"R$ 167,38","R$ 33,26",WhatsApp,Faturado
+90006,2026-03-20,Maria Oliveira,Restinga Sêca,Ivan Bortolotto,CONSTRUCAO,Item 159,4,"R$ 150,26","R$ 0,00",Loja física,Faturado
+90007,2026-06-05,Renata Fontoura,São Sepé,Rosane Pilla,Construção,Item 224,2,"R$ 327,67","R$ 31,40",WhatsApp,Faturado
+90008,2026-03-13,Larissa Souza,Júlio de Castilhos,Rosane Pilla,Elétrica,Item 216,3,"R$ 108,65","R$ 46,78",WhatsApp,Faturado
+90009,2026-07-21,Simone Dutra Almeida,Santa Maria,Sergio Weber,JARDINAGEM,Item 133,5,"R$ 110,41","R$ 28,01",WhatsApp,Faturado
+90010,2026-06-18,Cesar Ferreira,Júlio de Castilhos,Marta Dutra,Tintas,Item 245,3,"R$ 201,74","R$ 0,00",Loja física,Faturado
+90011,2026-06-24,Everton Menezes,Restinga Sêca,Cleber Antunes,CONSTRUCAO,Item 292,1,"R$ 385,02","R$ 0,00",Loja física,Faturado
+90012,2026-08-10,Gabriela Pilla,Santa Maria,Rosane Pilla,Jardinagem,Item 297,1,"R$ 99,41","R$ 0,00",Loja física,Faturado
+90013,2026-01-16,Camila Machado Zanella,Júlio de Castilhos,Sergio Weber,Jardinagem,Item 215,2,"R$ 130,41","R$ 0,00",Loja física,Faturado
+90014,2026-05-25,Vinicius Rossi,Cachoeira do Sul,Cleber Antunes,FERRAMENTAS,Item 348,3,"R$ 144,55","R$ 49,52",Site,Cancelado
+90015,2026-08-03,Andre Lima,Santa Maria,Cleber Antunes,Hidráulica,Item 204,2,"R$ 122,78","R$ 34,78",WhatsApp,Faturado
+90016,2026-02-03,Tatiane Menezes,Júlio de Castilhos,Ivan Bortolotto,Hidráulica,Item 324,1,"R$ 116,22","R$ 44,60",Telefone,Faturado
+90017,2026-05-15,Vinicius Pilla Zanella,Santa Maria,Rosane Pilla,TINTAS,Item 131,5,"R$ 277,39","R$ 19,94",Telefone,Faturado
+90018,2026-05-20,Rosane Vargas,Santa Maria,Ivan Bortolotto,Tintas,Item 258,4,"R$ 184,55","R$ 0,00",Loja física,Faturado
+90019,2026-08-25,Cesar Almeida Machado,São Sepé,Cleber Antunes,Construção,Item 316,4,"R$ 234,22","R$ 25,03",Site,Faturado
+90020,2026-04-09,Patricia Lima,Santa Maria,Rosane Pilla,FERRAMENTAS,Item 239,1,"R$ 112,09","R$ 0,00",Loja física,Cancelado
+90021,2026-05-13,Eduarda Pilla Gomes,Santa Maria,Cleber Antunes,Tintas,Item 156,2,"R$ 316,23","R$ 57,95",WhatsApp,Cancelado
+90022,2026-07-08,Otavio Rossi,São Sepé,Rosane Pilla,Ferramentas,Item 100,2,"R$ 91,02","R$ 0,00",Loja física,Faturado
+90023,2026-05-27,Tatiane Silva,São Sepé,Ivan Bortolotto,Ferramentas,Item 123,4,"R$ 221,13","R$ 0,00",Loja física,Faturado
+90024,2026-04-22,Bianca Rossi,Santa Maria,Cleber Antunes,ELETRICA,Item 267,3,"R$ 107,88","R$ 0,00",Loja física,Faturado
+90025,2026-01-23,Joao Martins,Santa Maria,Rosane Pilla,Jardinagem,Item 278,4,"R$ 121,15","R$ 34,36",Site,Faturado
+90026,2026-04-02,Priscila Souza,São Sepé,Sergio Weber,Ferramentas,Item 149,1,"R$ 138,47","R$ 0,00",Loja física,Faturado
+90027,2026-05-14,Gustavo Bueno,Santa Maria,Cleber Antunes,Jardinagem,Item 102,1,"R$ 78,08","R$ 0,00",Loja física,Faturado
+90028,2026-08-04,Paulo Martins,São Sepé,Rosane Pilla,Elétrica,Item 133,3,"R$ 101,53","R$ 0,00",Loja física,Faturado
+90029,2026-02-13,Mariana Nunes,São Sepé,Sergio Weber,CONSTRUCAO,Item 197,1,"R$ 242,29","R$ 20,06",WhatsApp,Faturado
+90030,2026-02-20,Adriana Cardoso,Santa Maria,Marta Dutra,Jardinagem,Item 180,1,"R$ 58,28","R$ 22,26",WhatsApp,Faturado
+90031,2026-07-23,Rafael Dutra,Júlio de Castilhos,Cleber Antunes,Ferramentas,Item 255,2,a combinar,"R$ 35,19",WhatsApp,Faturado
+90032,2026-02-18,Adriana Souza,Santa Maria,Rosane Pilla,Jardinagem,Item 350,5,"R$ 113,87","R$ 18,26",WhatsApp,Faturado
+90033,2026-03-03,Nelson Almeida,Júlio de Castilhos,Cleber Antunes,Ferramentas,Item 318,1,"R$ 152,74","R$ 62,89",WhatsApp,Faturado
+90034,2026-03-24,Juliana Vargas,Santa Maria,Rosane Pilla,TINTAS,Item 123,1,"R$ 228,19","R$ 0,00",Loja física,Faturado
+90035,2026-02-24,Marcos Pereira,Santa Maria,Rosane Pilla,Elétrica,Item 118,4,"R$ 97,42","R$ 46,77",Telefone,Faturado
+90036,2026-02-13,Amanda Feltrin Zanella,Santa Maria,Marta Dutra,TINTAS,Item 343,1,"R$ 115,91","R$ 49,95",Site,Faturado
+90037,2026-05-28,Leticia Lima,Santa Maria,Marta Dutra,HIDRAULICA,Item 346,8,"R$ 47,09","R$ 25,59",Telefone,Faturado
+90038,2026-04-24,Paulo Brum,São Sepé,Rosane Pilla,Hidráulica,Item 226,4,"R$ 105,75","R$ 62,72",WhatsApp,Faturado
+90039,2026-03-16,Mariana Almeida,Restinga Sêca,Cleber Antunes,TINTAS,Item 195,2,"R$ 246,47","R$ 0,00",Loja física,Faturado
+90040,2026-06-18,Ana Lima,Santa Maria,Cleber Antunes,CONSTRUCAO,Item 342,4,"R$ 249,16","R$ 27,37",WhatsApp,Faturado
+90041,2026-07-21,Nelson Nunes Weber,Júlio de Castilhos,Marta Dutra,Tintas,Item 147,3,"R$ 172,39","R$ 56,03",Site,Faturado
+90042,2026-03-10,Fernanda Kunz,Restinga Sêca,Marta Dutra,Elétrica,Item 296,1,"R$ 104,92","R$ 0,00",Loja física,Faturado
+90043,2026-08-19,Everton Bueno,Santa Maria,Cleber Antunes,ELETRICA,Item 199,7,"R$ 81,30","R$ 0,00",Loja física,Faturado
+90044,2026-06-03,Renata Rocha,São Sepé,Sergio Weber,Elétrica,Item 224,0,"R$ 47,26","R$ 49,55",Telefone,Faturado
+90045,2026-07-09,Nelson Ribeiro,Cachoeira do Sul,Ivan Bortolotto,Construção,Item 298,1,"R$ 234,69","R$ 0,00",Loja física,Faturado
+90046,2026-08-18,Alexandre Dutra Silva,Restinga Sêca,Rosane Pilla,Jardinagem,Item 122,5,"R$ 99,72","R$ 23,25",WhatsApp,Faturado
+90047,2026-01-02,Camila Sartori,São Sepé,Rosane Pilla,Construção,Item 317,1,"R$ 283,56","R$ 52,78",WhatsApp,Faturado
+90048,2026-06-11,Bruno Bueno,São Sepé,Cleber Antunes,Tintas,Item 106,2,"R$ 135,06","R$ 0,00",Loja física,Faturado
+90049,2026-08-04,Rosane Weber Kunz,Santa Maria,Ivan Bortolotto,Ferramentas,Item 365,2,"R$ 205,19","R$ 52,23",WhatsApp,Faturado
+90050,2026-08-28,Maria Bortolotto Rodrigues,Santa Maria,Sergio Weber,JARDINAGEM,Item 214,4,"R$ 80,67","R$ 41,23",Site,Faturado
+90051,2026-08-12,Luciana Silva Zanella,Santa Maria,Sergio Weber,Jardinagem,Item 192,3,"R$ 60,05","R$ 0,00",Loja física,Faturado
+90052,2026-08-27,Joao Gomes,Restinga Sêca,Cleber Antunes,Construção,Item 114,2,"R$ 236,80","R$ 57,48",WhatsApp,Faturado
+90053,2026-03-20,Daniela Pilla,Restinga Sêca,Marta Dutra,Ferramentas,Item 125,3,"R$ 94,57","R$ 26,25",WhatsApp,Faturado
+90054,2026-05-27,Eduarda Zanella,Santa Maria,Cleber Antunes,ELETRICA,Item 268,6,"R$ 92,05","R$ 0,00",Loja física,Faturado
+90055,2026-08-05,Mariana Rossi,Santa Maria,Ivan Bortolotto,HIDRAULICA,Item 118,4,"R$ 67,67","R$ 0,00",Loja física,Faturado
+90056,2026-03-23,Leticia Bueno,São Sepé,Cleber Antunes,Jardinagem,Item 334,4,"R$ 114,11","R$ 45,81",Site,Faturado
+90057,2026-03-25,Ana Bueno,São Sepé,Marta Dutra,JARDINAGEM,Item 124,4,"R$ 84,48","R$ 46,83",Telefone,Faturado
+90058,2026-06-29,Gabriela Vargas Gomes,Restinga Sêca,Ivan Bortolotto,Tintas,Item 368,1,"R$ 284,34","R$ 43,72",Site,Faturado
+90059,2026-05-07,Priscila Bueno,Santa Maria,Cleber Antunes,ELETRICA,Item 365,5,"R$ 43,83","R$ 0,00",Loja física,Faturado
+90060,2026-01-16,Larissa Brum Pilla,São Sepé,Cleber Antunes,Hidráulica,Item 232,3,"R$ 77,05","R$ 23,66",Site,Faturado
+90061,2026-07-30,Gustavo Lima Cardoso,Restinga Sêca,Ivan Bortolotto,CONSTRUCAO,Item 265,1,"R$ 358,53","R$ 41,28",WhatsApp,Faturado
+90062,2026-01-16,Rafael Cardoso Nunes,Restinga Sêca,Rosane Pilla,Ferramentas,Item 122,2,"R$ 141,82","R$ 19,78",Site,Faturado
+90063,2026-07-09,Nelson Sartori,São Sepé,Marta Dutra,Jardinagem,Item 102,4,"R$ 56,40","R$ 0,00",Loja física,Faturado
+90064,2026-04-08,Renata Goulart Ribeiro,Restinga Sêca,Cleber Antunes,JARDINAGEM,Item 261,2,"R$ 85,42","R$ 20,28",Telefone,Faturado
+90065,2026-04-07,Larissa Carvalho Zanella,Santa Maria,Cleber Antunes,Hidráulica,Item 256,1,"R$ 77,25","R$ 24,54",Telefone,Faturado
+90066,2026-04-20,Tiago Souza,Júlio de Castilhos,Cleber Antunes,JARDINAGEM,Item 261,3,"R$ 114,30","R$ 42,47",Telefone,Faturado
+90067,2026-05-11,Douglas Souza Dutra,Júlio de Castilhos,Ivan Bortolotto,Ferramentas ,Item 261,3,"R$ 94,22","R$ 40,18",Telefone,Faturado
+90068,2026-07-27,Larissa Weber Vargas,Santa Maria,Marta Dutra,Jardinagem ,Item 374,1,"R$ 96,48","R$ 27,55",Telefone,Faturado
+90069,2026-02-25,Elisa Ribeiro Brum,São Sepé,Cleber Antunes,Hidráulica,Item 198,6,"R$ 52,82","R$ 0,00",Loja física,Faturado
+90070,2026-06-10,Sergio Souza Pilla,Júlio de Castilhos,Marta Dutra,Elétrica,Item 122,4,"R$ 73,97","R$ 0,00",Loja física,Faturado
+90071,2026-08-06,Lucas Pereira,São Sepé,Cleber Antunes,Tintas,Item 289,1,"R$ 138,25","R$ 0,00",Loja física,Faturado
+90072,2026-02-23,Adriana Weber,Cachoeira do Sul,Sergio Weber,Ferramentas,Item 358,1,"R$ 153,30","R$ 33,92",WhatsApp,Faturado
+90073,2026-04-01,Cesar Feltrin,São Sepé,Rosane Pilla,Tintas,Item 116,5,"R$ 207,72","R$ 0,00",Loja física,Faturado
+90074,2026-02-23,Bruna Sartori,Restinga Sêca,Ivan Bortolotto,Tintas,Item 130,2,"R$ 205,14","R$ 0,00",Loja física,Faturado
+90075,2026-08-18,Gabriela Marques,Santa Maria,Rosane Pilla,Jardinagem,Item 173,1,"R$ 79,79","R$ 29,90",Site,Faturado
+90076,2026-02-03,Eduarda Fontoura,Cachoeira do Sul,Ivan Bortolotto,FERRAMENTAS,Item 334,1,"R$ 153,72","R$ 51,38",WhatsApp,Faturado
+90077,2026-04-14,Amanda Marques,Santa Maria,Marta Dutra,JARDINAGEM,Item 233,1,"R$ 126,20","R$ 22,11",WhatsApp,Faturado
+90078,2026-01-26,Andre Barcellos,Cachoeira do Sul,Cleber Antunes,Hidráulica,Item 225,1,"R$ 77,38","R$ 18,01",WhatsApp,Cancelado
+90079,2026-04-16,Matheus Dutra,São Sepé,Cleber Antunes,Hidráulica,Item 195,5,"R$ 91,52","R$ 0,00",Loja física,Faturado
+90080,2026-08-27,Paulo Nunes Sartori,Santa Maria,Rosane Pilla,CONSTRUCAO,Item 326,3,"R$ 295,75","R$ 0,00",Loja física,Faturado
+90081,2026-07-13,Rodrigo Feltrin,Santa Maria,Cleber Antunes,Jardinagem,Item 200,1,"R$ 73,52","R$ 0,00",Loja física,Faturado
+90082,2026-03-26,Daniela Ribeiro,Santa Maria,Sergio Weber,Construção,Item 150,2,"R$ 384,57","R$ 24,78",WhatsApp,Faturado
+90083,2026-06-01,Rosane Feltrin Ferreira,Cachoeira do Sul,Ivan Bortolotto,CONSTRUCAO,Item 120,1,"R$ 224,94","R$ 0,00",Loja física,Faturado
+90084,2026-05-22,Camila Sartori,Cachoeira do Sul,Rosane Pilla,Ferramentas,Item 315,4,"R$ 122,12","R$ 0,00",Loja física,Faturado
+90085,2026-05-04,Felipe Rodrigues Brum,São Sepé,Cleber Antunes,Ferramentas,Item 366,1,"R$ 215,05","R$ 0,00",Loja física,Faturado
+90086,2026-08-06,Nelson Dutra,São Sepé,Ivan Bortolotto,ELETRICA,Item 276,4,"R$ 93,68","R$ 0,00",Loja física,Faturado
+90087,2026-06-03,Daniela Pilla,Júlio de Castilhos,Rosane Pilla,Ferramentas,Item 138,3,"R$ 138,56","R$ 54,23",Telefone,Faturado
+90088,2026-03-30,Gabriela Souza,Restinga Sêca,Rosane Pilla,Ferramentas,Item 263,1,"R$ 242,63","R$ 33,61",Telefone,Faturado
+90089,2026-03-16,Vanessa Lima Martins,Santa Maria,Marta Dutra,Construção,Item 239,2,"R$ 312,39","R$ 39,58",Telefone,Faturado
+90090,2026-07-06,Rodrigo Lima,São Sepé,Rosane Pilla,Elétrica,Item 148,5,"R$ 45,55","R$ 19,10",Site,Faturado
+90091,2026-01-21,Vanessa Rocha,Restinga Sêca,Rosane Pilla,Ferramentas,Item 376,1,"R$ 157,33","R$ 0,00",Loja física,Faturado
+90092,2026-08-19,Rodrigo Nunes Martins,Restinga Sêca,Sergio Weber,JARDINAGEM,Item 351,2,"R$ 155,63","R$ 0,00",Loja física,Faturado
+90093,2026-02-03,Alexandre Fontoura,Santa Maria,Marta Dutra,CONSTRUCAO,Item 307,2,"R$ 141,40","R$ 49,23",Telefone,Faturado
+90094,2026-03-16,Cristiane Costa,Cachoeira do Sul,Sergio Weber,Hidráulica,Item 252,1,"R$ 98,88","R$ 18,27",WhatsApp,Faturado
+90095,2026-03-27,Douglas Almeida Fagundes,Restinga Sêca,Rosane Pilla,Ferramentas,Item 282,6,"R$ 190,23","R$ 0,00",Loja física,Faturado
+90096,2026-02-11,Willian Ribeiro,São Sepé,Cleber Antunes,Elétrica,Item 207,5,"R$ 51,56","R$ 54,45",Telefone,Faturado
+90097,2026-01-12,Marcos Trindade,Santa Maria,Sergio Weber,JARDINAGEM,Item 234,4,"R$ 85,83","R$ 24,00",Site,Faturado
+90098,2026-08-28,Gabriela Rossi,Santa Maria,Ivan Bortolotto,ELETRICA,Item 133,1,"R$ 59,24","R$ 0,00",Loja física,Faturado
+90099,2026-03-03,Tatiane Fagundes,Cachoeira do Sul,Cleber Antunes,Tintas,Item 220,4,"R$ 282,16","R$ 0,00",Loja física,Faturado
+90100,2026-03-06,Patricia Dutra Kunz,São Sepé,Rosane Pilla,ELETRICA,Item 203,2,"R$ 90,38","R$ 53,12",WhatsApp,Faturado
+90101,2026-06-11,Nelson Trindade,Cachoeira do Sul,Rosane Pilla,Jardinagem,Item 113,6,"R$ 134,61","R$ 57,60",Site,Faturado
+90102,2026-02-05,Bianca Lima,Restinga Sêca,Sergio Weber,Ferramentas,Item 314,2,"R$ 148,99","R$ 60,00",WhatsApp,Faturado
+90103,2026-03-04,Tiago Pilla,Restinga Sêca,Ivan Bortolotto,Jardinagem,Item 345,2,"R$ 81,76","R$ 63,54",Telefone,Faturado
+90104,2026-02-12,Tatiane Pilla,São Sepé,Cleber Antunes,Ferramentas,Item 114,6,"R$ 229,09","R$ 61,77",Telefone,Faturado
+90105,2026-05-20,Cristiane Lima Nunes,Júlio de Castilhos,Cleber Antunes,Ferramentas,Item 304,2,"R$ 167,86","R$ 44,36",Telefone,Faturado
+90106,2026-08-05,Fernanda Rocha,São Sepé,Ivan Bortolotto,Construção,Item 226,3,"R$ 337,80","R$ 52,78",Telefone,Faturado
+90107,2026-08-07,Matheus Souza,Restinga Sêca,Ivan Bortolotto,Elétrica,Item 274,2,"R$ 92,15","R$ 0,00",Loja física,Faturado
+90108,2026-02-16,Camila Oliveira,Santa Maria,Marta Dutra,Construção,Item 371,5,"R$ 198,76","R$ 43,73",WhatsApp,Faturado
+90109,2026-07-31,Vanessa Trindade Bortolotto,Santa Maria,Ivan Bortolotto,Jardinagem,Item 258,4,"R$ 114,86","R$ 0,00",Loja física,Faturado
+90110,2026-03-27,Mariana Pilla,São Sepé,Cleber Antunes,CONSTRUCAO,Item 208,4,"R$ 343,60","R$ 35,44",Telefone,Faturado
+90111,2026-08-03,Diego Beltrame Vargas,Santa Maria,Marta Dutra,Hidráulica,Item 348,3,"R$ 52,51","R$ 56,68",Site,Faturado
+90112,2026-01-02,Camila Schneider Brum,Santa Maria,Marta Dutra,Elétrica,Item 243,5,"R$ 49,44","R$ 0,00",Loja física,Faturado
+90113,2026-03-27,Tatiane Zanella,Santa Maria,Ivan Bortolotto,Elétrica,Item 226,2,"R$ 62,93","R$ 0,00",Loja física,Faturado
+90114,2026-03-18,Aline Feltrin,Santa Maria,Marta Dutra,CONSTRUCAO ,Item 271,1,,"R$ 0,00",Loja física,Faturado
+90115,2026-05-12,Jessica Rossi,Cachoeira do Sul,Cleber Antunes,Tintas,Item 264,1,"R$ 220,28","R$ 21,59",WhatsApp,Faturado
+90116,2026-06-09,Willian Pereira Machado,Júlio de Castilhos,Marta Dutra,Construção,Item 280,0,"R$ 221,81","R$ 49,01",Site,Faturado
+90117,2026-08-06,Maria Sartori,São Sepé,Rosane Pilla,Tintas,Item 299,5,"R$ 144,56","R$ 0,00",Loja física,Faturado
+90118,2026-01-12,Sabrina Weber,Restinga Sêca,Ivan Bortolotto,Ferramentas,Item 176,1,"R$ 157,00","R$ 32,97",Site,Faturado
+90119,2026-06-09,Nathalia Moraes,Santa Maria,Marta Dutra,JARDINAGEM,Item 333,1,"R$ 88,41","R$ 41,55",WhatsApp,Cancelado
+90120,2026-01-08,Otavio Zanella,Cachoeira do Sul,Ivan Bortolotto,HIDRAULICA,Item 311,2,"R$ 118,88","R$ 0,00",Loja física,Faturado
+90121,2026-08-07,Simone Almeida,Restinga Sêca,Marta Dutra,Ferramentas,Item 119,3,"R$ 214,46","R$ 30,71",WhatsApp,Faturado
+90122,2026-02-27,Luciana Fontoura,São Sepé,Ivan Bortolotto,HIDRAULICA,Item 131,1,"R$ 58,97","R$ 27,27",Telefone,Faturado
+90123,2026-04-23,Camila Marques,Santa Maria,Cleber Antunes,Jardinagem,Item 305,3,"R$ 56,97","R$ 0,00",Loja física,Faturado
+90124,2026-01-16,Gabriela Pereira,Restinga Sêca,Rosane Pilla,Elétrica,Item 299,3,"R$ 71,88","R$ 0,00",Loja física,Faturado
+90125,2026-01-15,Aline Pereira,São Sepé,Cleber Antunes,FERRAMENTAS,Item 190,1,"R$ 99,34","R$ 42,29",Telefone,Faturado
+90126,2026-06-04,Fabio Feltrin,Júlio de Castilhos,Cleber Antunes,Construção,Item 261,4,"R$ 238,41","R$ 54,41",WhatsApp,Faturado
+90127,2026-05-08,Paulo Gomes Cardoso,Santa Maria,Cleber Antunes,Elétrica,Item 284,2,"R$ 78,98","R$ 18,99",WhatsApp,Faturado
+90128,2026-05-25,Felipe Beltrame,São Sepé,Cleber Antunes,Tintas,Item 202,1,"R$ 222,04","R$ 23,03",Telefone,Faturado
+90129,2026-02-24,Nelson Oliveira,Júlio de Castilhos,Cleber Antunes,FERRAMENTAS,Item 251,3,"R$ 223,88","R$ 26,87",WhatsApp,Faturado
+90130,2026-03-06,Jessica Vargas Gomes,Júlio de Castilhos,Rosane Pilla,Elétrica ,Item 204,2,"R$ 74,46","R$ 20,98",Site,Faturado
+90131,2026-02-13,Maicon Zanella,Santa Maria,Marta Dutra,Construção,Item 168,2,"R$ 290,28","R$ 0,00",Loja física,Faturado
+90132,2026-06-10,Jessica Costa,Restinga Sêca,Cleber Antunes,TINTAS,Item 241,1,"R$ 271,58","R$ 0,00",Loja física,Faturado
+90133,2026-05-22,Cesar Kunz Almeida,São Sepé,Cleber Antunes,FERRAMENTAS,Item 258,3,"R$ 128,98","R$ 35,41",WhatsApp,Faturado
+90134,2026-03-02,Bruna Oliveira Kunz,Júlio de Castilhos,Cleber Antunes,TINTAS,Item 117,2,"R$ 122,60","R$ 58,42",WhatsApp,Faturado
+90135,2026-08-10,Fabio Weber,Santa Maria,Rosane Pilla,CONSTRUCAO,Item 181,1,"R$ 160,23","R$ 0,00",Loja física,Faturado
+90136,2026-02-06,Elisa Menezes,Santa Maria,Sergio Weber,Construção,Item 101,4,"R$ 347,01","R$ 36,57",Telefone,Faturado
+90137,2026-01-23,Cristiane Lima Ribeiro,Santa Maria,Cleber Antunes,HIDRAULICA,Item 251,4,"R$ 74,95","R$ 37,31",WhatsApp,Faturado
+90138,2026-03-11,Lucas Barcellos Bueno,Restinga Sêca,Rosane Pilla,Tintas ,Item 356,4,"R$ 295,91","R$ 46,94",Telefone,Faturado
+90139,2026-08-25,Daniela Gomes,Restinga Sêca,Sergio Weber,JARDINAGEM ,Item 255,4,"R$ 57,01","R$ 0,00",Loja física,Faturado
+90140,2026-07-20,Alexandre Menezes,Cachoeira do Sul,Ivan Bortolotto,HIDRAULICA,Item 350,1,"R$ 110,42","R$ 33,26",Telefone,Faturado
+90141,2026-06-22,Sergio Weber,Restinga Sêca,Ivan Bortolotto,Tintas,Item 253,2,"R$ 319,92","R$ 0,00",Loja física,Faturado
+90142,2026-01-29,Bianca Sartori Fontoura,Restinga Sêca,Marta Dutra,FERRAMENTAS,Item 166,5,"R$ 181,47","R$ 28,17",Telefone,Cancelado
+90143,2026-08-19,Carla Bortolotto,Cachoeira do Sul,Sergio Weber,ELETRICA,Item 336,1,"R$ 59,45","R$ 39,80",WhatsApp,Cancelado
+90144,2026-08-26,Sabrina Cardoso,Júlio de Castilhos,Marta Dutra,Ferramentas,Item 121,4,"R$ 239,48","R$ 0,00",Loja física,Faturado
+90145,2026-07-02,Larissa Weber,São Sepé,Marta Dutra,Construção,Item 349,2,"R$ 272,26","R$ 0,00",Loja física,Faturado
+90146,2026-02-20,Douglas Moraes Barcellos,Restinga Sêca,Rosane Pilla,Construção,Item 298,3,"R$ 247,91","R$ 0,00",Loja física,Faturado
+90147,2026-08-20,Matheus Gomes Pereira,Júlio de Castilhos,Ivan Bortolotto,Jardinagem,Item 342,3,"R$ 119,98","R$ 0,00",Loja física,Faturado
+90148,2026-03-23,Leticia Moraes Souza,Santa Maria,Cleber Antunes,Construção,Item 315,1,"R$ 285,94","R$ 27,95",WhatsApp,Faturado
+90149,2026-02-23,Maria Bueno Souza,Restinga Sêca,Sergio Weber,Elétrica,Item 323,5,"R$ 96,98","R$ 29,13",Telefone,Faturado
+90150,2026-06-15,Eduarda Marques Dutra,Cachoeira do Sul,Cleber Antunes,Tintas,Item 125,2,"R$ 168,73","R$ 0,00",Loja física,Faturado
+90151,2026-05-27,Bruna Bortolotto,Santa Maria,Marta Dutra,Jardinagem,Item 368,1,"R$ 97,89","R$ 51,51",Telefone,Faturado
+90152,2026-02-06,Leticia Dutra Pereira,Santa Maria,Rosane Pilla,Construção,Item 232,1,"R$ 377,93","R$ 0,00",Loja física,Faturado
+90153,2026-03-12,Eduarda Carvalho,Santa Maria,Ivan Bortolotto,Elétrica,Item 142,4,"R$ 92,78","R$ 0,00",Loja física,Faturado
+90154,2026-02-09,Nathalia Kunz Pereira,São Sepé,Marta Dutra,CONSTRUCAO,Item 320,2,"R$ 269,42","R$ 44,52",Telefone,Faturado
+90155,2026-05-05,Rodrigo Moraes,Cachoeira do Sul,Rosane Pilla,FERRAMENTAS,Item 242,4,"R$ 199,79","R$ 43,03",WhatsApp,Cancelado
+90156,2026-03-20,Maicon Marques Carvalho,São Sepé,Marta Dutra,FERRAMENTAS,Item 191,1,"R$ 245,76","R$ 57,54",WhatsApp,Faturado
+90157,2026-01-26,Fernanda Carvalho Sartori,Restinga Sêca,Ivan Bortolotto,Hidráulica,Item 205,2,"R$ 100,36","R$ 63,10",WhatsApp,Faturado
+90158,2026-06-24,Rafael Moraes,Santa Maria,Rosane Pilla,FERRAMENTAS,Item 265,1,"R$ 129,86","R$ 23,29",Telefone,Faturado
+90159,2026-04-10,Vinicius Fagundes,Restinga Sêca,Cleber Antunes,ELETRICA,Item 255,3,"R$ 107,23","R$ 47,27",Site,Faturado
+90160,2026-08-20,Renata Ribeiro,Santa Maria,Sergio Weber,Jardinagem,Item 349,2,"R$ 127,80","R$ 64,56",WhatsApp,Faturado
+90161,2026-01-30,Maicon Carvalho,Santa Maria,Rosane Pilla,Construção,Item 291,2,"R$ 168,56","R$ 63,49",Site,Faturado
+90162,2026-04-13,Gabriela Barcellos,Santa Maria,Sergio Weber,TINTAS,Item 205,1,"R$ 284,57","R$ 61,02",Telefone,Faturado
+90163,2026-03-26,Paulo Trindade,Cachoeira do Sul,Ivan Bortolotto,CONSTRUCAO,Item 297,1,"R$ 221,57","R$ 0,00",Loja física,Faturado
+90164,2026-06-29,Nathalia Feltrin,Júlio de Castilhos,Cleber Antunes,Elétrica,Item 144,2,"R$ 76,73","R$ 0,00",Loja física,Faturado
+90165,2026-03-23,Thiago Pilla,Santa Maria,Ivan Bortolotto,JARDINAGEM,Item 142,1,"R$ 96,11","R$ 0,00",Loja física,Faturado
+90166,2026-06-04,Camila Menezes,Júlio de Castilhos,Marta Dutra,TINTAS,Item 354,5,"R$ 154,21","R$ 0,00",Loja física,Cancelado
+90167,2026-03-05,Bruna Vargas Souza,Santa Maria,Marta Dutra,Ferramentas,Item 148,3,"R$ 235,40","R$ 0,00",Loja física,Faturado
+90168,2026-05-19,Vanessa Schneider Fontoura,Restinga Sêca,Ivan Bortolotto,FERRAMENTAS,Item 317,4,"R$ 166,08","R$ 38,26",Telefone,Faturado
+90169,2026-03-13,Renata Barcellos,Restinga Sêca,Rosane Pilla,Ferramentas,Item 265,3,"R$ 121,50","R$ 34,32",WhatsApp,Faturado
+90170,2026-03-27,Amanda Cardoso,Restinga Sêca,Ivan Bortolotto,JARDINAGEM,Item 232,1,"R$ 78,60","R$ 34,54",WhatsApp,Faturado
+90171,2026-06-10,Pedro Zanella,Júlio de Castilhos,Sergio Weber,Ferramentas,Item 352,5,"R$ 88,10","R$ 0,00",Loja física,Faturado
+90172,2026-01-28,Tatiane Bueno,Santa Maria,Cleber Antunes,Jardinagem,Item 161,2,"R$ 88,20","R$ 44,20",Telefone,Faturado
+90173,2026-04-03,Willian Menezes,Cachoeira do Sul,Cleber Antunes,Tintas,Item 284,4,"R$ 301,03","R$ 28,75",Telefone,Faturado
+90174,2026-08-03,Joao Vargas Carvalho,Santa Maria,Cleber Antunes,Elétrica,Item 165,2,"R$ 98,78","R$ 50,50",WhatsApp,Faturado
+90175,2026-01-05,Adriana Lima Marques,Cachoeira do Sul,Rosane Pilla,Tintas,Item 300,6,"R$ 181,15","R$ 0,00",Loja física,Faturado
+90176,2026-04-02,Luciana Gomes Weber,Restinga Sêca,Ivan Bortolotto,Hidráulica,Item 346,3,"R$ 45,43","R$ 44,39",WhatsApp,Cancelado
+90177,2026-05-13,Willian Pilla,Restinga Sêca,Ivan Bortolotto,Hidráulica,Item 239,1,"R$ 106,29","R$ 47,37",WhatsApp,Faturado
+90178,2026-04-20,Diego Weber,Santa Maria,Cleber Antunes,FERRAMENTAS,Item 167,3,"R$ 101,16","R$ 0,00",Loja física,Cancelado
+90179,2026-06-19,Gustavo Lima Santos,Santa Maria,Rosane Pilla,Hidráulica,Item 303,2,"R$ 63,32","R$ 33,26",WhatsApp,Faturado
+90180,2026-07-06,Eduardo Feltrin,Júlio de Castilhos,Rosane Pilla,Tintas,Item 193,3,"R$ 184,93","R$ 57,18",WhatsApp,Faturado
+90181,2026-06-30,Mariana Kunz,Cachoeira do Sul,Marta Dutra,Tintas,Item 359,1,"R$ 248,71","R$ 52,11",WhatsApp,Faturado
+90182,2026-07-10,Willian Beltrame,Restinga Sêca,Marta Dutra,Hidráulica,Item 154,2,"R$ 50,23","R$ 0,00",Loja física,Faturado
+90183,2026-06-19,Eduarda Machado,Santa Maria,Rosane Pilla,Elétrica,Item 274,1,"R$ 55,70","R$ 39,04",Site,Faturado
+90184,2026-02-06,Douglas Menezes,Santa Maria,Cleber Antunes,Jardinagem,Item 366,6,"R$ 156,21","R$ 0,00",Loja física,Faturado
+90185,2026-08-21,Fernanda Beltrame,Restinga Sêca,Cleber Antunes,Tintas,Item 143,2,"R$ 234,79","R$ 0,00",Loja física,Cancelado
+90186,2026-04-27,Willian Silva,Júlio de Castilhos,Rosane Pilla,Ferramentas,Item 256,3,"R$ 203,20","R$ 26,41",WhatsApp,Faturado
+90187,2026-01-20,Mariana Marques,Restinga Sêca,Cleber Antunes,Jardinagem,Item 215,2,"R$ 93,70","R$ 0,00",Loja física,Faturado
+90188,2026-02-24,Nathalia Ferreira,Júlio de Castilhos,Marta Dutra,Ferramentas,Item 375,2,"R$ 196,40","R$ 32,09",WhatsApp,Cancelado
+90189,2026-01-15,Willian Rocha,Santa Maria,Rosane Pilla,ELETRICA,Item 124,1,"R$ 94,47","R$ 51,25",Telefone,Faturado
+90190,2026-01-08,Andre Silva,Júlio de Castilhos,Marta Dutra,TINTAS ,Item 244,3,"R$ 159,75","R$ 0,00",Loja física,Faturado
+90191,2026-07-31,Cristiane Pilla Oliveira,Santa Maria,Cleber Antunes,Construção,Item 142,0,"R$ 250,45","R$ 63,48",Site,Faturado
+90192,2026-02-25,Bianca Pilla Rocha,Santa Maria,Cleber Antunes,Jardinagem,Item 326,1,"R$ 152,86","R$ 0,00",Loja física,Faturado
+90193,2026-02-25,Daniela Barcellos,Santa Maria,Rosane Pilla,Ferramentas,Item 229,5,"R$ 233,48","R$ 0,00",Loja física,Faturado
+90194,2026-02-27,Cesar Dutra,Santa Maria,Ivan Bortolotto,Ferramentas,Item 270,1,"R$ 140,60","R$ 40,62",WhatsApp,Cancelado
+90195,2026-01-06,Joao Rocha,Restinga Sêca,Sergio Weber,ELETRICA,Item 306,4,"R$ 74,41","R$ 0,00",Loja física,Faturado
+90196,2026-03-26,Andre Moraes,Santa Maria,Ivan Bortolotto,Elétrica,Item 269,2,"R$ 92,18","R$ 51,46",Telefone,Faturado
+90197,2026-06-04,Jonas Fontoura Brum,Cachoeira do Sul,Sergio Weber,Jardinagem,Item 243,-1,"R$ 62,69","R$ 55,43",Telefone,Faturado
+90198,2026-01-15,Tatiane Bortolotto,Santa Maria,Sergio Weber,TINTAS,Item 125,7,"R$ 223,49","R$ 33,19",Site,Faturado
+90199,2026-08-21,Gabriela Carvalho,Santa Maria,Rosane Pilla,FERRAMENTAS,Item 129,3,"R$ 92,29","R$ 0,00",Loja física,Faturado
+90200,2026-07-15,Aline Gomes,Santa Maria,Marta Dutra,Ferramentas,Item 152,1,"R$ 158,59","R$ 0,00",Loja física,Faturado
+90201,2026-01-07,Jessica Sartori,São Sepé,Rosane Pilla,Jardinagem,Item 349,3,"R$ 68,54","R$ 0,00",Loja física,Faturado
+90202,2026-06-12,Adriana Moraes,Santa Maria,Sergio Weber,Tintas,Item 200,999,"R$ 153,08","R$ 19,92",Site,Faturado
+90203,2026-08-26,Carla Beltrame,Restinga Sêca,Ivan Bortolotto,Construção,Item 362,4,"R$ 215,11","R$ 64,95",Site,Faturado
+90204,2026-04-28,Leticia Zanella Costa,Santa Maria,Ivan Bortolotto,Tintas,Item 215,6,"R$ 290,53","R$ 51,44",WhatsApp,Faturado
+90205,2026-05-05,Felipe Vargas,Cachoeira do Sul,Ivan Bortolotto,Hidráulica,Item 214,1,"R$ 94,51","R$ 39,56",WhatsApp,Cancelado
+90206,2026-06-15,Thiago Schneider,Restinga Sêca,Marta Dutra,Elétrica,Item 301,3,"R$ 61,53","R$ 0,00",Loja física,Faturado
+90207,2026-07-15,Rodrigo Pilla,Santa Maria,Rosane Pilla,Elétrica,Item 213,2,"R$ 89,14","R$ 47,56",WhatsApp,Faturado
+90208,2026-08-25,Renata Dutra Rodrigues,Restinga Sêca,Ivan Bortolotto,Hidráulica,Item 102,1,"R$ 84,84","R$ 37,17",Telefone,Faturado
+90209,2026-01-02,Diego Ribeiro,Santa Maria,Cleber Antunes,Construção,Item 161,2,"R$ 145,39","R$ 45,39",WhatsApp,Faturado
+90210,2026-03-31,Cristiane Barcellos Almeida,São Sepé,Marta Dutra,ELETRICA,Item 218,4,"R$ 43,58","R$ 56,82",WhatsApp,Faturado
+90211,2026-07-02,Renata Pilla Pilla,São Sepé,Sergio Weber,Ferramentas,Item 290,4,"R$ 202,11","R$ 64,59",Site,Faturado
+90212,2026-01-05,Leonardo Gomes,São Sepé,Rosane Pilla,Hidráulica,Item 233,4,"R$ 121,09","R$ 48,06",WhatsApp,Faturado
+90213,2026-07-23,Luciana Beltrame Brum,Restinga Sêca,Cleber Antunes,Elétrica,Item 338,1,"R$ 101,79","R$ 42,97",Site,Faturado
+90214,2026-08-04,Gabriela Marques,Santa Maria,Sergio Weber,Elétrica,Item 152,3,"R$ 66,14","R$ 0,00",Loja física,Faturado
+90215,2026-07-02,Rafael Vargas Rodrigues,Cachoeira do Sul,Cleber Antunes,CONSTRUCAO,Item 274,1,"R$ 187,98","R$ 35,31",Telefone,Faturado
+90216,2026-04-02,Leonardo Costa Almeida,Cachoeira do Sul,Ivan Bortolotto,Ferramentas,Item 379,1,"R$ 110,23","R$ 50,58",WhatsApp,Faturado
+90217,2026-03-13,Adriana Pereira,Santa Maria,Marta Dutra,TINTAS,Item 144,1,"R$ 121,72","R$ 0,00",Loja física,Faturado
+90218,2026-05-12,Patricia Marques,São Sepé,Marta Dutra,JARDINAGEM,Item 187,1,"R$ 146,64","R$ 39,09",WhatsApp,Faturado
+90219,2026-05-29,Rafael Rocha,São Sepé,Rosane Pilla,Jardinagem,Item 262,2,"R$ 108,08","R$ 62,98",WhatsApp,Faturado
+90220,2026-07-31,Juliana Santos,Júlio de Castilhos,Sergio Weber,Hidráulica,Item 195,1,"R$ 79,89","R$ 19,57",WhatsApp,Faturado
+90221,2026-05-15,Bruna Zanella,Santa Maria,Cleber Antunes,FERRAMENTAS,Item 340,999,"R$ 179,71","R$ 0,00",Loja física,Faturado
+90222,2026-05-25,Cristiane Feltrin,Santa Maria,Marta Dutra,Ferramentas ,Item 333,2,"R$ 101,59","R$ 54,13",Site,Faturado
+90223,2026-05-29,Gustavo Barcellos Silva,São Sepé,Cleber Antunes,ELETRICA,Item 212,1,"R$ 88,47","R$ 0,00",Loja física,Faturado
+90224,2026-05-21,Elisa Beltrame,Restinga Sêca,Rosane Pilla,Jardinagem,Item 337,3,"R$ 111,94","R$ 0,00",Loja física,Faturado
+90225,2026-01-27,Sabrina Kunz,São Sepé,Sergio Weber,Ferramentas,Item 260,5,"R$ 96,52","R$ 41,69",Site,Faturado
+90226,2026-03-03,Pedro Zanella,São Sepé,Cleber Antunes,Elétrica,Item 196,4,"R$ 52,83","R$ 0,00",Loja física,Faturado
+90227,2026-07-01,Marcos Feltrin,Santa Maria,Marta Dutra,Jardinagem,Item 246,3,"R$ 55,54","R$ 0,00",Loja física,Faturado
+90228,2026-04-16,Larissa Barcellos Lima,Restinga Sêca,Sergio Weber,Ferramentas,Item 367,5,"R$ 213,40","R$ 0,00",Loja física,Faturado
+90229,2026-05-19,Sabrina Goulart Lima,Santa Maria,Cleber Antunes,Jardinagem,Item 182,5,"R$ 55,96","R$ 36,93",Telefone,Faturado
+90230,2026-06-12,Eduarda Barcellos,São Sepé,Rosane Pilla,Tintas,Item 238,5,"R$ 246,63","R$ 0,00",Loja física,Cancelado
+90231,2026-02-13,Joao Carvalho,Cachoeira do Sul,Rosane Pilla,ELETRICA ,Item 288,1,"R$ 111,98","R$ 64,96",Telefone,Faturado
+90232,2026-05-29,Elisa Carvalho,Restinga Sêca,Marta Dutra,FERRAMENTAS,Item 263,1,"R$ 117,15","R$ 0,00",Loja física,Faturado
+90233,2026-02-24,Thiago Rossi Machado,Santa Maria,Rosane Pilla,Jardinagem,Item 209,4,"R$ 87,15","R$ 37,82",Site,Faturado
+90234,2026-08-17,Adriana Nunes,São Sepé,Cleber Antunes,Hidráulica,Item 110,5,"R$ 57,05","R$ 56,74",Site,Faturado
+90235,2026-01-21,Rafael Dutra Barcellos,São Sepé,Cleber Antunes,Elétrica,Item 181,3,"R$ 61,63","R$ 0,00",Loja física,Faturado
+90236,2026-07-27,Tatiane Rossi,Júlio de Castilhos,Sergio Weber,Elétrica,Item 306,1,"R$ 90,21","R$ 50,42",WhatsApp,Faturado
+90237,2026-03-30,Otavio Machado,Júlio de Castilhos,Rosane Pilla,Ferramentas,Item 111,2,"R$ 160,82","R$ 38,93",Telefone,Faturado
+90238,2026-02-16,Maria Schneider,São Sepé,Marta Dutra,Tintas,Item 366,4,"R$ 188,64","R$ 52,17",Telefone,Faturado
+90239,2026-07-31,Adriana Trindade Brum,Cachoeira do Sul,Rosane Pilla,Construção,Item 371,1,"R$ 245,75","R$ 0,00",Loja física,Faturado
+90240,2026-05-29,Nathalia Weber Bortolotto,São Sepé,Sergio Weber,Tintas,Item 236,3,"R$ 201,49","R$ 0,00",Loja física,Faturado
+90241,2026-03-11,Bianca Martins,São Sepé,Rosane Pilla,Jardinagem,Item 312,2,"R$ 94,77","R$ 0,00",Loja física,Faturado
+90242,2026-04-14,Willian Pereira,Cachoeira do Sul,Cleber Antunes,Construção,Item 376,1,"R$ 142,96","R$ 0,00",Loja física,Cancelado
+90243,2026-02-18,Vanessa Silva,Santa Maria,Sergio Weber,Elétrica,Item 288,2,"R$ 63,67","R$ 0,00",Loja física,Faturado
+90244,2026-08-24,Felipe Costa,Cachoeira do Sul,Rosane Pilla,Hidráulica,Item 367,1,"R$ 58,03","R$ 0,00",Loja física,Faturado
+90245,2026-06-23,Nathalia Zanella Schneider,Santa Maria,Rosane Pilla,Construção,Item 323,4,"R$ 183,62","R$ 44,65",Site,Faturado
+90246,2026-02-03,Nathalia Ribeiro,Cachoeira do Sul,Cleber Antunes,TINTAS,Item 301,1,"R$ 271,88","R$ 53,69",Site,Faturado
+90247,2026-04-29,Carla Ferreira Vargas,Santa Maria,Sergio Weber,Ferramentas,Item 137,1,"R$ 99.999,00","R$ 0,00",Loja física,Faturado
+90248,2026-05-26,Sabrina Moraes Sartori,Santa Maria,Rosane Pilla,Jardinagem,Item 200,1,"R$ 126,29","R$ 0,00",Loja física,Faturado
+90249,2026-01-15,Eduarda Barcellos,Restinga Sêca,Ivan Bortolotto,Elétrica,Item 104,2,"R$ 105,91","R$ 0,00",Loja física,Faturado
+90250,2026-07-21,Douglas Machado,Santa Maria,Cleber Antunes,Jardinagem,Item 118,5,"R$ 153,85","R$ 0,00",Loja física,Faturado
+90251,2026-03-04,Cristiane Moraes,Restinga Sêca,Ivan Bortolotto,Ferramentas,Item 300,5,"R$ 165,33","R$ 29,86",Telefone,Faturado
+90252,2026-06-11,Rafael Pereira Rodrigues,Santa Maria,Ivan Bortolotto,Hidráulica,Item 193,1,"R$ 45,61","R$ 0,00",Loja física,Faturado
+90253,2026-05-13,Larissa Trindade,Santa Maria,Rosane Pilla,Ferramentas,Item 192,2,"R$ 230,17","R$ 52,78",Telefone,Faturado
+90254,2026-02-02,Eduarda Weber,São Sepé,Rosane Pilla,Hidráulica,Item 132,-1,"R$ 46,40","R$ 37,03",WhatsApp,Faturado
+90255,2026-06-18,Aline Machado Weber,Santa Maria,Sergio Weber,Jardinagem,Item 184,1,"R$ 69,10","R$ 36,73",WhatsApp,Faturado
+90256,2026-02-04,Maicon Martins,São Sepé,Marta Dutra,TINTAS,Item 349,2,"R$ 303,83","R$ 61,83",WhatsApp,Faturado
+90257,2026-03-17,Fernanda Trindade,Santa Maria,Ivan Bortolotto,Elétrica,Item 330,3,"R$ 103,20","R$ 0,00",Loja física,Faturado
+90258,2026-02-26,Vinicius Costa,Santa Maria,Sergio Weber,Hidráulica,Item 336,1,"R$ 62,77","R$ 0,00",Loja física,Faturado
+90259,2026-03-09,Nathalia Carvalho,Cachoeira do Sul,Cleber Antunes,Hidráulica,Item 375,5,"R$ 121,49","R$ 0,00",Loja física,Faturado
+90260,2026-04-02,Cesar Zanella Trindade,Santa Maria,Cleber Antunes,Hidráulica,Item 151,2,"R$ 98,02","R$ 57,50",Site,Faturado
+90261,2026-07-14,Cristiane Gomes Pilla,Santa Maria,Cleber Antunes,Ferramentas,Item 112,1,"R$ 102,38","R$ 0,00",Loja física,Faturado
+90262,2026-06-10,Tatiane Rodrigues Bueno,Cachoeira do Sul,Cleber Antunes,Ferramentas,Item 268,4,"R$ 162,72","R$ 0,00",Loja física,Faturado
+90263,2026-02-09,Fabio Menezes Marques,Cachoeira do Sul,Ivan Bortolotto,Jardinagem,Item 235,2,"R$ 116,12","R$ 53,79",Telefone,Faturado
+90264,2026-01-05,Matheus Pereira,Júlio de Castilhos,Rosane Pilla,JARDINAGEM ,Item 167,6,"R$ 145,43","R$ 0,00",Loja física,Faturado
+90265,2026-03-31,Eduardo Barcellos Fontoura,São Sepé,Cleber Antunes,Jardinagem,Item 152,1,"R$ 145,22","R$ 0,00",Loja física,Faturado
+90266,2026-04-09,Felipe Souza Ferreira,Restinga Sêca,Cleber Antunes,Ferramentas,Item 119,5,"R$ 87,53","R$ 0,00",Loja física,Faturado
+90267,2026-04-24,Alexandre Marques Nunes,Restinga Sêca,Rosane Pilla,FERRAMENTAS,Item 346,5,"R$ 149,71","R$ 55,04",Telefone,Faturado
+90268,2026-03-12,Otavio Feltrin,Santa Maria,Sergio Weber,Tintas,Item 101,1,"R$ 120,66","R$ 53,46",WhatsApp,Faturado
+90269,2026-04-08,Matheus Fontoura Bortolotto,São Sepé,Cleber Antunes,Elétrica,Item 250,5,"R$ 65,83","R$ 0,00",Loja física,Cancelado
+90270,2026-04-28,Vanessa Ribeiro,Santa Maria,Cleber Antunes,HIDRAULICA,Item 377,2,"R$ 109,83","R$ 0,00",Loja física,Faturado
+90271,2026-08-05,Jessica Cardoso,Santa Maria,Sergio Weber,Ferramentas,Item 360,2,"R$ 117,38","R$ 0,00",Loja física,Faturado
+90272,2026-01-02,Rosane Vargas,Santa Maria,Sergio Weber,Hidráulica,Item 157,4,"R$ 113,99","R$ 49,29",WhatsApp,Faturado
+90273,2026-02-19,Aline Moraes Rossi,Cachoeira do Sul,Marta Dutra,Jardinagem,Item 275,999,"R$ 122,86","R$ 0,00",Loja física,Faturado
+90274,2026-01-07,Bruna Rossi Feltrin,Santa Maria,Rosane Pilla,HIDRAULICA,Item 242,1,"R$ 69,66","R$ 0,00",Loja física,Faturado
+90275,2026-06-22,Fabio Barcellos,São Sepé,Ivan Bortolotto,Elétrica,Item 181,5,"R$ 114,43","R$ 59,59",WhatsApp,Faturado
+90276,2026-08-18,Cesar Silva,Cachoeira do Sul,Cleber Antunes,ELETRICA,Item 285,4,"R$ 69,94","R$ 0,00",Loja física,Faturado
+90277,2026-02-18,Alexandre Cardoso,Santa Maria,Sergio Weber,Construção,Item 131,6,"R$ 245,62","R$ 41,23",Site,Faturado
+90278,2026-03-30,Leticia Rocha,Cachoeira do Sul,Marta Dutra,Elétrica,Item 167,1,"R$ 91,43","R$ 0,00",Loja física,Faturado
+90279,2026-04-09,Patricia Zanella,São Sepé,Marta Dutra,Construção,Item 219,2,"R$ 389,12","R$ 42,48",WhatsApp,Faturado
+90280,2026-04-27,Juliana Zanella Rocha,São Sepé,Ivan Bortolotto,HIDRAULICA,Item 207,0,"R$ 79,94","R$ 0,00",Loja física,Faturado
+90281,2026-06-19,Priscila Goulart,Santa Maria,Cleber Antunes,Ferramentas,Item 292,2,"R$ 99.999,00","R$ 0,00",Loja física,Faturado
+90282,2026-01-13,Maria Almeida,Restinga Sêca,Marta Dutra,Ferramentas ,Item 168,5,a combinar,"R$ 0,00",Loja física,Faturado
+90283,2026-08-05,Aline Rossi,Santa Maria,Cleber Antunes,Jardinagem,Item 251,3,"R$ 72,79","R$ 62,78",Telefone,Faturado
+90284,2026-07-16,Pedro Pereira,Cachoeira do Sul,Rosane Pilla,Tintas,Item 354,4,"R$ 316,59","R$ 0,00",Loja física,Faturado
+90285,2026-02-23,Larissa Lima,Cachoeira do Sul,Sergio Weber,Ferramentas,Item 208,1,"R$ 173,72","R$ 47,95",Site,Faturado
+90286,2026-08-18,Daniela Fontoura Kunz,Cachoeira do Sul,Rosane Pilla,TINTAS,Item 249,4,"R$ 293,35","R$ 48,24",WhatsApp,Faturado
+90287,2026-06-04,Fabio Dutra,São Sepé,Sergio Weber,Ferramentas,Item 193,1,"R$ 220,07","R$ 63,20",WhatsApp,Faturado
+90288,2026-06-03,Aline Barcellos Pilla,Santa Maria,Marta Dutra,Construção,Item 106,4,"R$ 198,62","R$ 33,28",Telefone,Faturado
+90289,2026-03-17,Gabriela Schneider,Santa Maria,Rosane Pilla,Jardinagem,Item 144,3,"R$ 147,12","R$ 0,00",Loja física,Faturado
+90290,2026-02-17,Leonardo Almeida Beltrame,Santa Maria,Ivan Bortolotto,Hidráulica,Item 245,3,"R$ 108,60","R$ 0,00",Loja física,Faturado
+90291,2026-03-23,Priscila Silva,Santa Maria,Cleber Antunes,Ferramentas,Item 332,3,"R$ 144,91","R$ 0,00",Loja física,Faturado
+90292,2026-05-04,Cristiane Santos Nunes,Santa Maria,Sergio Weber,Jardinagem,Item 365,2,"R$ 152,75","R$ 33,79",Site,Faturado
+90293,2026-05-20,Thiago Martins Moraes,Júlio de Castilhos,Ivan Bortolotto,JARDINAGEM,Item 340,1,"R$ 96,94","R$ 0,00",Loja física,Cancelado
+90294,2026-02-20,Amanda Beltrame,Restinga Sêca,Ivan Bortolotto,Tintas,Item 194,2,"R$ 167,73","R$ 43,58",Telefone,Faturado
+90295,2026-08-12,Elisa Vargas,Santa Maria,Ivan Bortolotto,Hidráulica,Item 259,1,"R$ 114,07","R$ 45,00",Telefone,Faturado
+90296,2026-02-04,Fernanda Pilla Costa,Santa Maria,Cleber Antunes,Ferramentas,Item 348,2,"R$ 199,96","R$ 30,00",Telefone,Cancelado
+90297,2026-01-13,Everton Dutra,Santa Maria,Rosane Pilla,ELETRICA,Item 243,1,"R$ 83,12","R$ 37,72",WhatsApp,Faturado
+90298,2026-08-14,Sergio Ferreira,Santa Maria,Marta Dutra,Hidráulica,Item 127,5,"R$ 80,56","R$ 0,00",Loja física,Faturado
+90299,2026-08-26,Gustavo Rocha Pereira,Santa Maria,Cleber Antunes,Jardinagem,Item 170,3,"R$ 57,36","R$ 35,90",WhatsApp,Cancelado
+90300,2026-04-10,Douglas Nunes Bueno,Cachoeira do Sul,Cleber Antunes,Ferramentas,Item 212,1,"R$ 157,71","R$ 0,00",Loja física,Faturado
+90301,2026-03-20,Mariana Cardoso Dutra,Santa Maria,Rosane Pilla,HIDRAULICA,Item 320,1,"R$ 76,84","R$ 30,79",WhatsApp,Faturado
+90302,2026-04-21,Nelson Santos Fagundes,Santa Maria,Cleber Antunes,Jardinagem,Item 110,2,"R$ 138,99","R$ 0,00",Loja física,Faturado
+90303,2026-08-18,Cesar Rossi Fagundes,Santa Maria,Marta Dutra,Hidráulica,Item 210,1,"R$ 121,09","R$ 0,00",Loja física,Cancelado
+90304,2026-04-01,Ana Bueno,Júlio de Castilhos,Rosane Pilla,Elétrica,Item 226,4,"R$ 70,38","R$ 0,00",Loja física,Faturado
+90305,2026-05-12,Paulo Souza,Santa Maria,Cleber Antunes,Jardinagem,Item 103,1,"R$ 99,15","R$ 0,00",Loja física,Faturado
+90306,2026-02-19,Joao Carvalho,Santa Maria,Marta Dutra,Elétrica,Item 264,2,"R$ 58,46","R$ 24,18",WhatsApp,Faturado
+90307,2026-03-03,Vinicius Ferreira,Santa Maria,Rosane Pilla,Ferramentas,Item 316,3,"R$ 94,92","R$ 21,92",WhatsApp,Faturado
+90308,2026-02-10,Bianca Gomes,Cachoeira do Sul,Cleber Antunes,Tintas,Item 248,1,"R$ 221,35","R$ 0,00",Loja física,Faturado
+90309,2026-03-12,Cesar Vargas,Cachoeira do Sul,Rosane Pilla,Construção,Item 134,-1,"R$ 391,39","R$ 48,42",WhatsApp,Faturado
+90310,2026-08-12,Elisa Costa,Cachoeira do Sul,Rosane Pilla,JARDINAGEM,Item 301,8,"R$ 95,82","R$ 49,10",WhatsApp,Faturado
+90311,2026-03-27,Diego Dutra,Santa Maria,Rosane Pilla,Tintas,Item 331,7,"R$ 292,16","R$ 0,00",Loja física,Faturado
+90312,2026-06-12,Willian Goulart,Restinga Sêca,Sergio Weber,ELETRICA,Item 376,4,"R$ 107,35","R$ 0,00",Loja física,Faturado
+90313,2026-01-29,Eduardo Barcellos Kunz,Santa Maria,Rosane Pilla,Jardinagem,Item 349,3,"R$ 55,78","R$ 50,01",Telefone,Cancelado
+90314,2026-01-16,Ana Bortolotto Goulart,Cachoeira do Sul,Marta Dutra,Ferramentas,Item 244,2,"R$ 219,76","R$ 31,37",WhatsApp,Cancelado
+90315,2026-05-26,Felipe Nunes,Santa Maria,Sergio Weber,Elétrica,Item 127,5,"R$ 99,04","R$ 19,49",Telefone,Faturado
+90316,2026-05-11,Jessica Machado,Restinga Sêca,Marta Dutra,CONSTRUCAO,Item 318,2,"R$ 190,19","R$ 41,41",WhatsApp,Faturado
+90317,2026-02-26,Bianca Martins Goulart,São Sepé,Ivan Bortolotto,ELETRICA,Item 254,1,"R$ 45,62","R$ 41,92",Site,Faturado
+90318,2026-08-03,Bianca Carvalho,Santa Maria,Rosane Pilla,Hidráulica ,Item 378,0,"R$ 48,40","R$ 24,95",Telefone,Faturado
+90319,2026-08-24,Carla Weber,Restinga Sêca,Cleber Antunes,FERRAMENTAS,Item 110,2,"R$ 201,45","R$ 0,00",Loja física,Faturado
+90320,2026-03-11,Mariana Almeida Moraes,Júlio de Castilhos,Sergio Weber,Elétrica,Item 275,9,"R$ 73,96","R$ 0,00",Loja física,Faturado
+90321,2026-07-13,Adriana Rossi,Santa Maria,Rosane Pilla,TINTAS,Item 318,1,"R$ 223,48","R$ 61,08",Telefone,Faturado
+90322,2026-05-28,Douglas Vargas,Restinga Sêca,Marta Dutra,HIDRAULICA,Item 148,1,"R$ 91,54","R$ 0,00",Loja física,Cancelado
+90323,2026-07-21,Mariana Dutra Kunz,São Sepé,Ivan Bortolotto,HIDRAULICA,Item 105,2,"R$ 116,04","R$ 48,97",WhatsApp,Faturado
+90324,2026-05-19,Maicon Dutra Beltrame,Santa Maria,Marta Dutra,CONSTRUCAO,Item 368,2,"R$ 273,93","R$ 42,37",WhatsApp,Faturado
+90325,2026-07-09,Juliana Fagundes,Cachoeira do Sul,Cleber Antunes,Tintas,Item 235,2,"R$ 307,64","R$ 29,32",Site,Cancelado
+90326,2026-06-11,Marcos Feltrin,Júlio de Castilhos,Sergio Weber,CONSTRUCAO,Item 174,3,"R$ 284,70","R$ 62,70",WhatsApp,Faturado
+90327,2026-01-16,Alexandre Bortolotto,Restinga Sêca,Marta Dutra,Hidráulica,Item 366,1,"R$ 76,75","R$ 0,00",Loja física,Faturado
+90328,2026-05-06,Priscila Almeida Weber,São Sepé,Sergio Weber,JARDINAGEM,Item 333,5,"R$ 76,67","R$ 59,40",WhatsApp,Faturado
+90329,2026-06-26,Eduarda Moraes Fontoura,Santa Maria,Marta Dutra,Elétrica,Item 159,3,"R$ 54,37","R$ 57,21",Site,Faturado
+90330,2026-03-09,Jessica Ribeiro Kunz,Santa Maria,Cleber Antunes,Jardinagem,Item 222,1,"R$ 116,54","R$ 30,60",WhatsApp,Faturado
+90331,2026-08-24,Maria Pereira Sartori,Santa Maria,Sergio Weber,HIDRAULICA,Item 314,2,"R$ 84,06","R$ 0,00",Loja física,Faturado
+90332,2026-03-02,Carla Fontoura,Santa Maria,Sergio Weber,HIDRAULICA,Item 201,2,"R$ 47,62","R$ 34,85",Telefone,Cancelado
+90333,2026-07-29,Rosane Sartori,Júlio de Castilhos,Marta Dutra,Hidráulica,Item 339,4,"R$ 120,92","R$ 0,00",Loja física,Faturado
+90334,2026-02-18,Elisa Feltrin,Santa Maria,Cleber Antunes,CONSTRUCAO,Item 263,999,"R$ 145,49","R$ 0,00",Loja física,Faturado
+90335,2026-06-19,Matheus Marques,Restinga Sêca,Ivan Bortolotto,Hidráulica,Item 320,1,"R$ 86,45","R$ 0,00",Loja física,Faturado
+90336,2026-01-14,Marcos Pereira,Santa Maria,Cleber Antunes,HIDRAULICA,Item 163,1,"R$ 92,22","R$ 0,00",Loja física,Faturado
+90337,2026-05-20,Ricardo Machado,Cachoeira do Sul,Cleber Antunes,FERRAMENTAS,Item 206,5,"R$ 137,18","R$ 0,00",Loja física,Faturado
+90338,2026-08-04,Nelson Barcellos,São Sepé,Cleber Antunes,Elétrica,Item 377,3,"R$ 70,73","R$ 35,59",Site,Faturado
+90339,2026-03-30,Otavio Kunz,Santa Maria,Cleber Antunes,Elétrica,Item 199,3,"R$ 61,34","R$ 22,47",Telefone,Faturado
+90340,2026-05-27,Paulo Nunes,Santa Maria,Sergio Weber,Elétrica,Item 238,2,"R$ 75,46","R$ 63,56",WhatsApp,Faturado
+90341,2026-06-26,Thiago Dutra Rodrigues,Restinga Sêca,Cleber Antunes,Construção,Item 324,4,"R$ 163,12","R$ 0,00",Loja física,Faturado
+90342,2026-02-05,Adriana Machado,Cachoeira do Sul,Cleber Antunes,Elétrica,Item 121,3,"R$ 89,95","R$ 0,00",Loja física,Faturado
+90343,2026-02-04,Leonardo Cardoso Sartori,Cachoeira do Sul,Cleber Antunes,Hidráulica,Item 167,1,"R$ 117,80","R$ 0,00",Loja física,Faturado
+90344,2026-08-07,Renata Sartori Brum,São Sepé,Cleber Antunes,Ferramentas,Item 353,1,"R$ 141,08","R$ 34,55",WhatsApp,Faturado
+90345,2026-01-23,Leonardo Vargas Oliveira,São Sepé,Sergio Weber,Ferramentas,Item 314,1,"R$ 227,08","R$ 41,57",Site,Faturado
+90346,2026-04-28,Everton Fontoura,Santa Maria,Sergio Weber,Construção,Item 373,3,"R$ 236,77","R$ 19,76",Site,Faturado
+90347,2026-03-26,Rodrigo Beltrame,São Sepé,Cleber Antunes,Tintas,Item 236,1,"R$ 272,60","R$ 0,00",Loja física,Faturado
+90348,2026-01-15,Pedro Kunz,Santa Maria,Ivan Bortolotto,Hidráulica,Item 346,7,"R$ 102,38","R$ 32,74",Site,Faturado
+90349,2026-03-31,Maria Bueno Machado,São Sepé,Marta Dutra,Elétrica,Item 288,2,"R$ 101,97","R$ 18,88",WhatsApp,Faturado
+90350,2026-07-23,Joao Rocha,Santa Maria,Marta Dutra,JARDINAGEM,Item 187,3,"R$ 108,93","R$ 0,00",Loja física,Faturado
+90351,2026-06-17,Mariana Pilla,Restinga Sêca,Rosane Pilla,Construção,Item 269,1,"R$ 358,78","R$ 0,00",Loja física,Faturado
+90352,2026-06-19,Ricardo Menezes,Santa Maria,Ivan Bortolotto,ELETRICA,Item 261,2,"R$ 93,16","R$ 57,82",Telefone,Faturado
+90353,2026-01-12,Adriana Silva Menezes,São Sepé,Rosane Pilla,FERRAMENTAS,Item 349,3,"R$ 215,84","R$ 0,00",Loja física,Cancelado
+90354,2026-01-26,Amanda Souza,Restinga Sêca,Ivan Bortolotto,Tintas,Item 136,4,"R$ 314,15","R$ 26,42",WhatsApp,Faturado
+90355,2026-03-06,Marcos Kunz,São Sepé,Ivan Bortolotto,Ferramentas,Item 113,1,a combinar,"R$ 0,00",Loja física,Faturado
+90356,2026-03-13,Simone Brum,Cachoeira do Sul,Cleber Antunes,Elétrica,Item 176,6,"R$ 62,35","R$ 63,40",Telefone,Faturado
+90357,2026-03-05,Jessica Bueno,Santa Maria,Rosane Pilla,Construção,Item 221,5,"R$ 211,50","R$ 39,55",Site,Faturado
+90358,2026-06-30,Joao Marques,Santa Maria,Ivan Bortolotto,FERRAMENTAS,Item 117,1,"R$ 159,97","R$ 0,00",Loja física,Faturado
+90359,2026-06-18,Eduarda Menezes,Cachoeira do Sul,Ivan Bortolotto,Construção,Item 378,1,"R$ 230,90","R$ 20,44",Site,Faturado
+90360,2026-02-05,Priscila Marques Dutra,São Sepé,Cleber Antunes,Jardinagem,Item 127,5,"R$ 99,32","R$ 30,66",WhatsApp,Faturado
+90361,2026-01-19,Joao Carvalho,Júlio de Castilhos,Rosane Pilla,Jardinagem,Item 161,5,"R$ 92,48","R$ 0,00",Loja física,Faturado
+90362,2026-01-14,Eduarda Martins,Santa Maria,Cleber Antunes,Elétrica,Item 266,1,"R$ 114,30","R$ 57,31",Telefone,Faturado
+90363,2026-02-25,Fernanda Brum Bueno,São Sepé,Marta Dutra,Elétrica,Item 239,3,"R$ 103,30","R$ 51,71",WhatsApp,Faturado
+90364,2026-04-02,Patricia Silva,Santa Maria,Ivan Bortolotto,Hidráulica,Item 146,4,"R$ 111,95","R$ 57,52",Telefone,Faturado
+90365,2026-01-09,Otavio Rodrigues Weber,Santa Maria,Cleber Antunes,CONSTRUCAO,Item 333,4,"R$ 342,12","R$ 45,57",WhatsApp,Faturado
+90366,2026-02-05,Maicon Almeida,Restinga Sêca,Cleber Antunes,Jardinagem,Item 347,4,"R$ 127,40","R$ 35,49",WhatsApp,Faturado
+90367,2026-02-10,Everton Lima Lima,Santa Maria,Cleber Antunes,Ferramentas,Item 334,1,a combinar,"R$ 0,00",Loja física,Faturado
+90368,2026-06-09,Sergio Feltrin,Restinga Sêca,Rosane Pilla,FERRAMENTAS,Item 174,4,"R$ 105,49","R$ 0,00",Loja física,Faturado
+90369,2026-08-07,Willian Pereira Beltrame,São Sepé,Ivan Bortolotto,JARDINAGEM,Item 122,1,"R$ 58,08","R$ 0,00",Loja física,Faturado
+90370,2026-05-28,Camila Ribeiro Costa,São Sepé,Cleber Antunes,Hidráulica,Item 277,1,"R$ 90,76","R$ 0,00",Loja física,Cancelado
+90371,2026-02-17,Rodrigo Trindade,Restinga Sêca,Cleber Antunes,Jardinagem,Item 113,2,"R$ 132,59","R$ 47,17",Telefone,Faturado
+90372,2026-08-24,Larissa Schneider Pereira,Restinga Sêca,Rosane Pilla,CONSTRUCAO,Item 247,1,"R$ 271,80","R$ 57,90",Telefone,Faturado
+90373,2026-03-23,Maria Goulart Rossi,Santa Maria,Marta Dutra,TINTAS,Item 137,999,"R$ 264,18","R$ 19,59",WhatsApp,Faturado
+90374,2026-01-30,Priscila Schneider,Restinga Sêca,Cleber Antunes,TINTAS,Item 100,3,"R$ 231,20","R$ 0,00",Loja física,Faturado
+90375,2026-06-29,Luciana Ribeiro,Santa Maria,Marta Dutra,Jardinagem,Item 158,3,"R$ 143,19","R$ 60,56",Telefone,Faturado
+90376,2026-06-22,Nathalia Marques,Restinga Sêca,Cleber Antunes,Ferramentas,Item 298,5,"R$ 209,27","R$ 0,00",Loja física,Faturado
+90377,2026-05-22,Andre Oliveira Zanella,Santa Maria,Ivan Bortolotto,Hidráulica,Item 286,3,"R$ 64,79","R$ 0,00",Loja física,Faturado
+90378,2026-04-08,Douglas Lima,Restinga Sêca,Sergio Weber,Elétrica,Item 108,6,"R$ 50,60","R$ 45,12",WhatsApp,Faturado
+90379,2026-02-04,Cesar Kunz Vargas,Restinga Sêca,Sergio Weber,Ferramentas,Item 318,5,"R$ 158,33","R$ 0,00",Loja física,Faturado
+90380,2026-05-18,Fernanda Fontoura,Júlio de Castilhos,Rosane Pilla,Ferramentas,Item 218,4,"R$ 187,05","R$ 25,04",Site,Faturado
+90381,2026-03-05,Douglas Fontoura Almeida,São Sepé,Ivan Bortolotto,Jardinagem,Item 297,1,"R$ 109,47","R$ 0,00",Loja física,Faturado
+90382,2026-07-17,Adriana Gomes,Júlio de Castilhos,Ivan Bortolotto,Tintas,Item 324,2,"R$ 182,56","R$ 0,00",Loja física,Faturado
+90383,2026-08-21,Jessica Schneider Schneider,Cachoeira do Sul,Cleber Antunes,Jardinagem ,Item 349,4,"R$ 98,02","R$ 41,14",Site,Faturado
+90384,2026-03-05,Amanda Rocha,Santa Maria,Sergio Weber,Construção,Item 341,5,"R$ 187,04","R$ 48,68",Telefone,Faturado
+90385,2026-01-08,Ana Costa,Júlio de Castilhos,Cleber Antunes,Construção,Item 236,3,"R$ 186,93","R$ 0,00",Loja física,Faturado
+90386,2026-01-16,Maicon Carvalho Souza,Santa Maria,Marta Dutra,Jardinagem,Item 309,2,"R$ 105,81","R$ 0,00",Loja física,Faturado
+90387,2026-07-07,Bruno Bortolotto,Santa Maria,Cleber Antunes,FERRAMENTAS,Item 190,5,"R$ 145,03","R$ 44,68",Site,Faturado
+90388,2026-06-24,Rodrigo Trindade Carvalho,Restinga Sêca,Cleber Antunes,Hidráulica,Item 349,4,"R$ 86,40","R$ 45,46",WhatsApp,Faturado
+90389,2026-07-22,Felipe Nunes,Santa Maria,Marta Dutra,Ferramentas,Item 371,1,"R$ 122,60","R$ 0,00",Loja física,Faturado
+90390,2026-02-17,Renata Ribeiro,Santa Maria,Marta Dutra,Construção,Item 299,2,"R$ 299,68","R$ 0,00",Loja física,Faturado
+90391,2026-07-10,Bruno Rossi,Júlio de Castilhos,Sergio Weber,Hidráulica,Item 340,2,"R$ 73,70","R$ 41,89",Telefone,Faturado
+90392,2026-08-13,Otavio Weber,Cachoeira do Sul,Cleber Antunes,FERRAMENTAS,Item 137,1,"R$ 186,25","R$ 0,00",Loja física,Faturado
+90393,2026-01-13,Luciana Weber,Santa Maria,Marta Dutra,Tintas ,Item 128,1,"R$ 122,45","R$ 0,00",Loja física,Faturado
+90394,2026-04-27,Vanessa Rodrigues,Santa Maria,Sergio Weber,Tintas,Item 263,1,"R$ 170,16","R$ 49,09",Site,Faturado
+90395,2026-04-13,Leticia Ferreira,Restinga Sêca,Rosane Pilla,Jardinagem,Item 182,5,"R$ 98,69","R$ 0,00",Loja física,Cancelado
+90396,2026-07-31,Cesar Trindade,Santa Maria,Rosane Pilla,FERRAMENTAS,Item 364,5,"R$ 244,54","R$ 31,21",WhatsApp,Faturado
+90397,2026-04-22,Ana Ribeiro,Santa Maria,Ivan Bortolotto,Construção,Item 225,5,"R$ 145,11","R$ 50,76",WhatsApp,Faturado
+90398,2026-06-16,Pedro Dutra Bueno,Santa Maria,Marta Dutra,Tintas,Item 264,1,"R$ 161,59","R$ 0,00",Loja física,Faturado
+90399,2026-08-10,Cristiane Rocha,Restinga Sêca,Marta Dutra,Jardinagem,Item 245,4,"R$ 151,99","R$ 0,00",Loja física,Faturado
+90400,2026-08-27,Douglas Schneider,Santa Maria,Cleber Antunes,Hidráulica,Item 227,2,"R$ 62,39","R$ 52,97",WhatsApp,Faturado
+90401,2026-02-05,Patricia Weber,São Sepé,Ivan Bortolotto,Ferramentas,Item 369,4,"R$ 128,79","R$ 0,00",Loja física,Faturado
+90402,2026-05-18,Larissa Marques,Cachoeira do Sul,Rosane Pilla,JARDINAGEM,Item 154,4,"R$ 102,04","R$ 25,91",WhatsApp,Faturado
+90403,2026-02-09,Otavio Kunz,Júlio de Castilhos,Rosane Pilla,Jardinagem,Item 282,5,"R$ 120,19","R$ 0,00",Loja física,Faturado
+90404,2026-07-03,Ricardo Fagundes,Restinga Sêca,Rosane Pilla,Construção,Item 307,1,"R$ 204,08","R$ 41,01",Telefone,Faturado
+90405,2026-07-02,Vinicius Brum Bueno,Cachoeira do Sul,Ivan Bortolotto,CONSTRUCAO,Item 197,1,"R$ 381,79","R$ 26,47",WhatsApp,Faturado
+90406,2026-02-06,Diego Feltrin,Santa Maria,Sergio Weber,FERRAMENTAS,Item 113,4,"R$ 197,45","R$ 0,00",Loja física,Faturado
+90407,2026-01-12,Eduardo Silva,Cachoeira do Sul,Rosane Pilla,Tintas,Item 379,4,"R$ 222,06","R$ 57,58",Telefone,Faturado
+90408,2026-05-21,Joao Menezes,Júlio de Castilhos,Ivan Bortolotto,Construção,Item 167,1,"R$ 309,72","R$ 57,26",Telefone,Faturado
+90409,2026-03-23,Fabio Ferreira,São Sepé,Marta Dutra,Ferramentas,Item 244,2,"R$ 207,18","R$ 0,00",Loja física,Faturado
+90410,2026-07-14,Lucas Rossi,Santa Maria,Rosane Pilla,Tintas ,Item 264,1,"R$ 178,80","R$ 0,00",Loja física,Faturado
+90411,2026-06-08,Vanessa Brum Santos,Restinga Sêca,Cleber Antunes,FERRAMENTAS,Item 211,1,"R$ 105,95","R$ 0,00",Loja física,Faturado
+90412,2026-08-25,Cesar Costa,São Sepé,Sergio Weber,Hidráulica,Item 354,3,"R$ 55,15","R$ 43,40",Telefone,Faturado
+90413,2026-01-26,Sergio Rocha Schneider,Santa Maria,Marta Dutra,HIDRAULICA,Item 304,1,"R$ 54,42","R$ 48,52",WhatsApp,Faturado
+90414,2026-08-19,Maicon Rocha,São Sepé,Ivan Bortolotto,Elétrica,Item 340,3,"R$ 94,70","R$ 63,41",WhatsApp,Faturado
+90415,2026-05-29,Adriana Nunes,Santa Maria,Marta Dutra,Jardinagem,Item 326,4,"R$ 69,19","R$ 0,00",Loja física,Faturado
+90416,2026-01-20,Rodrigo Trindade,Júlio de Castilhos,Marta Dutra,Hidráulica,Item 239,1,"R$ 85,29","R$ 0,00",Loja física,Faturado
+90417,2026-07-01,Cristiane Rodrigues,Santa Maria,Cleber Antunes,FERRAMENTAS,Item 163,2,"R$ 101,83","R$ 0,00",Loja física,Faturado
+90418,2026-01-26,Bianca Ferreira,Santa Maria,Rosane Pilla,Hidráulica,Item 100,2,"R$ 123,96","R$ 0,00",Loja física,Faturado
+90419,2026-02-10,Larissa Fagundes Goulart,São Sepé,Cleber Antunes,Jardinagem,Item 267,5,"R$ 66,37","R$ 21,24",Telefone,Faturado
+90420,2026-01-07,Elisa Pereira,Santa Maria,Cleber Antunes,Jardinagem,Item 319,1,"R$ 108,63","R$ 55,97",WhatsApp,Cancelado
+90421,2026-01-30,Alexandre Rossi,Júlio de Castilhos,Ivan Bortolotto,JARDINAGEM,Item 204,7,"R$ 108,93","R$ 0,00",Loja física,Faturado
+90422,2026-06-11,Nathalia Fontoura,São Sepé,Rosane Pilla,CONSTRUCAO,Item 364,1,"R$ 257,84","R$ 56,91",Telefone,Faturado
+90423,2026-02-09,Ana Dutra Trindade,São Sepé,Rosane Pilla,Hidráulica,Item 230,1,"R$ 63,74","R$ 0,00",Loja física,Faturado
+90424,2026-04-21,Rafael Lima,Santa Maria,Rosane Pilla,Ferramentas,Item 321,2,"R$ 177,35","R$ 0,00",Loja física,Faturado
+90425,2026-03-11,Juliana Rocha Rocha,Restinga Sêca,Rosane Pilla,Elétrica ,Item 135,4,"R$ 58,95","R$ 0,00",Loja física,Faturado
+90426,2026-02-10,Camila Moraes Almeida,Santa Maria,Cleber Antunes,Construção,Item 149,3,"R$ 148,74","R$ 25,30",Site,Faturado
+90427,2026-07-03,Adriana Feltrin Beltrame,Cachoeira do Sul,Marta Dutra,Construção,Item 180,3,"R$ 222,58","R$ 47,28",WhatsApp,Faturado
+90428,2026-02-02,Daniela Almeida,Santa Maria,Rosane Pilla,Jardinagem,Item 340,4,"R$ 106,48","R$ 0,00",Loja física,Cancelado
+90429,2026-08-11,Renata Fagundes,Santa Maria,Sergio Weber,Hidráulica,Item 248,4,"R$ 103,99","R$ 61,14",WhatsApp,Faturado
+90430,2026-04-22,Willian Almeida,Santa Maria,Cleber Antunes,Elétrica,Item 198,2,"R$ 96,75","R$ 33,50",WhatsApp,Faturado
+90431,2026-05-20,Nelson Gomes,Santa Maria,Marta Dutra,Ferramentas,Item 322,1,"R$ 90,09","R$ 0,00",Loja física,Faturado
+90432,2026-03-09,Douglas Rocha,Santa Maria,Marta Dutra,Elétrica,Item 326,1,"R$ 115,56","R$ 0,00",Loja física,Faturado
+90433,2026-02-25,Fabio Menezes Brum,Restinga Sêca,Marta Dutra,Jardinagem,Item 150,1,"R$ 55,35","R$ 47,74",Telefone,Cancelado
+90434,2026-05-14,Willian Feltrin,Santa Maria,Marta Dutra,TINTAS ,Item 229,5,"R$ 149,92","R$ 0,00",Loja física,Faturado
+90435,2026-08-06,Thiago Trindade Rossi,Cachoeira do Sul,Sergio Weber,HIDRAULICA,Item 360,3,"R$ 99,44","R$ 27,21",Telefone,Faturado
+90436,2026-08-12,Larissa Kunz,São Sepé,Ivan Bortolotto,Tintas,Item 183,5,"R$ 123,86","R$ 0,00",Loja física,Faturado
+90437,2026-06-26,Gustavo Rodrigues,Cachoeira do Sul,Ivan Bortolotto,CONSTRUCAO,Item 264,2,"R$ 233,37","R$ 29,47",WhatsApp,Faturado
+90438,2026-04-07,Andre Bueno,Santa Maria,Ivan Bortolotto,ELETRICA,Item 106,2,"R$ 109,09","R$ 24,62",Site,Faturado
+90439,2026-04-20,Tiago Rodrigues,Santa Maria,Marta Dutra,Elétrica,Item 241,2,"R$ 68,52","R$ 47,04",Telefone,Faturado
+90440,2026-04-09,Rodrigo Barcellos,Júlio de Castilhos,Marta Dutra,Jardinagem,Item 306,1,"R$ 133,65","R$ 43,60",WhatsApp,Faturado
+90441,2026-03-25,Leonardo Bortolotto,Santa Maria,Sergio Weber,Tintas,Item 227,5,"R$ 255,20","R$ 59,74",WhatsApp,Faturado
+90442,2026-08-21,Aline Rodrigues,Santa Maria,Cleber Antunes,CONSTRUCAO,Item 125,5,"R$ 141,54","R$ 0,00",Loja física,Faturado
+90443,2026-05-26,Cesar Ferreira,São Sepé,Marta Dutra,Ferramentas,Item 321,1,"R$ 197,27","R$ 0,00",Loja física,Faturado
+90444,2026-08-24,Bruna Rocha Marques,Restinga Sêca,Marta Dutra,TINTAS,Item 354,0,"R$ 316,37","R$ 0,00",Loja física,Faturado
+90445,2026-02-05,Ricardo Fagundes,Santa Maria,Marta Dutra,HIDRAULICA,Item 145,7,"R$ 109,23","R$ 45,18",Site,Faturado
+90446,2026-08-20,Larissa Feltrin Schneider,Júlio de Castilhos,Marta Dutra,Jardinagem,Item 287,1,"R$ 66,18","R$ 0,00",Loja física,Faturado
+90447,2026-05-26,Matheus Ferreira Almeida,Santa Maria,Marta Dutra,Jardinagem,Item 118,2,"R$ 98,37","R$ 25,60",Site,Faturado
+90448,2026-07-10,Camila Moraes Cardoso,Restinga Sêca,Marta Dutra,Construção,Item 108,4,"R$ 270,30","R$ 53,47",Telefone,Faturado
+90449,2026-01-22,Vanessa Carvalho,Santa Maria,Rosane Pilla,Construção,Item 286,5,"R$ 383,08","R$ 53,85",Telefone,Faturado
+90450,2026-08-21,Bruno Fagundes,Santa Maria,Ivan Bortolotto,Tintas,Item 318,1,"R$ 291,49","R$ 25,90",WhatsApp,Faturado
+90451,2026-01-05,Vanessa Dutra,São Sepé,Cleber Antunes,TINTAS,Item 116,6,"R$ 211,00","R$ 0,00",Loja física,Cancelado
+90452,2026-05-11,Pedro Barcellos Bueno,Cachoeira do Sul,Rosane Pilla,HIDRAULICA,Item 266,3,"R$ 52,83","R$ 18,72",WhatsApp,Faturado
+90453,2026-02-23,Bruna Vargas,Santa Maria,Cleber Antunes,Elétrica,Item 335,1,"R$ 93,34","R$ 0,00",Loja física,Faturado
+90454,2026-06-29,Elisa Rodrigues,Júlio de Castilhos,Cleber Antunes,Elétrica,Item 292,4,"R$ 84,91","R$ 53,12",Telefone,Faturado
+90455,2026-06-02,Cesar Bortolotto,Cachoeira do Sul,Rosane Pilla,Tintas,Item 362,6,"R$ 244,87","R$ 0,00",Loja física,Faturado
+90456,2026-07-29,Daniela Rossi,São Sepé,Ivan Bortolotto,Hidráulica,Item 162,5,a combinar,"R$ 38,97",Telefone,Faturado
+90457,2026-03-11,Paulo Zanella Barcellos,São Sepé,Sergio Weber,Ferramentas,Item 150,5,"R$ 222,39","R$ 0,00",Loja física,Faturado
+90458,2026-07-16,Tiago Silva Fontoura,Santa Maria,Rosane Pilla,Hidráulica,Item 196,5,"R$ 58,44","R$ 57,71",Telefone,Faturado
+90459,2026-01-23,Adriana Menezes,Júlio de Castilhos,Marta Dutra,JARDINAGEM,Item 116,3,"R$ 96,63","R$ 60,21",Site,Faturado
+90460,2026-06-15,Diego Lima,Júlio de Castilhos,Rosane Pilla,Jardinagem,Item 195,3,"R$ 97,57","R$ 0,00",Loja física,Faturado
+90461,2026-06-19,Vinicius Goulart,Santa Maria,Cleber Antunes,FERRAMENTAS,Item 147,2,"R$ 213,36","R$ 31,22",WhatsApp,Cancelado
+90462,2026-07-23,Camila Cardoso Feltrin,Santa Maria,Rosane Pilla,Ferramentas,Item 122,1,"R$ 112,79","R$ 0,00",Loja física,Faturado
+90463,2026-04-10,Juliana Bortolotto,Santa Maria,Cleber Antunes,Construção,Item 132,1,"R$ 163,53","R$ 42,85",Site,Faturado
+90464,2026-04-24,Amanda Beltrame Oliveira,Santa Maria,Marta Dutra,Construção,Item 240,2,"R$ 388,11","R$ 0,00",Loja física,Faturado
+90465,2026-03-24,Daniela Bueno Fontoura,Restinga Sêca,Rosane Pilla,Elétrica,Item 310,5,"R$ 52,05","R$ 0,00",Loja física,Faturado
+90466,2026-06-26,Priscila Souza,Júlio de Castilhos,Rosane Pilla,Ferramentas,Item 196,4,"R$ 94,55","R$ 34,85",Site,Faturado
+90467,2026-06-03,Rodrigo Fagundes,Júlio de Castilhos,Rosane Pilla,Jardinagem,Item 214,4,"R$ 61,48","R$ 33,78",Site,Faturado
+90468,2026-01-26,Leticia Weber Rocha,Júlio de Castilhos,Ivan Bortolotto,Elétrica ,Item 140,1,"R$ 83,55","R$ 0,00",Loja física,Faturado
+90469,2026-02-17,Nathalia Moraes,Santa Maria,Marta Dutra,Tintas,Item 372,1,"R$ 282,81","R$ 0,00",Loja física,Cancelado
+90470,2026-01-13,Tatiane Souza,Júlio de Castilhos,Cleber Antunes,TINTAS,Item 351,2,"R$ 304,61","R$ 47,82",WhatsApp,Faturado
+90471,2026-07-13,Diego Rocha Zanella,São Sepé,Marta Dutra,ELETRICA,Item 340,1,"R$ 94,03","R$ 0,00",Loja física,Faturado
+90472,2026-02-20,Douglas Santos Sartori,Santa Maria,Rosane Pilla,FERRAMENTAS,Item 188,4,"R$ 160,21","R$ 26,00",WhatsApp,Faturado
+90473,2026-03-04,Simone Costa,Júlio de Castilhos,Rosane Pilla,Elétrica,Item 222,5,"R$ 49,67","R$ 52,22",Telefone,Cancelado
+90474,2026-04-27,Simone Weber,Santa Maria,Cleber Antunes,ELETRICA,Item 116,4,"R$ 43,01","R$ 44,26",Site,Faturado
+90475,2026-07-13,Marcos Bueno,Restinga Sêca,Cleber Antunes,FERRAMENTAS,Item 251,1,a combinar,"R$ 0,00",Loja física,Faturado
+90476,2026-08-24,Eduarda Dutra,Santa Maria,Rosane Pilla,Hidráulica,Item 320,1,"R$ 106,34","R$ 0,00",Loja física,Faturado
+90477,2026-01-16,Rodrigo Nunes,Santa Maria,Rosane Pilla,Ferramentas,Item 225,2,"R$ 101,68","R$ 53,78",WhatsApp,Faturado
+90478,2026-01-26,Cristiane Rossi,Cachoeira do Sul,Cleber Antunes,Tintas,Item 211,2,"R$ 298,58","R$ 0,00",Loja física,Faturado
+90479,2026-05-26,Adriana Rossi Weber,São Sepé,Ivan Bortolotto,TINTAS,Item 305,6,"R$ 149,58","R$ 32,61",WhatsApp,Faturado
+90480,2026-05-08,Alexandre Almeida Gomes,Júlio de Castilhos,Cleber Antunes,Ferramentas,Item 211,2,"R$ 128,21","R$ 0,00",Loja física,Cancelado
+90481,2026-07-07,Alexandre Schneider Dutra,Restinga Sêca,Rosane Pilla,FERRAMENTAS,Item 110,2,"R$ 124,21","R$ 21,87",Site,Faturado
+90482,2026-07-31,Ana Rossi,Cachoeira do Sul,Sergio Weber,Ferramentas,Item 320,4,"R$ 177,28","R$ 0,00",Loja física,Faturado
+90483,2026-01-16,Vanessa Oliveira Trindade,Restinga Sêca,Sergio Weber,Elétrica,Item 279,2,"R$ 103,86","R$ 0,00",Loja física,Faturado
+90484,2026-07-15,Cesar Pilla,Santa Maria,Cleber Antunes,Construção,Item 333,5,a combinar,"R$ 19,77",Telefone,Cancelado
+90485,2026-06-18,Otavio Souza,São Sepé,Rosane Pilla,Tintas,Item 276,1,"R$ 264,51","R$ 0,00",Loja física,Faturado
+90486,2026-07-29,Larissa Pereira Fagundes,Santa Maria,Marta Dutra,JARDINAGEM,Item 102,5,"R$ 149,40","R$ 21,57",Telefone,Cancelado
+90487,2026-06-12,Larissa Ribeiro,Santa Maria,Rosane Pilla,Hidráulica,Item 271,4,"R$ 73,80","R$ 32,98",WhatsApp,Faturado
+90488,2026-02-19,Eduardo Gomes,Restinga Sêca,Sergio Weber,JARDINAGEM,Item 287,7,"R$ 146,79","R$ 32,39",Telefone,Faturado
+90489,2026-06-08,Ricardo Weber,Júlio de Castilhos,Cleber Antunes,CONSTRUCAO,Item 336,1,"R$ 220,27","R$ 0,00",Loja física,Faturado
+90490,2026-04-14,Camila Rodrigues,Santa Maria,Sergio Weber,Elétrica ,Item 282,2,"R$ 44,07","R$ 55,65",WhatsApp,Faturado
+90491,2026-04-01,Diego Trindade,São Sepé,Cleber Antunes,Jardinagem,Item 346,1,"R$ 101,57","R$ 33,16",WhatsApp,Faturado
+90492,2026-02-25,Renata Cardoso,Restinga Sêca,Rosane Pilla,Elétrica,Item 207,5,"R$ 60,65","R$ 60,16",Telefone,Faturado
+90493,2026-02-12,Thiago Bortolotto Pereira,Santa Maria,Rosane Pilla,JARDINAGEM,Item 262,1,"R$ 71,34","R$ 0,00",Loja física,Faturado
+90494,2026-05-04,Rosane Menezes Lima,Santa Maria,Ivan Bortolotto,Elétrica,Item 160,1,"R$ 97,89","R$ 0,00",Loja física,Faturado
+90495,2026-01-27,Bruno Rocha Bortolotto,São Sepé,Cleber Antunes,HIDRAULICA,Item 163,3,"R$ 96,48","R$ 35,17",Site,Faturado
+90496,2026-01-05,Matheus Souza,Restinga Sêca,Rosane Pilla,FERRAMENTAS,Item 363,3,"R$ 244,76","R$ 30,89",WhatsApp,Faturado
+90497,2026-08-12,Diego Machado,Santa Maria,Marta Dutra,Elétrica,Item 358,3,"R$ 110,64","R$ 0,00",Loja física,Faturado
+90498,2026-06-02,Felipe Costa Ribeiro,Júlio de Castilhos,Cleber Antunes,Tintas,Item 333,3,"R$ 236,67","R$ 0,00",Loja física,Faturado
+90499,2026-01-02,Thiago Fontoura Lima,Restinga Sêca,Sergio Weber,Tintas,Item 380,6,"R$ 135,85","R$ 0,00",Loja física,Faturado
+90500,2026-01-21,Carla Vargas,Santa Maria,Cleber Antunes,Ferramentas,Item 198,4,"R$ 120,16","R$ 59,67",Telefone,Faturado
+90501,2026-04-06,Cesar Kunz,São Sepé,Cleber Antunes,Construção,Item 214,4,"R$ 293,08","R$ 0,00",Loja física,Faturado
+90502,2026-06-30,Marcos Weber,Santa Maria,Cleber Antunes,Tintas,Item 264,5,"R$ 179,62","R$ 44,30",Telefone,Faturado
+90503,2026-06-24,Tiago Silva Oliveira,Santa Maria,Cleber Antunes,Ferramentas,Item 375,6,"R$ 102,07","R$ 25,88",Site,Faturado
+90504,2026-01-19,Maicon Beltrame,Santa Maria,Marta Dutra,Elétrica,Item 250,1,a combinar,"R$ 0,00",Loja física,Faturado
+90505,2026-01-07,Paulo Beltrame,Cachoeira do Sul,Rosane Pilla,Jardinagem,Item 109,4,"R$ 104,37","R$ 0,00",Loja física,Faturado
+90506,2026-02-23,Rosane Santos Carvalho,Cachoeira do Sul,Cleber Antunes,Construção,Item 202,1,"R$ 370,74","R$ 0,00",Loja física,Faturado
+90507,2026-05-05,Carla Schneider Vargas,Cachoeira do Sul,Rosane Pilla,ELETRICA,Item 290,4,"R$ 53,58","R$ 0,00",Loja física,Faturado
+90508,2026-06-10,Juliana Ferreira,Santa Maria,Rosane Pilla,JARDINAGEM,Item 197,1,"R$ 144,84","R$ 42,93",WhatsApp,Faturado
+90509,2026-08-07,Eduardo Costa Dutra,Santa Maria,Rosane Pilla,Jardinagem,Item 248,2,"R$ 144,45","R$ 28,64",Telefone,Faturado
+90510,2026-04-22,Amanda Rodrigues Menezes,São Sepé,Rosane Pilla,Elétrica,Item 252,4,"R$ 58,81","R$ 27,07",Telefone,Faturado
+90511,2026-03-27,Renata Weber Bueno,Santa Maria,Sergio Weber,Tintas,Item 291,1,"R$ 239,72","R$ 0,00",Loja física,Cancelado
+90512,2026-02-27,Eduardo Rossi,Santa Maria,Cleber Antunes,CONSTRUCAO,Item 240,5,a combinar,"R$ 44,12",Site,Faturado
+90513,2026-01-07,Rosane Silva Santos,Cachoeira do Sul,Rosane Pilla,Ferramentas,Item 143,3,"R$ 115,80","R$ 0,00",Loja física,Faturado
+90514,2026-05-18,Diego Pilla Cardoso,Santa Maria,Rosane Pilla,Tintas,Item 151,5,"R$ 164,32","R$ 29,99",Telefone,Faturado
+90515,2026-05-05,Rosane Souza Sartori,Restinga Sêca,Sergio Weber,Tintas,Item 241,2,"R$ 231,16","R$ 0,00",Loja física,Cancelado
+90516,2026-08-12,Cristiane Bueno Beltrame,Santa Maria,Ivan Bortolotto,TINTAS,Item 289,3,"R$ 159,20","R$ 0,00",Loja física,Faturado
+90517,2026-03-31,Rodrigo Almeida,São Sepé,Ivan Bortolotto,CONSTRUCAO,Item 282,2,"R$ 227,19","R$ 0,00",Loja física,Faturado
+90518,2026-04-15,Bianca Pereira Dutra,Santa Maria,Cleber Antunes,Jardinagem ,Item 116,3,"R$ 90,52","R$ 0,00",Loja física,Faturado
+90519,2026-05-06,Nathalia Feltrin,Santa Maria,Cleber Antunes,TINTAS,Item 338,5,"R$ 162,89","R$ 48,55",WhatsApp,Faturado
+90520,2026-06-23,Leonardo Rocha Ferreira,Cachoeira do Sul,Ivan Bortolotto,TINTAS,Item 373,5,"R$ 140,20","R$ 54,64",Telefone,Faturado
+90521,2026-05-25,Maria Bortolotto Menezes,Santa Maria,Sergio Weber,TINTAS,Item 265,2,"R$ 250,89","R$ 50,74",Telefone,Faturado
+90522,2026-02-04,Priscila Beltrame,São Sepé,Sergio Weber,JARDINAGEM ,Item 260,4,"R$ 111,27","R$ 0,00",Loja física,Faturado
+90523,2026-02-05,Adriana Ribeiro,Santa Maria,Sergio Weber,Hidráulica,Item 235,4,"R$ 83,42","R$ 18,80",Site,Faturado
+90524,2026-04-21,Douglas Goulart,Santa Maria,Cleber Antunes,Elétrica,Item 183,3,"R$ 50,88","R$ 41,98",WhatsApp,Faturado
+90525,2026-01-23,Jonas Brum,São Sepé,Cleber Antunes,Construção,Item 230,2,"R$ 302,22","R$ 40,60",Site,Faturado
+90526,2026-06-09,Eduardo Silva Vargas,Santa Maria,Rosane Pilla,Tintas,Item 113,1,"R$ 258,50","R$ 53,56",WhatsApp,Faturado
+90527,2026-04-07,Fabio Dutra Sartori,São Sepé,Rosane Pilla,Construção ,Item 329,2,"R$ 324,05","R$ 0,00",Loja física,Faturado
+90528,2026-03-26,Priscila Goulart,Santa Maria,Marta Dutra,Jardinagem,Item 232,2,"R$ 83,17","R$ 0,00",Loja física,Faturado
+90529,2026-01-02,Adriana Souza,São Sepé,Sergio Weber,Tintas,Item 308,5,"R$ 235,21","R$ 23,11",WhatsApp,Faturado
+90530,2026-08-05,Bruno Feltrin,Santa Maria,Ivan Bortolotto,Ferramentas,Item 189,5,"R$ 127,94","R$ 0,00",Loja física,Faturado
+90531,2026-07-28,Jessica Kunz,Restinga Sêca,Marta Dutra,Elétrica,Item 165,7,"R$ 100,95","R$ 25,36",Telefone,Faturado
+90532,2026-01-15,Ana Vargas,Júlio de Castilhos,Cleber Antunes,Jardinagem,Item 260,5,"R$ 124,09","R$ 56,90",WhatsApp,Faturado
+90533,2026-03-09,Eduarda Bortolotto,Santa Maria,Cleber Antunes,Tintas,Item 129,5,"R$ 290,35","R$ 29,00",Telefone,Faturado
+90534,2026-05-01,Bruno Trindade,Restinga Sêca,Cleber Antunes,Hidráulica,Item 103,5,"R$ 47,91","R$ 48,47",Site,Faturado
+90535,2026-02-25,Vinicius Fagundes,Santa Maria,Sergio Weber,Construção,Item 173,2,"R$ 348,25","R$ 0,00",Loja física,Faturado
+90536,2026-02-27,Jessica Kunz,São Sepé,Ivan Bortolotto,Jardinagem,Item 373,5,"R$ 93,28","R$ 0,00",Loja física,Cancelado
+90537,2026-08-13,Bianca Brum,Santa Maria,Rosane Pilla,Jardinagem,Item 178,1,"R$ 97,61","R$ 0,00",Loja física,Faturado
+90538,2026-03-20,Ricardo Nunes,Restinga Sêca,Marta Dutra,FERRAMENTAS,Item 133,4,"R$ 217,94","R$ 33,87",Telefone,Faturado
+90539,2026-06-02,Daniela Dutra,Santa Maria,Cleber Antunes,FERRAMENTAS,Item 247,1,"R$ 112,78","R$ 0,00",Loja física,Faturado
+90540,2026-08-28,Marcos Almeida,Cachoeira do Sul,Rosane Pilla,Ferramentas,Item 270,1,"R$ 99.999,00","R$ 0,00",Loja física,Faturado
+90541,2026-05-21,Sabrina Menezes,Cachoeira do Sul,Rosane Pilla,Elétrica,Item 343,1,"R$ 56,66","R$ 0,00",Loja física,Faturado
+90542,2026-03-13,Nathalia Bueno,Júlio de Castilhos,Rosane Pilla,JARDINAGEM,Item 238,2,"R$ 126,17","R$ 45,04",Telefone,Faturado
+90543,2026-03-11,Otavio Weber,Restinga Sêca,Marta Dutra,Jardinagem,Item 126,4,"R$ 110,32","R$ 62,86",Site,Faturado
+90544,2026-02-09,Gustavo Moraes,Santa Maria,Cleber Antunes,Tintas,Item 376,1,"R$ 118,66","R$ 58,84",Telefone,Faturado
+90545,2026-02-09,Ana Rossi,Júlio de Castilhos,Cleber Antunes,TINTAS,Item 249,2,"R$ 216,36","R$ 59,36",Telefone,Cancelado
+90546,2026-03-17,Douglas Costa Ferreira,Santa Maria,Rosane Pilla,ELETRICA,Item 193,5,"R$ 66,42","R$ 0,00",Loja física,Faturado
+90547,2026-02-13,Camila Beltrame,Santa Maria,Cleber Antunes,Tintas,Item 250,4,"R$ 263,83","R$ 26,90",WhatsApp,Faturado
+90548,2026-02-09,Bianca Marques Barcellos,Júlio de Castilhos,Marta Dutra,Elétrica,Item 239,1,"R$ 51,12","R$ 62,70",Telefone,Faturado
+90549,2026-06-17,Willian Kunz Dutra,Santa Maria,Cleber Antunes,Elétrica,Item 318,2,"R$ 79,14","R$ 54,60",WhatsApp,Faturado
+90550,2026-01-27,Rosane Ferreira Rocha,Júlio de Castilhos,Marta Dutra,Tintas,Item 288,3,"R$ 116,18","R$ 23,22",WhatsApp,Faturado
+90551,2026-04-10,Vanessa Lima,Cachoeira do Sul,Cleber Antunes,Ferramentas,Item 212,1,"R$ 98,62","R$ 0,00",Loja física,Cancelado
+90552,2026-03-23,Fernanda Rossi,Santa Maria,Marta Dutra,Tintas ,Item 327,2,"R$ 123,39","R$ 0,00",Loja física,Faturado
+90553,2026-05-28,Nathalia Cardoso,Santa Maria,Marta Dutra,Elétrica,Item 294,1,"R$ 64,55","R$ 61,03",Telefone,Faturado
+90554,2026-04-06,Carla Beltrame,Santa Maria,Rosane Pilla,Construção,Item 157,5,"R$ 339,69","R$ 49,64",WhatsApp,Cancelado
+90555,2026-04-08,Diego Bueno,Restinga Sêca,Ivan Bortolotto,JARDINAGEM,Item 101,3,"R$ 70,07","R$ 0,00",Loja física,Faturado
+90556,2026-06-23,Jessica Marques,Cachoeira do Sul,Cleber Antunes,Hidráulica ,Item 247,2,"R$ 83,62","R$ 20,14",Telefone,Faturado
+90557,2026-01-07,Jonas Costa,Restinga Sêca,Cleber Antunes,Construção,Item 160,4,"R$ 343,14","R$ 64,31",WhatsApp,Cancelado
+90558,2026-07-15,Gabriela Pilla,Restinga Sêca,Marta Dutra,Hidráulica,Item 326,7,"R$ 114,88","R$ 0,00",Loja física,Cancelado
+90559,2026-05-21,Matheus Kunz,Santa Maria,Cleber Antunes,Jardinagem,Item 161,1,"R$ 78,81","R$ 32,22",Telefone,Faturado
+90560,2026-06-17,Douglas Barcellos Bueno,Santa Maria,Rosane Pilla,Ferramentas,Item 216,2,"R$ 171,25","R$ 53,63",WhatsApp,Faturado
+90561,2026-06-25,Diego Moraes,Restinga Sêca,Sergio Weber,Tintas,Item 226,1,"R$ 133,17","R$ 20,50",WhatsApp,Faturado
+90562,2026-08-25,Aline Ferreira Schneider,Cachoeira do Sul,Cleber Antunes,Elétrica,Item 222,3,"R$ 94,24","R$ 0,00",Loja física,Faturado
+90563,2026-04-01,Amanda Souza,Cachoeira do Sul,Marta Dutra,Ferramentas,Item 189,5,"R$ 223,16","R$ 57,82",Telefone,Faturado
+90564,2026-02-27,Nathalia Feltrin,Cachoeira do Sul,Rosane Pilla,Ferramentas,Item 115,2,"R$ 91,58","R$ 25,58",WhatsApp,Faturado
+90565,2026-02-17,Luciana Schneider,Santa Maria,Rosane Pilla,Ferramentas,Item 260,1,"R$ 241,23","R$ 0,00",Loja física,Faturado
+90566,2026-07-09,Sergio Marques Souza,Restinga Sêca,Rosane Pilla,Hidráulica,Item 304,2,"R$ 112,14","R$ 51,51",Site,Faturado
+90567,2026-08-07,Paulo Almeida Costa,Santa Maria,Marta Dutra,Tintas,Item 131,6,"R$ 281,36","R$ 56,82",WhatsApp,Faturado
+90568,2026-04-16,Maria Brum Barcellos,São Sepé,Sergio Weber,Tintas,Item 127,2,"R$ 218,01","R$ 0,00",Loja física,Faturado
+90569,2026-06-15,Aline Vargas,Júlio de Castilhos,Cleber Antunes,Jardinagem,Item 207,1,"R$ 112,78","R$ 0,00",Loja física,Faturado
+90570,2026-03-17,Lucas Zanella,Santa Maria,Cleber Antunes,HIDRAULICA,Item 118,7,"R$ 44,55","R$ 0,00",Loja física,Faturado
+90571,2026-03-03,Carla Souza Dutra,Restinga Sêca,Sergio Weber,Tintas,Item 371,1,"R$ 236,35","R$ 0,00",Loja física,Faturado
+90572,2026-07-09,Sergio Weber,Santa Maria,Ivan Bortolotto,Tintas,Item 348,3,"R$ 184,18","R$ 0,00",Loja física,Faturado
+90573,2026-06-16,Matheus Ferreira,Santa Maria,Rosane Pilla,Hidráulica,Item 166,2,"R$ 112,83","R$ 53,36",WhatsApp,Faturado
+90574,2026-01-02,Larissa Bortolotto,Santa Maria,Sergio Weber,Tintas,Item 248,1,"R$ 154,16","R$ 0,00",Loja física,Faturado
+90575,2026-04-30,Tiago Bueno,Júlio de Castilhos,Cleber Antunes,ELETRICA,Item 266,3,"R$ 75,89","R$ 0,00",Loja física,Faturado
+90576,2026-08-12,Gabriela Cardoso,Cachoeira do Sul,Sergio Weber,ELETRICA,Item 123,3,"R$ 102,37","R$ 0,00",Loja física,Faturado
+90577,2026-03-26,Marcos Ribeiro,São Sepé,Rosane Pilla,FERRAMENTAS,Item 107,4,"R$ 213,35","R$ 0,00",Loja física,Faturado
+90578,2026-03-27,Mariana Rocha Martins,Júlio de Castilhos,Sergio Weber,Hidráulica,Item 378,4,"R$ 111,05","R$ 59,83",Site,Faturado
+90579,2026-05-18,Adriana Goulart,Restinga Sêca,Marta Dutra,Elétrica,Item 228,2,"R$ 54,15","R$ 0,00",Loja física,Faturado
+90580,2026-07-08,Patricia Marques,Restinga Sêca,Rosane Pilla,Elétrica,Item 254,7,"R$ 95,87","R$ 32,15",Site,Faturado
+90581,2026-08-05,Bianca Weber,São Sepé,Rosane Pilla,Hidráulica,Item 238,2,"R$ 54,37","R$ 0,00",Loja física,Faturado
+90582,2026-02-18,Tatiane Almeida Marques,São Sepé,Marta Dutra,FERRAMENTAS,Item 139,3,"R$ 92,99","R$ 0,00",Loja física,Faturado
+90583,2026-06-12,Maria Carvalho Nunes,Santa Maria,Ivan Bortolotto,Ferramentas,Item 174,6,"R$ 180,70","R$ 0,00",Loja física,Faturado
+90584,2026-08-28,Nathalia Carvalho Rodrigues,Cachoeira do Sul,Ivan Bortolotto,Tintas,Item 180,1,"R$ 275,76","R$ 0,00",Loja física,Faturado
+90585,2026-07-13,Patricia Vargas,Santa Maria,Ivan Bortolotto,Jardinagem,Item 103,5,"R$ 94,57","R$ 36,95",WhatsApp,Faturado
+90586,2026-01-08,Maicon Feltrin Costa,São Sepé,Cleber Antunes,Construção,Item 243,4,"R$ 259,60","R$ 63,91",Site,Faturado
+90587,2026-06-12,Gabriela Schneider Barcellos,Santa Maria,Marta Dutra,Jardinagem,Item 239,2,"R$ 65,00","R$ 0,00",Loja física,Faturado
+90588,2026-02-09,Alexandre Sartori,São Sepé,Cleber Antunes,Construção,Item 346,3,"R$ 320,79","R$ 0,00",Loja física,Faturado
+90589,2026-03-04,Otavio Fontoura,Santa Maria,Cleber Antunes,Tintas,Item 357,3,"R$ 242,23","R$ 0,00",Loja física,Faturado
+90590,2026-01-29,Adriana Schneider,Cachoeira do Sul,Ivan Bortolotto,Jardinagem,Item 298,4,"R$ 80,08","R$ 45,18",WhatsApp,Faturado
+90591,2026-01-06,Bruna Almeida,Restinga Sêca,Sergio Weber,Hidráulica,Item 135,2,"R$ 88,10","R$ 36,27",WhatsApp,Faturado
+90592,2026-08-19,Eduardo Nunes,Santa Maria,Cleber Antunes,Hidráulica,Item 289,1,"R$ 49,88","R$ 0,00",Loja física,Cancelado
+90593,2026-06-19,Marcos Moraes,Santa Maria,Rosane Pilla,Ferramentas,Item 150,1,"R$ 172,69","R$ 42,40",Telefone,Faturado
+90594,2026-06-26,Bruno Goulart,Restinga Sêca,Cleber Antunes,Ferramentas,Item 376,2,"R$ 99.999,00","R$ 63,00",WhatsApp,Faturado
+90595,2026-03-10,Otavio Fontoura Martins,São Sepé,Sergio Weber,FERRAMENTAS,Item 109,3,"R$ 176,90","R$ 0,00",Loja física,Faturado
+90596,2026-04-22,Priscila Goulart,Cachoeira do Sul,Rosane Pilla,Jardinagem,Item 327,3,"R$ 65,12","R$ 62,46",Site,Faturado
+90597,2026-03-27,Elisa Rossi,Restinga Sêca,Rosane Pilla,ELETRICA,Item 323,2,"R$ 115,33","R$ 56,72",Telefone,Faturado
+90598,2026-06-17,Renata Weber Oliveira,São Sepé,Ivan Bortolotto,Jardinagem,Item 220,7,"R$ 140,55","R$ 43,61",WhatsApp,Faturado
+90599,2026-07-22,Leonardo Gomes,São Sepé,Rosane Pilla,TINTAS,Item 322,3,"R$ 308,05","R$ 0,00",Loja física,Faturado
+90600,2026-08-17,Fernanda Schneider,São Sepé,Rosane Pilla,HIDRAULICA,Item 103,4,"R$ 75,40","R$ 32,83",WhatsApp,Faturado
+90601,2026-08-18,Maria Rodrigues,Restinga Sêca,Cleber Antunes,TINTAS,Item 366,5,"R$ 271,14","R$ 58,21",WhatsApp,Faturado
+90602,2026-08-17,Adriana Carvalho,Santa Maria,Rosane Pilla,Jardinagem,Item 200,1,"R$ 94,11","R$ 19,35",WhatsApp,Faturado
+90603,2026-04-27,Cristiane Barcellos,Júlio de Castilhos,Cleber Antunes,Jardinagem,Item 169,2,"R$ 115,64","R$ 0,00",Loja física,Faturado
+90604,2026-02-06,Carla Brum,São Sepé,Marta Dutra,Hidráulica,Item 251,1,"R$ 103,01","R$ 29,68",WhatsApp,Faturado
+90605,2026-01-29,Rosane Feltrin Rodrigues,Santa Maria,Cleber Antunes,TINTAS,Item 370,1,"R$ 192,17","R$ 0,00",Loja física,Faturado
+90606,2026-08-27,Gabriela Almeida Marques,Júlio de Castilhos,Rosane Pilla,Jardinagem,Item 207,1,"R$ 68,28","R$ 0,00",Loja física,Faturado
+90607,2026-02-16,Patricia Nunes,Santa Maria,Marta Dutra,Tintas,Item 226,3,"R$ 145,48","R$ 46,58",Site,Faturado
+90608,2026-03-11,Rosane Fontoura,Júlio de Castilhos,Ivan Bortolotto,Jardinagem,Item 324,3,"R$ 99,52","R$ 24,49",Site,Faturado
+90609,2026-08-27,Nelson Machado Santos,Santa Maria,Rosane Pilla,Ferramentas,Item 212,4,"R$ 206,62","R$ 0,00",Loja física,Faturado
+90610,2026-01-14,Ana Fagundes,Santa Maria,Ivan Bortolotto,Tintas,Item 269,4,"R$ 246,53","R$ 22,90",Site,Faturado
+90611,2026-02-13,Maria Dutra Almeida,Santa Maria,Ivan Bortolotto,Ferramentas ,Item 187,4,"R$ 145,15","R$ 59,64",WhatsApp,Faturado
+90612,2026-01-06,Simone Trindade,São Sepé,Sergio Weber,Ferramentas,Item 195,4,"R$ 98,27","R$ 29,57",WhatsApp,Faturado
+90613,2026-01-02,Otavio Menezes Fagundes,Santa Maria,Ivan Bortolotto,Construção,Item 172,5,"R$ 279,07","R$ 50,21",Telefone,Faturado
+90614,2026-04-07,Tatiane Rodrigues,Cachoeira do Sul,Sergio Weber,Hidráulica,Item 376,2,"R$ 84,12","R$ 0,00",Loja física,Faturado
+90615,2026-04-24,Fabio Martins Goulart,Santa Maria,Rosane Pilla,Elétrica,Item 374,4,"R$ 92,53","R$ 0,00",Loja física,Faturado
+90616,2026-03-18,Mariana Lima,Cachoeira do Sul,Cleber Antunes,Elétrica,Item 201,5,"R$ 68,70","R$ 0,00",Loja física,Faturado
+90617,2026-04-15,Diego Moraes,Cachoeira do Sul,Marta Dutra,Elétrica,Item 131,2,"R$ 65,78","R$ 0,00",Loja física,Faturado
+90618,2026-04-24,Camila Nunes,Cachoeira do Sul,Marta Dutra,Tintas,Item 230,1,"R$ 300,80","R$ 0,00",Loja física,Faturado
+90619,2026-07-27,Nelson Dutra,Santa Maria,Rosane Pilla,Jardinagem,Item 197,1,"R$ 84,62","R$ 0,00",Loja física,Faturado
+90620,2026-06-26,Fernanda Fagundes Santos,Santa Maria,Cleber Antunes,Construção,Item 195,3,"R$ 323,07","R$ 0,00",Loja física,Faturado
+90621,2026-08-24,Rafael Weber,Santa Maria,Rosane Pilla,Jardinagem,Item 343,2,"R$ 88,81","R$ 0,00",Loja física,Faturado
+90622,2026-08-26,Thiago Brum Gomes,Santa Maria,Sergio Weber,ELETRICA,Item 174,3,"R$ 55,80","R$ 0,00",Loja física,Cancelado
+90623,2026-06-29,Bianca Gomes Rossi,Santa Maria,Ivan Bortolotto,Ferramentas,Item 295,6,"R$ 155,23","R$ 40,60",Telefone,Faturado
+90624,2026-04-09,Maria Rocha Vargas,Santa Maria,Ivan Bortolotto,Jardinagem,Item 183,1,"R$ 140,53","R$ 58,36",WhatsApp,Faturado
+90625,2026-04-30,Leonardo Fagundes,Santa Maria,Ivan Bortolotto,Jardinagem,Item 283,3,"R$ 97,86","R$ 0,00",Loja física,Faturado
+90626,2026-04-06,Eduarda Goulart,Júlio de Castilhos,Rosane Pilla,Ferramentas,Item 276,2,"R$ 153,72","R$ 0,00",Loja física,Faturado
+90627,2026-07-28,Felipe Sartori,Restinga Sêca,Ivan Bortolotto,ELETRICA,Item 284,3,"R$ 67,76","R$ 0,00",Loja física,Faturado
+90628,2026-07-22,Gustavo Rossi,Santa Maria,Cleber Antunes,Construção,Item 197,4,"R$ 214,26","R$ 0,00",Loja física,Faturado
+90629,2026-01-26,Nathalia Trindade,Santa Maria,Sergio Weber,Elétrica,Item 141,1,"R$ 86,17","R$ 35,52",Telefone,Faturado
+90630,2026-06-29,Daniela Oliveira,Júlio de Castilhos,Ivan Bortolotto,Ferramentas,Item 293,1,"R$ 233,01","R$ 22,85",WhatsApp,Cancelado
+90631,2026-02-09,Juliana Beltrame,Santa Maria,Sergio Weber,Hidráulica,Item 192,4,"R$ 92,35","R$ 47,09",Site,Faturado
+90632,2026-07-27,Leticia Dutra Martins,Santa Maria,Cleber Antunes,Construção,Item 308,1,"R$ 331,09","R$ 0,00",Loja física,Faturado
+90633,2026-01-12,Carla Costa Santos,São Sepé,Sergio Weber,Hidráulica,Item 347,-1,"R$ 125,17","R$ 0,00",Loja física,Faturado
+90634,2026-05-07,Maria Sartori,Cachoeira do Sul,Rosane Pilla,Hidráulica,Item 362,4,"R$ 51,00","R$ 0,00",Loja física,Faturado
+90635,2026-02-10,Joao Carvalho Ribeiro,Restinga Sêca,Rosane Pilla,Elétrica,Item 378,4,"R$ 101,45","R$ 62,23",WhatsApp,Faturado
+90636,2026-01-07,Otavio Nunes,São Sepé,Sergio Weber,Hidráulica,Item 269,2,"R$ 67,32","R$ 51,14",WhatsApp,Faturado
+90637,2026-04-03,Sabrina Zanella Rocha,Júlio de Castilhos,Rosane Pilla,HIDRAULICA,Item 371,3,"R$ 77,97","R$ 25,22",WhatsApp,Faturado
+90638,2026-04-08,Diego Feltrin,Santa Maria,Rosane Pilla,Tintas ,Item 328,1,"R$ 180,82","R$ 56,22",Telefone,Faturado
+90639,2026-04-09,Ana Souza,Santa Maria,Marta Dutra,FERRAMENTAS,Item 176,1,"R$ 230,72","R$ 0,00",Loja física,Faturado
+90640,2026-02-06,Lucas Dutra Beltrame,Cachoeira do Sul,Sergio Weber,CONSTRUCAO,Item 355,4,"R$ 175,40","R$ 59,33",Telefone,Faturado
+90641,2026-04-21,Adriana Sartori,Restinga Sêca,Rosane Pilla,Hidráulica,Item 257,5,"R$ 86,89","R$ 0,00",Loja física,Faturado
+90642,2026-06-23,Jonas Brum Kunz,Júlio de Castilhos,Sergio Weber,Elétrica,Item 374,3,"R$ 68,52","R$ 20,87",WhatsApp,Faturado
+90643,2026-02-26,Douglas Fagundes,Cachoeira do Sul,Rosane Pilla,Elétrica,Item 117,1,"R$ 102,27","R$ 44,66",Site,Faturado
+90644,2026-01-19,Simone Costa Bortolotto,Cachoeira do Sul,Sergio Weber,Hidráulica,Item 236,4,"R$ 82,33","R$ 0,00",Loja física,Faturado
+90645,2026-05-11,Cristiane Nunes Sartori,Santa Maria,Sergio Weber,Ferramentas,Item 377,2,"R$ 109,32","R$ 0,00",Loja física,Faturado
+90646,2026-05-25,Joao Fontoura Rocha,Santa Maria,Rosane Pilla,Elétrica,Item 216,6,"R$ 42,60","R$ 0,00",Loja física,Faturado
+90647,2026-01-16,Bruna Bueno Bortolotto,Santa Maria,Rosane Pilla,Hidráulica,Item 276,3,"R$ 63,77","R$ 34,55",Telefone,Faturado
+90648,2026-06-12,Renata Schneider,Santa Maria,Sergio Weber,CONSTRUCAO,Item 112,3,"R$ 140,85","R$ 0,00",Loja física,Faturado
+90649,2026-01-07,Daniela Bortolotto,Restinga Sêca,Ivan Bortolotto,Elétrica,Item 221,1,"R$ 41,84","R$ 0,00",Loja física,Faturado
+90650,2026-02-18,Nelson Beltrame Beltrame,Cachoeira do Sul,Rosane Pilla,Construção,Item 111,3,"R$ 365,80","R$ 48,86",WhatsApp,Faturado
+90651,2026-08-14,Aline Gomes Trindade,Santa Maria,Cleber Antunes,Jardinagem,Item 328,1,"R$ 148,16","R$ 58,54",WhatsApp,Faturado
+90652,2026-06-17,Felipe Beltrame Santos,São Sepé,Sergio Weber,Hidráulica,Item 156,2,"R$ 75,17","R$ 0,00",Loja física,Faturado
+90653,2026-02-03,Eduarda Kunz,Restinga Sêca,Sergio Weber,Elétrica,Item 228,2,"R$ 64,58","R$ 57,61",WhatsApp,Faturado
+90654,2026-06-17,Gustavo Kunz Fagundes,São Sepé,Marta Dutra,FERRAMENTAS,Item 344,1,"R$ 208,83","R$ 35,75",Site,Faturado
+90655,2026-06-30,Luciana Rocha,Santa Maria,Sergio Weber,Construção,Item 312,2,"R$ 350,35","R$ 0,00",Loja física,Faturado
+90656,2026-01-05,Nathalia Martins,São Sepé,Rosane Pilla,Jardinagem,Item 330,1,"R$ 120,00","R$ 0,00",Loja física,Faturado
+90657,2026-07-03,Daniela Bortolotto,Cachoeira do Sul,Cleber Antunes,Jardinagem,Item 123,1,"R$ 137,88","R$ 0,00",Loja física,Faturado
+90658,2026-03-02,Priscila Martins,Santa Maria,Rosane Pilla,CONSTRUCAO,Item 282,4,"R$ 294,42","R$ 0,00",Loja física,Faturado
+90659,2026-07-15,Bianca Bueno Rodrigues,Santa Maria,Rosane Pilla,JARDINAGEM,Item 260,1,"R$ 151,89","R$ 0,00",Loja física,Faturado
+90660,2026-01-06,Aline Silva,Santa Maria,Ivan Bortolotto,Elétrica,Item 260,2,"R$ 94,73","R$ 27,77",Site,Faturado
