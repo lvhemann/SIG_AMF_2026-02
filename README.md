@@ -1,6 +1,6 @@
 # Atividades de casa — G0397 Sistemas de Informação Gerenciais
 
-Seis bases de dados fictícias, uma por atividade, em ordem crescente de dificuldade.
+Cincos bases de dados fictícias, uma por atividade, em ordem crescente de dificuldade.
 Cada pasta traz o CSV e o enunciado completo: a situação, o dicionário de dados, as
 três perguntas, as armadilhas daquela base e o critério de correção.
 
