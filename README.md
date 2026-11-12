@@ -168,3 +168,15 @@ Entregar, no ambiente indicado pelo professor, **um arquivo .zip** com:
 - **Para mesclar por duas colunas**, clique na primeira, segure **Ctrl** e clique na segunda, na mesma ordem nas duas tabelas.
 - **Subtrair e Dividir:** a primeira coluna selecionada é a de cima da conta.
 - **Utilização baixa não significa, sozinha, que alguém está sem trabalho.** Pensem no que o sistema de chamados registra e no que ele não registra.
+
+```bash
+void setup(){
+
+}
+
+void loop(){
+
+}
+```
+
+
