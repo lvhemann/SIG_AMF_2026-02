@@ -1,0 +1,887 @@
+﻿id_chamado;data_abertura;data_fechamento;unidade;categoria;tecnico;minutos_trabalhados;status;avaliacao
+25001;03/08/2026;04/08/2026;Matriz;SEN;T07;17;Resolvido;4
+25002;03/08/2026;03/08/2026;Filial Lajeado;SEN;T05;12;Resolvido;5
+25003;03/08/2026;06/08/2026;Centro de Distribuição;SEN;T04;14;Resolvido;4
+25004;03/08/2026;03/08/2026;Centro de Distribuição;SEN;T07;19;Resolvido;4
+25005;03/08/2026;03/08/2026;Centro de Distribuição;SEN;T01;13;Resolvido;4
+25006;03/08/2026;03/08/2026;Matriz;SEN;T04;10;Resolvido;
+25007;03/08/2026;03/08/2026;Matriz;SEN;T07;14;Resolvido;
+25008;03/08/2026;03/08/2026;Centro de Distribuição;SEN;T04;14;Resolvido;4
+25009;03/08/2026;03/08/2026;Centro de Distribuição;SEN;T07;10;Resolvido;4
+25010;03/08/2026;04/08/2026;Centro de Distribuição;IMP;T01;40;Resolvido;
+25011;03/08/2026;04/08/2026;Filial Santa Cruz;IMP;T02;40;Resolvido;4
+25012;03/08/2026;03/08/2026;Centro de Distribuição;IMP;T03;56;Resolvido;
+25013;03/08/2026;06/08/2026;Filial Santa Cruz;IMP;T02;73;Resolvido;5
+25014;03/08/2026;03/08/2026;Matriz;IMP;T07;55;Resolvido;
+25015;03/08/2026;03/08/2026;Matriz;IMP;T01;30;Resolvido;
+25016;03/08/2026;03/08/2026;Centro de Distribuição;IMP;T07;57;Resolvido;4
+25017;03/08/2026;;Filial Santa Cruz;IMP;T02;0;Cancelado;
+25018;03/08/2026;03/08/2026;Filial Santa Cruz;EML;T03;31;Resolvido;5
+25019;03/08/2026;03/08/2026;Centro de Distribuição;EML;T03;26;Resolvido;5
+25020;03/08/2026;03/08/2026;Filial Lajeado;EML;T02;38;Resolvido;
+25021;03/08/2026;03/08/2026;Matriz;EML;T01;30;Resolvido;4
+25022;03/08/2026;03/08/2026;Matriz;EML;T07;19;Resolvido;4
+25023;03/08/2026;03/08/2026;Matriz;HW;T02;99;Resolvido;4
+25024;03/08/2026;04/08/2026;Matriz;HW;T02;97;Resolvido;5
+25025;03/08/2026;03/08/2026;Filial Santa Cruz;HW;T01;140;Resolvido;4
+25026;03/08/2026;03/08/2026;Filial Santa Cruz;HW;T03;63;Resolvido;
+25027;03/08/2026;03/08/2026;Centro de Distribuição;ERP;T04;56;Resolvido;5
+25028;03/08/2026;03/08/2026;Matriz;ERP;T05;85;Resolvido;
+25029;03/08/2026;05/08/2026;Filial Santa Cruz;ERP;T04;48;Resolvido;5
+25030;03/08/2026;03/08/2026;Filial Santa Cruz;ERP;T04;45;Resolvido;4
+25031;03/08/2026;03/08/2026;Centro de Distribuição;REDE;T06;45;Resolvido;4
+25032;04/08/2026;04/08/2026;Matriz;SEN;T07;15;Resolvido;5
+25033;04/08/2026;04/08/2026;Centro de Distribuição;SEN;T01;18;Resolvido;
+25034;04/08/2026;04/08/2026;Centro de Distribuição;SEN;T01;11;Resolvido;5
+25035;04/08/2026;04/08/2026;Matriz;SEN;T03;12;Resolvido;
+25036;04/08/2026;04/08/2026;Filial Lajeado;SEN;T01;10;Resolvido;
+25037;04/08/2026;07/08/2026;Centro de Distribuição;SEN;T07;12;Resolvido;5
+25038;04/08/2026;04/08/2026;Matriz;SEN;T07;8;Resolvido;5
+25039;04/08/2026;04/08/2026;Filial Santa Cruz;SEN;T01;6;Resolvido;4
+25040;04/08/2026;04/08/2026;Matriz;SEN;T05;12;Resolvido;5
+25041;04/08/2026;04/08/2026;Filial Santa Cruz;SEN;T02;8;Resolvido;5
+25042;04/08/2026;04/08/2026;Filial Lajeado;SEN;T01;11;Resolvido;
+25043;04/08/2026;04/08/2026;Filial Santa Cruz;SEN;T07;13;Resolvido;
+25044;04/08/2026;04/08/2026;Matriz;SEN;T07;15;Resolvido;
+25045;04/08/2026;04/08/2026;Matriz;SEN;T07;18;Resolvido;
+25046;04/08/2026;;Matriz;SEN;T01;0;Cancelado;
+25047;04/08/2026;04/08/2026;Filial Santa Cruz;SEN;T05;15;Resolvido;3
+25048;04/08/2026;;Centro de Distribuição;SEN;T05;0;Cancelado;
+25049;04/08/2026;04/08/2026;Filial Lajeado;SEN;T01;15;Resolvido;4
+25050;04/08/2026;;Centro de Distribuição;SEN;T01;0;Cancelado;
+25051;04/08/2026;04/08/2026;Matriz;SEN;T07;6;Resolvido;
+25052;04/08/2026;04/08/2026;Matriz;SEN;T04;9;Resolvido;
+25053;04/08/2026;04/08/2026;Matriz;SEN;T01;11;Resolvido;5
+25054;04/08/2026;04/08/2026;Matriz;IMP;T02;41;Resolvido;4
+25055;04/08/2026;04/08/2026;Centro de Distribuição;IMP;T03;61;Resolvido;5
+25056;04/08/2026;05/08/2026;Matriz;IMP;T01;36;Resolvido;
+25057;04/08/2026;04/08/2026;Centro de Distribuição;IMP;T02;48;Resolvido;
+25058;04/08/2026;07/08/2026;Filial Lajeado;IMP;T01;42;Resolvido;
+25059;04/08/2026;05/08/2026;Filial Santa Cruz;IMP;T03;45;Resolvido;4
+25060;04/08/2026;04/08/2026;Centro de Distribuição;IMP;T01;54;Resolvido;5
+25061;04/08/2026;04/08/2026;Matriz;HW;T01;88;Resolvido;
+25062;04/08/2026;04/08/2026;Filial Santa Cruz;HW;T02;79;Resolvido;
+25063;04/08/2026;04/08/2026;Filial Santa Cruz;HW;T01;88;Resolvido;
+25064;04/08/2026;04/08/2026;Centro de Distribuição;HW;T03;105;Resolvido;
+25065;04/08/2026;05/08/2026;Matriz;SW;T07;71;Resolvido;4
+25066;04/08/2026;05/08/2026;Matriz;SW;T03;37;Resolvido;5
+25067;04/08/2026;05/08/2026;Centro de Distribuição;SW;T02;38;Resolvido;
+25068;04/08/2026;04/08/2026;Filial Santa Cruz;SW;T02;33;Resolvido;4
+25069;04/08/2026;04/08/2026;Matriz;SW;T02;36;Resolvido;
+25070;05/08/2026;05/08/2026;Filial Lajeado;SEN;T07;20;Resolvido;
+25071;05/08/2026;05/08/2026;Centro de Distribuição;SEN;T07;20;Resolvido;
+25072;05/08/2026;05/08/2026;Matriz;SEN;T03;13;Resolvido;4
+25073;05/08/2026;05/08/2026;Matriz;SEN;T04;11;Resolvido;
+25074;05/08/2026;05/08/2026;Matriz;SEN;T04;9;Resolvido;5
+25075;05/08/2026;;Filial Santa Cruz;SEN;T05;0;Cancelado;
+25076;05/08/2026;07/08/2026;Centro de Distribuição;SEN;T04;5;Resolvido;
+25077;05/08/2026;05/08/2026;Filial Lajeado;SEN;T03;14;Resolvido;5
+25078;05/08/2026;07/08/2026;Filial Lajeado;SEN;T05;11;Resolvido;4
+25079;05/08/2026;05/08/2026;Matriz;SEN;T01;13;Resolvido;4
+25080;05/08/2026;05/08/2026;Matriz;SEN;T01;17;Resolvido;5
+25081;05/08/2026;05/08/2026;Matriz;SEN;T02;19;Resolvido;
+25082;05/08/2026;10/08/2026;Filial Lajeado;SEN;T01;13;Resolvido;4
+25083;05/08/2026;05/08/2026;Matriz;SEN;T02;8;Resolvido;5
+25084;05/08/2026;06/08/2026;Centro de Distribuição;SEN;T05;12;Resolvido;
+25085;05/08/2026;05/08/2026;Filial Lajeado;SEN;T05;17;Resolvido;4
+25086;05/08/2026;05/08/2026;Matriz;SEN;T07;14;Resolvido;5
+25087;05/08/2026;05/08/2026;Matriz;SEN;T05;12;Resolvido;
+25088;05/08/2026;05/08/2026;Matriz;SEN;T07;18;Resolvido;4
+25089;05/08/2026;05/08/2026;Filial Lajeado;SEN;T05;13;Resolvido;5
+25090;05/08/2026;06/08/2026;Matriz;SEN;T04;14;Resolvido;4
+25091;05/08/2026;05/08/2026;Filial Santa Cruz;IMP;T03;52;Resolvido;5
+25092;05/08/2026;05/08/2026;Filial Santa Cruz;IMP;T03;30;Resolvido;4
+25093;05/08/2026;05/08/2026;Filial Lajeado;IMP;T02;31;Resolvido;5
+25094;05/08/2026;05/08/2026;Filial Lajeado;IMP;T03;51;Resolvido;
+25095;05/08/2026;10/08/2026;Centro de Distribuição;IMP;T03;65;Resolvido;3
+25096;05/08/2026;06/08/2026;Matriz;IMP;T02;53;Resolvido;
+25097;05/08/2026;06/08/2026;Matriz;IMP;T01;57;Resolvido;
+25098;05/08/2026;05/08/2026;Centro de Distribuição;IMP;T07;67;Resolvido;4
+25099;05/08/2026;05/08/2026;Centro de Distribuição;IMP;T03;39;Resolvido;4
+25100;05/08/2026;05/08/2026;Filial Santa Cruz;IMP;T01;57;Resolvido;5
+25101;05/08/2026;05/08/2026;Matriz;EML;T01;24;Resolvido;
+25102;05/08/2026;05/08/2026;Matriz;EML;T03;32;Resolvido;
+25103;05/08/2026;05/08/2026;Matriz;EML;T03;19;Resolvido;4
+25104;05/08/2026;05/08/2026;Filial Santa Cruz;EML;T02;24;Resolvido;4
+25105;05/08/2026;05/08/2026;Matriz;EML;T07;18;Resolvido;
+25106;05/08/2026;05/08/2026;Matriz;EML;T07;31;Resolvido;
+25107;05/08/2026;05/08/2026;Filial Santa Cruz;HW;T01;73;Resolvido;4
+25108;05/08/2026;05/08/2026;Filial Lajeado;HW;T03;94;Resolvido;4
+25109;05/08/2026;05/08/2026;Matriz;ERP;T05;44;Resolvido;5
+25110;05/08/2026;05/08/2026;Filial Lajeado;ERP;T04;72;Resolvido;
+25111;05/08/2026;05/08/2026;Matriz;ERP;T05;48;Resolvido;4
+25112;05/08/2026;05/08/2026;Centro de Distribuição;REDE;T06;74;Resolvido;
+25113;05/08/2026;06/08/2026;Filial Santa Cruz;REDE;T06;72;Resolvido;5
+25114;06/08/2026;06/08/2026;Centro de Distribuição;SEN;T07;16;Resolvido;5
+25115;06/08/2026;10/08/2026;Matriz;SEN;T01;9;Resolvido;3
+25116;06/08/2026;07/08/2026;Filial Santa Cruz;SEN;T02;15;Resolvido;
+25117;06/08/2026;06/08/2026;Filial Lajeado;SEN;T05;10;Resolvido;5
+25118;06/08/2026;10/08/2026;Centro de Distribuição;SEN;T07;17;Resolvido;5
+25119;06/08/2026;06/08/2026;Centro de Distribuição;SEN;T04;9;Resolvido;5
+25120;06/08/2026;10/08/2026;Filial Santa Cruz;SEN;T03;12;Resolvido;
+25121;06/08/2026;06/08/2026;Matriz;SEN;T02;8;Resolvido;5
+25122;06/08/2026;07/08/2026;Filial Lajeado;SEN;T01;15;Resolvido;5
+25123;06/08/2026;06/08/2026;Centro de Distribuição;SEN;T05;9;Resolvido;
+25124;06/08/2026;06/08/2026;Matriz;SEN;T03;9;Resolvido;
+25125;06/08/2026;07/08/2026;Filial Lajeado;SEN;T02;15;Resolvido;
+25126;06/08/2026;06/08/2026;Filial Santa Cruz;SEN;T01;15;Resolvido;5
+25127;06/08/2026;06/08/2026;Filial Lajeado;SEN;T07;12;Resolvido;5
+25128;06/08/2026;06/08/2026;Matriz;SEN;T01;17;Resolvido;5
+25129;06/08/2026;06/08/2026;Matriz;SEN;T04;9;Resolvido;
+25130;06/08/2026;06/08/2026;Centro de Distribuição;SEN;T04;13;Resolvido;4
+25131;06/08/2026;06/08/2026;Matriz;SEN;T04;12;Resolvido;4
+25132;06/08/2026;06/08/2026;Matriz;SEN;T03;10;Resolvido;
+25133;06/08/2026;06/08/2026;Matriz;SEN;T01;11;Resolvido;
+25134;06/08/2026;07/08/2026;Matriz;IMP;T02;32;Resolvido;
+25135;06/08/2026;07/08/2026;Matriz;IMP;T02;59;Resolvido;5
+25136;06/08/2026;07/08/2026;Matriz;IMP;T07;67;Resolvido;4
+25137;06/08/2026;06/08/2026;Matriz;IMP;T07;37;Resolvido;4
+25138;06/08/2026;06/08/2026;Filial Lajeado;IMP;T03;73;Resolvido;4
+25139;06/08/2026;06/08/2026;Centro de Distribuição;IMP;T03;76;Resolvido;5
+25140;06/08/2026;06/08/2026;Centro de Distribuição;IMP;T03;61;Resolvido;
+25141;06/08/2026;06/08/2026;Filial Santa Cruz;IMP;T01;48;Resolvido;5
+25142;06/08/2026;10/08/2026;Matriz;EML;T07;42;Resolvido;
+25143;06/08/2026;06/08/2026;Matriz;EML;T03;37;Resolvido;5
+25144;06/08/2026;06/08/2026;Centro de Distribuição;EML;T07;44;Resolvido;4
+25145;06/08/2026;06/08/2026;Centro de Distribuição;EML;T03;13;Resolvido;5
+25146;06/08/2026;06/08/2026;Filial Lajeado;EML;T01;30;Resolvido;5
+25147;06/08/2026;06/08/2026;Filial Santa Cruz;HW;T02;113;Resolvido;4
+25148;06/08/2026;10/08/2026;Centro de Distribuição;HW;T03;98;Resolvido;
+25149;06/08/2026;06/08/2026;Centro de Distribuição;HW;T01;90;Resolvido;5
+25150;06/08/2026;06/08/2026;Centro de Distribuição;HW;T03;94;Resolvido;5
+25151;06/08/2026;06/08/2026;Matriz;HW;T02;74;Resolvido;
+25152;06/08/2026;06/08/2026;Matriz;HW;T01;114;Resolvido;
+25153;06/08/2026;07/08/2026;Matriz;SW;T02;25;Resolvido;
+25154;06/08/2026;06/08/2026;Filial Santa Cruz;SW;T07;36;Resolvido;
+25155;06/08/2026;06/08/2026;Filial Lajeado;SW;T03;44;Resolvido;
+25156;06/08/2026;06/08/2026;Matriz;SW;T07;25;Resolvido;
+25157;06/08/2026;06/08/2026;Filial Santa Cruz;ERP;T05;58;Resolvido;5
+25158;06/08/2026;06/08/2026;Matriz;ERP;T05;58;Resolvido;3
+25159;06/08/2026;06/08/2026;Filial Lajeado;ERP;T05;71;Resolvido;4
+25160;06/08/2026;06/08/2026;Matriz;ERP;T05;62;Resolvido;4
+25161;06/08/2026;06/08/2026;Centro de Distribuição;ERP;T05;32;Resolvido;
+25162;06/08/2026;06/08/2026;Matriz;REDE;T06;75;Resolvido;4
+25163;07/08/2026;10/08/2026;Centro de Distribuição;SEN;T03;14;Resolvido;4
+25164;07/08/2026;;Centro de Distribuição;SEN;T04;0;Cancelado;
+25165;07/08/2026;07/08/2026;Matriz;SEN;T02;14;Resolvido;
+25166;07/08/2026;07/08/2026;Filial Santa Cruz;SEN;T05;12;Resolvido;
+25167;07/08/2026;10/08/2026;Matriz;SEN;T02;13;Resolvido;4
+25168;07/08/2026;07/08/2026;Centro de Distribuição;SEN;T04;16;Resolvido;
+25169;07/08/2026;07/08/2026;Matriz;SEN;T04;11;Resolvido;
+25170;07/08/2026;10/08/2026;Filial Lajeado;SEN;T05;9;Resolvido;5
+25171;07/08/2026;07/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;4
+25172;07/08/2026;;Centro de Distribuição;SEN;T02;0;Cancelado;
+25173;07/08/2026;10/08/2026;Matriz;SEN;T07;9;Resolvido;5
+25174;07/08/2026;07/08/2026;Matriz;SEN;T07;16;Resolvido;3
+25175;07/08/2026;07/08/2026;Centro de Distribuição;SEN;T05;8;Resolvido;
+25176;07/08/2026;07/08/2026;Matriz;SEN;T02;15;Resolvido;
+25177;07/08/2026;07/08/2026;Matriz;SEN;T07;10;Resolvido;
+25178;07/08/2026;07/08/2026;Matriz;SEN;T01;10;Resolvido;5
+25179;07/08/2026;07/08/2026;Matriz;SEN;T07;18;Resolvido;5
+25180;07/08/2026;07/08/2026;Centro de Distribuição;SEN;T01;14;Resolvido;
+25181;07/08/2026;07/08/2026;Matriz;SEN;T05;13;Resolvido;
+25182;07/08/2026;10/08/2026;Matriz;SEN;T04;20;Resolvido;
+25183;07/08/2026;07/08/2026;Centro de Distribuição;SEN;T03;11;Resolvido;
+25184;07/08/2026;07/08/2026;Filial Santa Cruz;SEN;T04;9;Resolvido;5
+25185;07/08/2026;10/08/2026;Centro de Distribuição;SEN;T07;12;Resolvido;5
+25186;07/08/2026;10/08/2026;Filial Lajeado;SEN;T01;10;Resolvido;
+25187;07/08/2026;07/08/2026;Matriz;SEN;T01;12;Resolvido;5
+25188;07/08/2026;;Matriz;IMP;T03;0;Cancelado;
+25189;07/08/2026;07/08/2026;Centro de Distribuição;IMP;T01;56;Resolvido;4
+25190;07/08/2026;07/08/2026;Centro de Distribuição;IMP;T01;33;Resolvido;
+25191;07/08/2026;07/08/2026;Centro de Distribuição;IMP;T07;46;Resolvido;4
+25192;07/08/2026;07/08/2026;Matriz;IMP;T07;83;Resolvido;
+25193;07/08/2026;10/08/2026;Filial Santa Cruz;IMP;T01;73;Resolvido;5
+25194;07/08/2026;07/08/2026;Matriz;IMP;T01;42;Resolvido;
+25195;07/08/2026;07/08/2026;Matriz;IMP;T02;71;Resolvido;4
+25196;07/08/2026;07/08/2026;Centro de Distribuição;IMP;T02;60;Resolvido;4
+25197;07/08/2026;07/08/2026;Filial Santa Cruz;IMP;T07;58;Resolvido;
+25198;07/08/2026;07/08/2026;Matriz;IMP;T03;53;Resolvido;4
+25199;07/08/2026;07/08/2026;Filial Lajeado;IMP;T07;31;Resolvido;4
+25200;07/08/2026;07/08/2026;Matriz;EML;T01;38;Resolvido;5
+25201;07/08/2026;07/08/2026;Centro de Distribuição;EML;T03;24;Resolvido;5
+25202;07/08/2026;07/08/2026;Matriz;EML;T07;41;Resolvido;
+25203;07/08/2026;07/08/2026;Centro de Distribuição;EML;T07;34;Resolvido;
+25204;07/08/2026;10/08/2026;Filial Lajeado;HW;T03;67;Resolvido;
+25205;07/08/2026;07/08/2026;Centro de Distribuição;HW;T02;35;Resolvido;4
+25206;07/08/2026;07/08/2026;Centro de Distribuição;HW;T01;52;Resolvido;4
+25207;07/08/2026;07/08/2026;Filial Santa Cruz;HW;T02;70;Resolvido;
+25208;07/08/2026;07/08/2026;Matriz;HW;T02;109;Resolvido;4
+25209;07/08/2026;07/08/2026;Matriz;HW;T03;78;Resolvido;
+25210;07/08/2026;10/08/2026;Filial Santa Cruz;HW;T02;59;Resolvido;5
+25211;07/08/2026;07/08/2026;Filial Lajeado;SW;T03;39;Resolvido;
+25212;07/08/2026;07/08/2026;Matriz;SW;T07;49;Resolvido;
+25213;07/08/2026;07/08/2026;Centro de Distribuição;SW;T03;34;Resolvido;
+25214;07/08/2026;07/08/2026;Matriz;ERP;T04;86;Resolvido;
+25215;07/08/2026;07/08/2026;Filial Santa Cruz;ERP;T05;65;Resolvido;5
+25216;07/08/2026;07/08/2026;Filial Lajeado;ERP;T05;111;Resolvido;5
+25217;07/08/2026;07/08/2026;Centro de Distribuição;REDE;T06;97;Resolvido;4
+25218;10/08/2026;10/08/2026;Matriz;SEN;T01;14;Resolvido;
+25219;10/08/2026;13/08/2026;Matriz;SEN;T03;8;Resolvido;
+25220;10/08/2026;11/08/2026;Filial Santa Cruz;SEN;T02;10;Resolvido;4
+25221;10/08/2026;13/08/2026;Matriz;SEN;T03;15;Resolvido;4
+25222;10/08/2026;10/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;5
+25223;10/08/2026;10/08/2026;Matriz;SEN;T01;12;Resolvido;5
+25224;10/08/2026;10/08/2026;Centro de Distribuição;SEN;T04;15;Resolvido;5
+25225;10/08/2026;10/08/2026;Centro de Distribuição;SEN;T01;11;Resolvido;
+25226;10/08/2026;10/08/2026;Matriz;SEN;T04;9;Resolvido;3
+25227;10/08/2026;10/08/2026;Matriz;SEN;T07;8;Resolvido;
+25228;10/08/2026;11/08/2026;Filial Santa Cruz;SEN;T04;10;Resolvido;
+25229;10/08/2026;11/08/2026;Filial Santa Cruz;SEN;T02;15;Resolvido;
+25230;10/08/2026;10/08/2026;Filial Lajeado;SEN;T04;9;Resolvido;4
+25231;10/08/2026;10/08/2026;Filial Santa Cruz;SEN;T04;11;Resolvido;3
+25232;10/08/2026;10/08/2026;Centro de Distribuição;SEN;T01;12;Resolvido;5
+25233;10/08/2026;13/08/2026;Filial Lajeado;SEN;T02;10;Resolvido;
+25234;10/08/2026;10/08/2026;Filial Lajeado;SEN;T07;19;Resolvido;
+25235;10/08/2026;13/08/2026;Matriz;SEN;T04;4;Resolvido;
+25236;10/08/2026;10/08/2026;Centro de Distribuição;SEN;T04;13;Resolvido;5
+25237;10/08/2026;11/08/2026;Filial Lajeado;SEN;T05;14;Resolvido;
+25238;10/08/2026;10/08/2026;Matriz;SEN;T04;7;Resolvido;
+25239;10/08/2026;10/08/2026;Centro de Distribuição;SEN;T04;16;Resolvido;4
+25240;10/08/2026;10/08/2026;Filial Lajeado;SEN;T05;11;Resolvido;5
+25241;10/08/2026;12/08/2026;Matriz;SEN;T02;11;Resolvido;5
+25242;10/08/2026;10/08/2026;Filial Lajeado;IMP;T02;49;Resolvido;5
+25243;10/08/2026;10/08/2026;Matriz;IMP;T03;31;Resolvido;
+25244;10/08/2026;11/08/2026;Centro de Distribuição;IMP;T01;32;Resolvido;4
+25245;10/08/2026;10/08/2026;Matriz;IMP;T02;60;Resolvido;
+25246;10/08/2026;10/08/2026;Filial Lajeado;IMP;T01;57;Resolvido;4
+25247;10/08/2026;10/08/2026;Filial Lajeado;IMP;T02;31;Resolvido;5
+25248;10/08/2026;10/08/2026;Matriz;IMP;T07;58;Resolvido;5
+25249;10/08/2026;11/08/2026;Centro de Distribuição;IMP;T01;65;Resolvido;
+25250;10/08/2026;10/08/2026;Matriz;EML;T03;32;Resolvido;4
+25251;10/08/2026;10/08/2026;Centro de Distribuição;EML;T03;39;Resolvido;4
+25252;10/08/2026;10/08/2026;Matriz;EML;T07;25;Resolvido;5
+25253;10/08/2026;11/08/2026;Centro de Distribuição;EML;T07;35;Resolvido;
+25254;10/08/2026;10/08/2026;Filial Lajeado;SW;T03;34;Resolvido;
+25255;10/08/2026;10/08/2026;Matriz;SW;T02;60;Resolvido;3
+25256;10/08/2026;10/08/2026;Filial Lajeado;REDE;T06;107;Resolvido;5
+25257;11/08/2026;12/08/2026;Filial Lajeado;SEN;T02;4;Resolvido;
+25258;11/08/2026;12/08/2026;Filial Santa Cruz;SEN;T05;15;Resolvido;3
+25259;11/08/2026;11/08/2026;Matriz;SEN;T03;14;Resolvido;
+25260;11/08/2026;11/08/2026;Matriz;SEN;T02;16;Resolvido;3
+25261;11/08/2026;13/08/2026;Matriz;SEN;T04;9;Resolvido;
+25262;11/08/2026;11/08/2026;Matriz;SEN;T04;7;Resolvido;
+25263;11/08/2026;;Matriz;SEN;T07;0;Cancelado;
+25264;11/08/2026;11/08/2026;Matriz;SEN;T07;10;Resolvido;4
+25265;11/08/2026;11/08/2026;Matriz;SEN;T05;8;Resolvido;5
+25266;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T03;14;Resolvido;
+25267;11/08/2026;12/08/2026;Centro de Distribuição;SEN;T01;17;Resolvido;
+25268;11/08/2026;11/08/2026;Matriz;SEN;T05;15;Resolvido;
+25269;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T02;15;Resolvido;
+25270;11/08/2026;11/08/2026;Matriz;SEN;T07;10;Resolvido;4
+25271;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T03;15;Resolvido;
+25272;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T07;12;Resolvido;5
+25273;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T07;11;Resolvido;4
+25274;11/08/2026;11/08/2026;Matriz;SEN;T07;13;Resolvido;5
+25275;11/08/2026;11/08/2026;Filial Santa Cruz;SEN;T02;17;Resolvido;
+25276;11/08/2026;11/08/2026;Matriz;SEN;T03;14;Resolvido;
+25277;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T01;11;Resolvido;
+25278;11/08/2026;11/08/2026;Centro de Distribuição;SEN;T05;14;Resolvido;4
+25279;11/08/2026;11/08/2026;Matriz;IMP;T03;55;Resolvido;
+25280;11/08/2026;11/08/2026;Centro de Distribuição;IMP;T01;33;Resolvido;
+25281;11/08/2026;14/08/2026;Filial Lajeado;IMP;T03;45;Resolvido;5
+25282;11/08/2026;11/08/2026;Filial Lajeado;IMP;T01;53;Resolvido;
+25283;11/08/2026;11/08/2026;Matriz;IMP;T02;61;Resolvido;5
+25284;11/08/2026;11/08/2026;Filial Lajeado;EML;T07;32;Resolvido;5
+25285;11/08/2026;11/08/2026;Centro de Distribuição;EML;T07;42;Resolvido;5
+25286;11/08/2026;11/08/2026;Matriz;EML;T07;27;Resolvido;4
+25287;11/08/2026;11/08/2026;Matriz;EML;T01;21;Resolvido;4
+25288;11/08/2026;11/08/2026;Matriz;HW;T03;85;Resolvido;5
+25289;11/08/2026;11/08/2026;Centro de Distribuição;HW;T02;76;Resolvido;4
+25290;11/08/2026;11/08/2026;Filial Lajeado;HW;T02;114;Resolvido;
+25291;11/08/2026;11/08/2026;Centro de Distribuição;HW;T03;101;Resolvido;5
+25292;11/08/2026;12/08/2026;Matriz;HW;T02;96;Resolvido;
+25293;11/08/2026;11/08/2026;Centro de Distribuição;HW;T03;125;Resolvido;
+25294;11/08/2026;11/08/2026;Filial Lajeado;SW;T01;20;Resolvido;
+25295;11/08/2026;11/08/2026;Matriz;SW;T03;41;Resolvido;4
+25296;11/08/2026;11/08/2026;Centro de Distribuição;SW;T07;42;Resolvido;
+25297;11/08/2026;11/08/2026;Matriz;SW;T02;36;Resolvido;
+25298;11/08/2026;14/08/2026;Centro de Distribuição;SW;T03;31;Resolvido;
+25299;11/08/2026;11/08/2026;Matriz;SW;T03;23;Resolvido;
+25300;11/08/2026;14/08/2026;Matriz;SW;T02;42;Resolvido;4
+25301;12/08/2026;12/08/2026;Filial Santa Cruz;SEN;T03;12;Resolvido;4
+25302;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T04;13;Resolvido;
+25303;12/08/2026;12/08/2026;Filial Lajeado;SEN;T04;11;Resolvido;4
+25304;12/08/2026;12/08/2026;Matriz;SEN;T02;16;Resolvido;
+25305;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;
+25306;12/08/2026;12/08/2026;Matriz;SEN;T07;11;Resolvido;
+25307;12/08/2026;12/08/2026;Matriz;SEN;T02;11;Resolvido;5
+25308;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T05;13;Resolvido;4
+25309;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T04;15;Resolvido;5
+25310;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T01;20;Resolvido;4
+25311;12/08/2026;12/08/2026;Filial Lajeado;SEN;T03;16;Resolvido;
+25312;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T03;15;Resolvido;5
+25313;12/08/2026;12/08/2026;Matriz;SEN;T02;5;Resolvido;
+25314;12/08/2026;12/08/2026;Filial Lajeado;SEN;T05;8;Resolvido;4
+25315;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T04;13;Resolvido;5
+25316;12/08/2026;12/08/2026;Matriz;SEN;T04;7;Resolvido;5
+25317;12/08/2026;12/08/2026;Filial Lajeado;SEN;T07;16;Resolvido;
+25318;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T01;13;Resolvido;
+25319;12/08/2026;12/08/2026;Centro de Distribuição;SEN;T07;14;Resolvido;
+25320;12/08/2026;12/08/2026;Matriz;SEN;T04;6;Resolvido;3
+25321;12/08/2026;12/08/2026;Filial Lajeado;SEN;T01;10;Resolvido;
+25322;12/08/2026;14/08/2026;Filial Lajeado;SEN;T04;13;Resolvido;5
+25323;12/08/2026;12/08/2026;Matriz;SEN;T01;6;Resolvido;
+25324;12/08/2026;17/08/2026;Filial Santa Cruz;IMP;T07;57;Resolvido;4
+25325;12/08/2026;12/08/2026;Filial Lajeado;EML;T01;33;Resolvido;4
+25326;12/08/2026;12/08/2026;Matriz;EML;T07;34;Resolvido;
+25327;12/08/2026;12/08/2026;Filial Lajeado;HW;T03;95;Resolvido;4
+25328;12/08/2026;12/08/2026;Filial Lajeado;HW;T02;80;Resolvido;
+25329;12/08/2026;12/08/2026;Filial Santa Cruz;HW;T02;85;Resolvido;
+25330;12/08/2026;12/08/2026;Matriz;SW;T07;27;Resolvido;
+25331;12/08/2026;12/08/2026;Filial Lajeado;SW;T07;47;Resolvido;
+25332;12/08/2026;12/08/2026;Matriz;SW;T02;38;Resolvido;
+25333;12/08/2026;12/08/2026;Matriz;SW;T02;47;Resolvido;
+25334;12/08/2026;12/08/2026;Filial Lajeado;ERP;T04;73;Resolvido;5
+25335;12/08/2026;12/08/2026;Filial Santa Cruz;ERP;T05;80;Resolvido;5
+25336;12/08/2026;13/08/2026;Matriz;ERP;T05;96;Resolvido;5
+25337;13/08/2026;13/08/2026;Matriz;SEN;T02;18;Resolvido;3
+25338;13/08/2026;14/08/2026;Matriz;SEN;T02;14;Resolvido;4
+25339;13/08/2026;13/08/2026;Filial Santa Cruz;SEN;T05;15;Resolvido;4
+25340;13/08/2026;17/08/2026;Matriz;SEN;T04;10;Resolvido;
+25341;13/08/2026;13/08/2026;Centro de Distribuição;SEN;T02;10;Resolvido;
+25342;13/08/2026;13/08/2026;Filial Santa Cruz;SEN;T01;12;Resolvido;4
+25343;13/08/2026;13/08/2026;Centro de Distribuição;SEN;T01;11;Resolvido;4
+25344;13/08/2026;13/08/2026;Matriz;SEN;T02;11;Resolvido;4
+25345;13/08/2026;13/08/2026;Filial Lajeado;SEN;T07;9;Resolvido;4
+25346;13/08/2026;17/08/2026;Filial Lajeado;SEN;T04;11;Resolvido;
+25347;13/08/2026;14/08/2026;Filial Santa Cruz;SEN;T05;13;Resolvido;
+25348;13/08/2026;17/08/2026;Filial Santa Cruz;SEN;T03;13;Resolvido;3
+25349;13/08/2026;17/08/2026;Matriz;SEN;T01;13;Resolvido;
+25350;13/08/2026;13/08/2026;Centro de Distribuição;SEN;T04;5;Resolvido;5
+25351;13/08/2026;17/08/2026;Matriz;SEN;T03;11;Resolvido;5
+25352;13/08/2026;13/08/2026;Matriz;SEN;T04;19;Resolvido;5
+25353;13/08/2026;13/08/2026;Matriz;SEN;T03;17;Resolvido;5
+25354;13/08/2026;17/08/2026;Centro de Distribuição;SEN;T03;10;Resolvido;5
+25355;13/08/2026;13/08/2026;Matriz;SEN;T01;15;Resolvido;
+25356;13/08/2026;13/08/2026;Centro de Distribuição;SEN;T05;14;Resolvido;4
+25357;13/08/2026;13/08/2026;Filial Lajeado;IMP;T03;68;Resolvido;5
+25358;13/08/2026;13/08/2026;Filial Lajeado;IMP;T02;37;Resolvido;4
+25359;13/08/2026;14/08/2026;Matriz;IMP;T03;70;Resolvido;
+25360;13/08/2026;13/08/2026;Matriz;IMP;T01;52;Resolvido;4
+25361;13/08/2026;13/08/2026;Matriz;IMP;T02;31;Resolvido;
+25362;13/08/2026;13/08/2026;Matriz;IMP;T01;57;Resolvido;3
+25363;13/08/2026;14/08/2026;Centro de Distribuição;IMP;T02;40;Resolvido;5
+25364;13/08/2026;13/08/2026;Filial Lajeado;IMP;T03;52;Resolvido;4
+25365;13/08/2026;;Matriz;IMP;T02;0;Cancelado;
+25366;13/08/2026;13/08/2026;Filial Lajeado;EML;T07;47;Resolvido;
+25367;13/08/2026;13/08/2026;Centro de Distribuição;EML;T02;29;Resolvido;4
+25368;13/08/2026;13/08/2026;Matriz;EML;T03;22;Resolvido;5
+25369;13/08/2026;13/08/2026;Centro de Distribuição;EML;T07;40;Resolvido;4
+25370;13/08/2026;13/08/2026;Filial Lajeado;HW;T02;134;Resolvido;
+25371;13/08/2026;13/08/2026;Centro de Distribuição;HW;T02;90;Resolvido;5
+25372;13/08/2026;13/08/2026;Centro de Distribuição;HW;T03;92;Resolvido;
+25373;13/08/2026;14/08/2026;Matriz;SW;T02;26;Resolvido;5
+25374;13/08/2026;13/08/2026;Matriz;SW;T01;35;Resolvido;5
+25375;13/08/2026;13/08/2026;Centro de Distribuição;SW;T07;52;Resolvido;
+25376;13/08/2026;13/08/2026;Matriz;SW;T02;37;Resolvido;5
+25377;13/08/2026;13/08/2026;Filial Lajeado;ERP;T05;74;Resolvido;
+25378;13/08/2026;13/08/2026;Centro de Distribuição;ERP;T05;72;Resolvido;4
+25379;13/08/2026;13/08/2026;Centro de Distribuição;ERP;T05;116;Resolvido;4
+25380;13/08/2026;17/08/2026;Matriz;ERP;T04;33;Resolvido;
+25381;13/08/2026;13/08/2026;Filial Lajeado;ERP;T05;101;Resolvido;4
+25382;13/08/2026;13/08/2026;Filial Santa Cruz;REDE;T06;73;Resolvido;5
+25383;14/08/2026;14/08/2026;Matriz;SEN;T04;11;Resolvido;
+25384;14/08/2026;17/08/2026;Centro de Distribuição;SEN;T03;18;Resolvido;5
+25385;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T02;13;Resolvido;5
+25386;14/08/2026;17/08/2026;Matriz;SEN;T05;11;Resolvido;
+25387;14/08/2026;14/08/2026;Filial Santa Cruz;SEN;T04;9;Resolvido;4
+25388;14/08/2026;14/08/2026;Matriz;SEN;T01;16;Resolvido;
+25389;14/08/2026;14/08/2026;Filial Santa Cruz;SEN;T02;12;Resolvido;
+25390;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T04;5;Resolvido;4
+25391;14/08/2026;14/08/2026;Filial Santa Cruz;SEN;T04;13;Resolvido;4
+25392;14/08/2026;14/08/2026;Matriz;SEN;T05;11;Resolvido;4
+25393;14/08/2026;14/08/2026;Matriz;SEN;T02;8;Resolvido;
+25394;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T01;14;Resolvido;
+25395;14/08/2026;14/08/2026;Filial Santa Cruz;SEN;T01;12;Resolvido;
+25396;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;
+25397;14/08/2026;14/08/2026;Matriz;SEN;T02;12;Resolvido;
+25398;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T07;13;Resolvido;5
+25399;14/08/2026;14/08/2026;Matriz;SEN;T03;15;Resolvido;
+25400;14/08/2026;17/08/2026;Centro de Distribuição;SEN;T02;14;Resolvido;4
+25401;14/08/2026;14/08/2026;Matriz;SEN;T05;13;Resolvido;
+25402;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T03;7;Resolvido;3
+25403;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T02;8;Resolvido;
+25404;14/08/2026;14/08/2026;Matriz;SEN;T02;16;Resolvido;
+25405;14/08/2026;17/08/2026;Matriz;SEN;T03;7;Resolvido;4
+25406;14/08/2026;14/08/2026;Filial Lajeado;SEN;T04;16;Resolvido;5
+25407;14/08/2026;17/08/2026;Filial Lajeado;SEN;T01;10;Resolvido;5
+25408;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T02;14;Resolvido;
+25409;14/08/2026;14/08/2026;Matriz;SEN;T07;13;Resolvido;5
+25410;14/08/2026;14/08/2026;Centro de Distribuição;SEN;T01;8;Resolvido;
+25411;14/08/2026;14/08/2026;Filial Lajeado;IMP;T07;60;Resolvido;5
+25412;14/08/2026;14/08/2026;Matriz;IMP;T03;66;Resolvido;5
+25413;14/08/2026;14/08/2026;Matriz;IMP;T07;59;Resolvido;5
+25414;14/08/2026;14/08/2026;Centro de Distribuição;IMP;T02;26;Resolvido;
+25415;14/08/2026;14/08/2026;Centro de Distribuição;IMP;T02;63;Resolvido;
+25416;14/08/2026;17/08/2026;Centro de Distribuição;IMP;T07;67;Resolvido;5
+25417;14/08/2026;14/08/2026;Centro de Distribuição;IMP;T01;57;Resolvido;5
+25418;14/08/2026;14/08/2026;Centro de Distribuição;IMP;T07;57;Resolvido;5
+25419;14/08/2026;;Filial Santa Cruz;IMP;T02;0;Cancelado;
+25420;14/08/2026;14/08/2026;Matriz;EML;T07;45;Resolvido;5
+25421;14/08/2026;14/08/2026;Matriz;EML;T02;52;Resolvido;
+25422;14/08/2026;17/08/2026;Filial Santa Cruz;EML;T07;33;Resolvido;4
+25423;14/08/2026;17/08/2026;Centro de Distribuição;HW;T01;89;Resolvido;4
+25424;14/08/2026;17/08/2026;Filial Santa Cruz;HW;T01;122;Resolvido;5
+25425;14/08/2026;14/08/2026;Matriz;HW;T02;110;Resolvido;5
+25426;14/08/2026;14/08/2026;Centro de Distribuição;HW;T01;52;Resolvido;5
+25427;14/08/2026;14/08/2026;Centro de Distribuição;HW;T02;133;Resolvido;
+25428;14/08/2026;14/08/2026;Matriz;HW;T01;73;Resolvido;
+25429;14/08/2026;14/08/2026;Filial Santa Cruz;HW;T01;138;Resolvido;4
+25430;14/08/2026;14/08/2026;Matriz;SW;T03;22;Resolvido;5
+25431;14/08/2026;14/08/2026;Centro de Distribuição;SW;T01;40;Resolvido;5
+25432;14/08/2026;14/08/2026;Filial Lajeado;SW;T07;38;Resolvido;4
+25433;14/08/2026;17/08/2026;Centro de Distribuição;SW;T02;35;Resolvido;
+25434;14/08/2026;14/08/2026;Centro de Distribuição;SW;T03;39;Resolvido;4
+25435;14/08/2026;14/08/2026;Centro de Distribuição;ERP;T05;67;Resolvido;5
+25436;14/08/2026;14/08/2026;Matriz;ERP;T05;106;Resolvido;5
+25437;14/08/2026;14/08/2026;Centro de Distribuição;REDE;T06;87;Resolvido;4
+25438;14/08/2026;14/08/2026;Filial Lajeado;REDE;T06;73;Resolvido;5
+25439;14/08/2026;17/08/2026;Centro de Distribuição;REDE;T06;86;Resolvido;
+25440;17/08/2026;17/08/2026;Centro de Distribuição;SEN;T07;15;Resolvido;5
+25441;17/08/2026;20/08/2026;Matriz;SEN;T07;13;Resolvido;
+25442;17/08/2026;17/08/2026;Centro de Distribuição;SEN;T01;17;Resolvido;
+25443;17/08/2026;17/08/2026;Filial Lajeado;SEN;T03;20;Resolvido;4
+25444;17/08/2026;19/08/2026;Centro de Distribuição;SEN;T04;7;Resolvido;4
+25445;17/08/2026;17/08/2026;Centro de Distribuição;SEN;T02;6;Resolvido;
+25446;17/08/2026;17/08/2026;Filial Santa Cruz;SEN;T05;15;Resolvido;5
+25447;17/08/2026;17/08/2026;Matriz;SEN;T07;13;Resolvido;4
+25448;17/08/2026;17/08/2026;Centro de Distribuição;SEN;T07;16;Resolvido;
+25449;17/08/2026;17/08/2026;Filial Santa Cruz;SEN;T05;13;Resolvido;
+25450;17/08/2026;17/08/2026;Filial Santa Cruz;SEN;T01;13;Resolvido;4
+25451;17/08/2026;19/08/2026;Matriz;SEN;T02;9;Resolvido;
+25452;17/08/2026;17/08/2026;Matriz;SEN;T02;13;Resolvido;5
+25453;17/08/2026;17/08/2026;Matriz;SEN;T04;22;Resolvido;5
+25454;17/08/2026;18/08/2026;Filial Santa Cruz;SEN;T02;12;Resolvido;4
+25455;17/08/2026;17/08/2026;Matriz;SEN;T05;12;Resolvido;4
+25456;17/08/2026;20/08/2026;Matriz;SEN;T05;12;Resolvido;
+25457;17/08/2026;17/08/2026;Filial Lajeado;SEN;T01;14;Resolvido;4
+25458;17/08/2026;17/08/2026;Matriz;SEN;T07;7;Resolvido;5
+25459;17/08/2026;17/08/2026;Filial Lajeado;SEN;T04;10;Resolvido;
+25460;17/08/2026;17/08/2026;Centro de Distribuição;SEN;T01;13;Resolvido;
+25461;17/08/2026;18/08/2026;Centro de Distribuição;SEN;T02;13;Resolvido;4
+25462;17/08/2026;17/08/2026;Centro de Distribuição;SEN;T04;8;Resolvido;
+25463;17/08/2026;17/08/2026;Matriz;IMP;T07;43;Resolvido;
+25464;17/08/2026;18/08/2026;Centro de Distribuição;IMP;T07;42;Resolvido;4
+25465;17/08/2026;17/08/2026;Centro de Distribuição;IMP;T01;65;Resolvido;4
+25466;17/08/2026;17/08/2026;Filial Lajeado;IMP;T03;48;Resolvido;
+25467;17/08/2026;17/08/2026;Matriz;IMP;T01;57;Resolvido;
+25468;17/08/2026;17/08/2026;Matriz;HW;T01;62;Resolvido;
+25469;17/08/2026;17/08/2026;Matriz;HW;T03;94;Resolvido;4
+25470;17/08/2026;17/08/2026;Filial Lajeado;HW;T01;88;Resolvido;
+25471;17/08/2026;18/08/2026;Matriz;HW;T02;84;Resolvido;
+25472;17/08/2026;17/08/2026;Matriz;HW;T01;103;Resolvido;5
+25473;17/08/2026;17/08/2026;Filial Lajeado;SW;T02;36;Resolvido;5
+25474;17/08/2026;20/08/2026;Matriz;SW;T01;30;Resolvido;4
+25475;17/08/2026;17/08/2026;Centro de Distribuição;SW;T02;18;Resolvido;
+25476;17/08/2026;20/08/2026;Centro de Distribuição;SW;T02;38;Resolvido;
+25477;17/08/2026;17/08/2026;Matriz;ERP;T05;81;Resolvido;
+25478;17/08/2026;17/08/2026;Filial Lajeado;ERP;T05;47;Resolvido;4
+25479;17/08/2026;20/08/2026;Filial Santa Cruz;ERP;T04;90;Resolvido;
+25480;18/08/2026;21/08/2026;Matriz;SEN;T01;14;Resolvido;5
+25481;18/08/2026;18/08/2026;Filial Santa Cruz;SEN;T01;17;Resolvido;
+25482;18/08/2026;18/08/2026;Matriz;SEN;T05;7;Resolvido;5
+25483;18/08/2026;21/08/2026;Filial Santa Cruz;SEN;T05;16;Resolvido;
+25484;18/08/2026;18/08/2026;Centro de Distribuição;SEN;T05;12;Resolvido;5
+25485;18/08/2026;19/08/2026;Filial Santa Cruz;SEN;T01;10;Resolvido;
+25486;18/08/2026;18/08/2026;Filial Santa Cruz;SEN;T01;14;Resolvido;
+25487;18/08/2026;18/08/2026;Centro de Distribuição;SEN;T01;8;Resolvido;5
+25488;18/08/2026;18/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;4
+25489;18/08/2026;18/08/2026;Filial Santa Cruz;SEN;T05;16;Resolvido;
+25490;18/08/2026;21/08/2026;Matriz;SEN;T03;15;Resolvido;4
+25491;18/08/2026;18/08/2026;Matriz;SEN;T01;14;Resolvido;5
+25492;18/08/2026;19/08/2026;Matriz;SEN;T01;14;Resolvido;5
+25493;18/08/2026;18/08/2026;Matriz;SEN;T07;9;Resolvido;4
+25494;18/08/2026;18/08/2026;Matriz;SEN;T01;17;Resolvido;
+25495;18/08/2026;18/08/2026;Matriz;SEN;T07;12;Resolvido;4
+25496;18/08/2026;19/08/2026;Centro de Distribuição;SEN;T07;15;Resolvido;
+25497;18/08/2026;21/08/2026;Filial Lajeado;SEN;T03;12;Resolvido;4
+25498;18/08/2026;18/08/2026;Centro de Distribuição;SEN;T01;6;Resolvido;
+25499;18/08/2026;18/08/2026;Centro de Distribuição;IMP;T03;35;Resolvido;4
+25500;18/08/2026;18/08/2026;Matriz;IMP;T02;78;Resolvido;
+25501;18/08/2026;20/08/2026;Filial Lajeado;IMP;T03;54;Resolvido;
+25502;18/08/2026;;Filial Lajeado;IMP;T07;0;Cancelado;
+25503;18/08/2026;;Centro de Distribuição;EML;T07;0;Cancelado;
+25504;18/08/2026;18/08/2026;Matriz;EML;T02;18;Resolvido;5
+25505;18/08/2026;18/08/2026;Matriz;HW;T01;119;Resolvido;
+25506;18/08/2026;18/08/2026;Centro de Distribuição;HW;T02;98;Resolvido;
+25507;18/08/2026;19/08/2026;Filial Santa Cruz;HW;T03;90;Resolvido;
+25508;18/08/2026;18/08/2026;Matriz;HW;T02;105;Resolvido;
+25509;18/08/2026;18/08/2026;Centro de Distribuição;HW;T02;59;Resolvido;
+25510;18/08/2026;18/08/2026;Matriz;HW;T02;75;Resolvido;4
+25511;18/08/2026;18/08/2026;Centro de Distribuição;HW;T03;79;Resolvido;4
+25512;18/08/2026;;Matriz;SW;T01;0;Cancelado;
+25513;18/08/2026;18/08/2026;Filial Lajeado;SW;T02;18;Resolvido;5
+25514;18/08/2026;18/08/2026;Centro de Distribuição;SW;T02;34;Resolvido;
+25515;18/08/2026;18/08/2026;Centro de Distribuição;SW;T01;30;Resolvido;
+25516;18/08/2026;18/08/2026;Centro de Distribuição;ERP;T05;60;Resolvido;4
+25517;18/08/2026;19/08/2026;Filial Lajeado;ERP;T05;55;Resolvido;
+25518;18/08/2026;20/08/2026;Filial Santa Cruz;REDE;T06;50;Resolvido;5
+25519;18/08/2026;18/08/2026;Filial Lajeado;REDE;T06;103;Resolvido;4
+25520;19/08/2026;19/08/2026;Filial Santa Cruz;SEN;T07;16;Resolvido;
+25521;19/08/2026;19/08/2026;Matriz;SEN;T03;18;Resolvido;4
+25522;19/08/2026;19/08/2026;Centro de Distribuição;SEN;T07;15;Resolvido;5
+25523;19/08/2026;19/08/2026;Centro de Distribuição;SEN;T03;5;Resolvido;
+25524;19/08/2026;19/08/2026;Matriz;SEN;T02;11;Resolvido;5
+25525;19/08/2026;19/08/2026;Centro de Distribuição;SEN;T03;11;Resolvido;5
+25526;19/08/2026;24/08/2026;Matriz;SEN;T05;7;Resolvido;5
+25527;19/08/2026;19/08/2026;Filial Lajeado;SEN;T01;11;Resolvido;5
+25528;19/08/2026;19/08/2026;Matriz;SEN;T04;9;Resolvido;5
+25529;19/08/2026;19/08/2026;Centro de Distribuição;IMP;T02;39;Resolvido;
+25530;19/08/2026;19/08/2026;Filial Santa Cruz;IMP;T03;47;Resolvido;4
+25531;19/08/2026;19/08/2026;Filial Santa Cruz;IMP;T01;55;Resolvido;4
+25532;19/08/2026;19/08/2026;Filial Santa Cruz;IMP;T01;51;Resolvido;
+25533;19/08/2026;19/08/2026;Matriz;IMP;T02;49;Resolvido;4
+25534;19/08/2026;19/08/2026;Matriz;IMP;T03;31;Resolvido;
+25535;19/08/2026;19/08/2026;Centro de Distribuição;EML;T03;36;Resolvido;4
+25536;19/08/2026;20/08/2026;Centro de Distribuição;HW;T03;84;Resolvido;
+25537;19/08/2026;19/08/2026;Filial Santa Cruz;HW;T03;127;Resolvido;4
+25538;19/08/2026;19/08/2026;Centro de Distribuição;SW;T07;71;Resolvido;5
+25539;19/08/2026;19/08/2026;Centro de Distribuição;SW;T01;54;Resolvido;
+25540;19/08/2026;19/08/2026;Centro de Distribuição;SW;T01;42;Resolvido;
+25541;19/08/2026;19/08/2026;Centro de Distribuição;ERP;T05;74;Resolvido;
+25542;19/08/2026;19/08/2026;Matriz;ERP;T04;84;Resolvido;5
+25543;19/08/2026;19/08/2026;Centro de Distribuição;ERP;T05;68;Resolvido;
+25544;19/08/2026;20/08/2026;Matriz;ERP;T05;45;Resolvido;
+25545;19/08/2026;19/08/2026;Filial Santa Cruz;REDE;T06;74;Resolvido;4
+25546;19/08/2026;19/08/2026;Centro de Distribuição;REDE;T06;86;Resolvido;5
+25547;20/08/2026;24/08/2026;Filial Lajeado;SEN;T05;15;Resolvido;4
+25548;20/08/2026;20/08/2026;Matriz;SEN;T01;14;Resolvido;5
+25549;20/08/2026;20/08/2026;Filial Santa Cruz;SEN;T04;11;Resolvido;5
+25550;20/08/2026;20/08/2026;Centro de Distribuição;SEN;T03;13;Resolvido;
+25551;20/08/2026;24/08/2026;Centro de Distribuição;SEN;T01;12;Resolvido;
+25552;20/08/2026;20/08/2026;Filial Lajeado;SEN;T02;15;Resolvido;5
+25553;20/08/2026;20/08/2026;Filial Santa Cruz;SEN;T07;14;Resolvido;4
+25554;20/08/2026;20/08/2026;Centro de Distribuição;SEN;T03;16;Resolvido;4
+25555;20/08/2026;21/08/2026;Filial Lajeado;SEN;T07;14;Resolvido;
+25556;20/08/2026;20/08/2026;Matriz;SEN;T05;4;Resolvido;5
+25557;20/08/2026;21/08/2026;Filial Santa Cruz;SEN;T01;10;Resolvido;
+25558;20/08/2026;20/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;4
+25559;20/08/2026;20/08/2026;Matriz;SEN;T05;8;Resolvido;5
+25560;20/08/2026;20/08/2026;Matriz;SEN;T05;15;Resolvido;5
+25561;20/08/2026;20/08/2026;Matriz;SEN;T03;9;Resolvido;5
+25562;20/08/2026;20/08/2026;Centro de Distribuição;SEN;T07;19;Resolvido;4
+25563;20/08/2026;21/08/2026;Matriz;SEN;T02;9;Resolvido;5
+25564;20/08/2026;21/08/2026;Centro de Distribuição;SEN;T07;8;Resolvido;5
+25565;20/08/2026;20/08/2026;Matriz;SEN;T03;14;Resolvido;5
+25566;20/08/2026;21/08/2026;Centro de Distribuição;SEN;T04;10;Resolvido;
+25567;20/08/2026;20/08/2026;Matriz;IMP;T03;60;Resolvido;5
+25568;20/08/2026;20/08/2026;Filial Santa Cruz;IMP;T02;55;Resolvido;5
+25569;20/08/2026;20/08/2026;Filial Santa Cruz;IMP;T07;59;Resolvido;
+25570;20/08/2026;20/08/2026;Filial Lajeado;IMP;T07;33;Resolvido;4
+25571;20/08/2026;;Centro de Distribuição;IMP;T01;0;Cancelado;
+25572;20/08/2026;20/08/2026;Filial Santa Cruz;EML;T07;43;Resolvido;4
+25573;20/08/2026;21/08/2026;Filial Santa Cruz;EML;T07;37;Resolvido;5
+25574;20/08/2026;20/08/2026;Filial Santa Cruz;HW;T02;54;Resolvido;5
+25575;20/08/2026;20/08/2026;Matriz;HW;T03;60;Resolvido;
+25576;20/08/2026;20/08/2026;Centro de Distribuição;HW;T01;75;Resolvido;
+25577;20/08/2026;20/08/2026;Centro de Distribuição;HW;T03;97;Resolvido;4
+25578;20/08/2026;20/08/2026;Matriz;HW;T02;75;Resolvido;5
+25579;20/08/2026;20/08/2026;Matriz;HW;T02;53;Resolvido;
+25580;20/08/2026;20/08/2026;Centro de Distribuição;HW;T02;81;Resolvido;4
+25581;20/08/2026;20/08/2026;Matriz;HW;T02;91;Resolvido;5
+25582;20/08/2026;21/08/2026;Filial Santa Cruz;HW;T01;61;Resolvido;4
+25583;20/08/2026;20/08/2026;Matriz;HW;T03;93;Resolvido;
+25584;20/08/2026;20/08/2026;Matriz;SW;T03;4;Resolvido;5
+25585;20/08/2026;20/08/2026;Centro de Distribuição;SW;T07;39;Resolvido;
+25586;20/08/2026;20/08/2026;Centro de Distribuição;SW;T02;51;Resolvido;
+25587;20/08/2026;20/08/2026;Matriz;SW;T07;32;Resolvido;
+25588;20/08/2026;20/08/2026;Matriz;SW;T02;44;Resolvido;
+25589;20/08/2026;20/08/2026;Filial Santa Cruz;ERP;T05;101;Resolvido;
+25590;20/08/2026;20/08/2026;Filial Santa Cruz;ERP;T04;77;Resolvido;5
+25591;20/08/2026;20/08/2026;Matriz;ERP;T04;67;Resolvido;
+25592;20/08/2026;20/08/2026;Centro de Distribuição;ERP;T04;57;Resolvido;4
+25593;20/08/2026;20/08/2026;Filial Lajeado;REDE;T06;100;Resolvido;
+25594;20/08/2026;21/08/2026;Centro de Distribuição;REDE;T06;81;Resolvido;4
+25595;20/08/2026;20/08/2026;Matriz;REDE;T06;99;Resolvido;
+25596;21/08/2026;21/08/2026;Matriz;SEN;T01;10;Resolvido;4
+25597;21/08/2026;21/08/2026;Matriz;SEN;T03;5;Resolvido;3
+25598;21/08/2026;21/08/2026;Matriz;SEN;T05;8;Resolvido;4
+25599;21/08/2026;21/08/2026;Filial Santa Cruz;SEN;T04;14;Resolvido;4
+25600;21/08/2026;21/08/2026;Matriz;SEN;T07;14;Resolvido;3
+25601;21/08/2026;;Matriz;SEN;T04;0;Cancelado;
+25602;21/08/2026;21/08/2026;Centro de Distribuição;SEN;T01;13;Resolvido;
+25603;21/08/2026;21/08/2026;Filial Santa Cruz;SEN;T07;10;Resolvido;
+25604;21/08/2026;21/08/2026;Matriz;SEN;T07;11;Resolvido;
+25605;21/08/2026;24/08/2026;Matriz;SEN;T05;11;Resolvido;5
+25606;21/08/2026;21/08/2026;Matriz;SEN;T05;6;Resolvido;
+25607;21/08/2026;21/08/2026;Matriz;SEN;T05;12;Resolvido;
+25608;21/08/2026;21/08/2026;Matriz;SEN;T04;12;Resolvido;4
+25609;21/08/2026;21/08/2026;Filial Santa Cruz;SEN;T07;19;Resolvido;
+25610;21/08/2026;21/08/2026;Matriz;SEN;T03;10;Resolvido;
+25611;21/08/2026;21/08/2026;Centro de Distribuição;SEN;T07;13;Resolvido;
+25612;21/08/2026;21/08/2026;Filial Santa Cruz;IMP;T03;37;Resolvido;
+25613;21/08/2026;21/08/2026;Matriz;IMP;T02;27;Resolvido;
+25614;21/08/2026;21/08/2026;Matriz;IMP;T01;30;Resolvido;4
+25615;21/08/2026;21/08/2026;Centro de Distribuição;IMP;T01;40;Resolvido;
+25616;21/08/2026;21/08/2026;Matriz;IMP;T03;88;Resolvido;4
+25617;21/08/2026;21/08/2026;Filial Lajeado;IMP;T07;74;Resolvido;4
+25618;21/08/2026;21/08/2026;Matriz;IMP;T07;63;Resolvido;4
+25619;21/08/2026;21/08/2026;Matriz;IMP;T03;60;Resolvido;
+25620;21/08/2026;21/08/2026;Matriz;EML;T07;50;Resolvido;5
+25621;21/08/2026;21/08/2026;Matriz;EML;T01;27;Resolvido;5
+25622;21/08/2026;24/08/2026;Filial Lajeado;EML;T03;38;Resolvido;4
+25623;21/08/2026;21/08/2026;Centro de Distribuição;HW;T01;120;Resolvido;5
+25624;21/08/2026;21/08/2026;Centro de Distribuição;HW;T02;64;Resolvido;5
+25625;21/08/2026;21/08/2026;Matriz;HW;T01;88;Resolvido;5
+25626;21/08/2026;21/08/2026;Filial Santa Cruz;HW;T03;105;Resolvido;5
+25627;21/08/2026;21/08/2026;Filial Lajeado;HW;T01;41;Resolvido;4
+25628;21/08/2026;;Matriz;SW;T02;0;Cancelado;
+25629;21/08/2026;24/08/2026;Matriz;SW;T01;33;Resolvido;4
+25630;21/08/2026;24/08/2026;Matriz;SW;T02;26;Resolvido;
+25631;21/08/2026;21/08/2026;Filial Santa Cruz;SW;T03;46;Resolvido;5
+25632;21/08/2026;21/08/2026;Filial Santa Cruz;ERP;T05;40;Resolvido;4
+25633;21/08/2026;21/08/2026;Matriz;REDE;T06;75;Resolvido;4
+25634;21/08/2026;21/08/2026;Filial Lajeado;REDE;T06;60;Resolvido;
+25635;24/08/2026;24/08/2026;Filial Lajeado;SEN;T03;9;Resolvido;
+25636;24/08/2026;24/08/2026;Matriz;SEN;T05;13;Resolvido;3
+25637;24/08/2026;24/08/2026;Matriz;SEN;T05;10;Resolvido;
+25638;24/08/2026;24/08/2026;Centro de Distribuição;SEN;T04;13;Resolvido;
+25639;24/08/2026;27/08/2026;Filial Lajeado;SEN;T03;19;Resolvido;5
+25640;24/08/2026;24/08/2026;Filial Lajeado;SEN;T07;11;Resolvido;4
+25641;24/08/2026;24/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;4
+25642;24/08/2026;24/08/2026;Matriz;SEN;T01;14;Resolvido;5
+25643;24/08/2026;24/08/2026;Matriz;SEN;T05;6;Resolvido;
+25644;24/08/2026;24/08/2026;Matriz;SEN;T04;17;Resolvido;4
+25645;24/08/2026;24/08/2026;Matriz;SEN;T05;15;Resolvido;5
+25646;24/08/2026;24/08/2026;Filial Lajeado;SEN;T01;11;Resolvido;5
+25647;24/08/2026;24/08/2026;Centro de Distribuição;SEN;T05;10;Resolvido;
+25648;24/08/2026;24/08/2026;Matriz;SEN;T02;14;Resolvido;4
+25649;24/08/2026;25/08/2026;Matriz;SEN;T01;9;Resolvido;5
+25650;24/08/2026;24/08/2026;Filial Lajeado;SEN;T01;14;Resolvido;5
+25651;24/08/2026;24/08/2026;Filial Santa Cruz;SEN;T07;7;Resolvido;
+25652;24/08/2026;25/08/2026;Matriz;SEN;T01;15;Resolvido;5
+25653;24/08/2026;;Matriz;SEN;T07;0;Cancelado;
+25654;24/08/2026;24/08/2026;Matriz;SEN;T03;11;Resolvido;5
+25655;24/08/2026;24/08/2026;Centro de Distribuição;SEN;T03;10;Resolvido;
+25656;24/08/2026;24/08/2026;Centro de Distribuição;SEN;T02;7;Resolvido;
+25657;24/08/2026;24/08/2026;Filial Lajeado;IMP;T03;63;Resolvido;3
+25658;24/08/2026;25/08/2026;Centro de Distribuição;IMP;T01;40;Resolvido;
+25659;24/08/2026;24/08/2026;Filial Lajeado;IMP;T03;51;Resolvido;
+25660;24/08/2026;24/08/2026;Matriz;IMP;T03;47;Resolvido;
+25661;24/08/2026;24/08/2026;Matriz;IMP;T03;51;Resolvido;
+25662;24/08/2026;24/08/2026;Filial Lajeado;EML;T07;27;Resolvido;
+25663;24/08/2026;24/08/2026;Filial Lajeado;HW;T02;71;Resolvido;
+25664;24/08/2026;24/08/2026;Filial Santa Cruz;HW;T01;93;Resolvido;4
+25665;24/08/2026;24/08/2026;Filial Santa Cruz;HW;T01;81;Resolvido;
+25666;24/08/2026;24/08/2026;Centro de Distribuição;HW;T01;140;Resolvido;4
+25667;24/08/2026;24/08/2026;Centro de Distribuição;SW;T01;39;Resolvido;
+25668;24/08/2026;24/08/2026;Filial Lajeado;SW;T03;41;Resolvido;5
+25669;24/08/2026;25/08/2026;Matriz;SW;T03;24;Resolvido;
+25670;24/08/2026;24/08/2026;Matriz;SW;T03;23;Resolvido;
+25671;24/08/2026;24/08/2026;Filial Lajeado;ERP;T04;88;Resolvido;5
+25672;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T05;12;Resolvido;5
+25673;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;4
+25674;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T04;19;Resolvido;5
+25675;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T04;4;Resolvido;
+25676;25/08/2026;25/08/2026;Matriz;SEN;T07;18;Resolvido;4
+25677;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T03;6;Resolvido;
+25678;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T04;17;Resolvido;
+25679;25/08/2026;25/08/2026;Centro de Distribuição;SEN;T01;8;Resolvido;
+25680;25/08/2026;25/08/2026;Matriz;SEN;T07;21;Resolvido;
+25681;25/08/2026;26/08/2026;Filial Lajeado;SEN;T05;11;Resolvido;
+25682;25/08/2026;25/08/2026;Matriz;SEN;T05;7;Resolvido;4
+25683;25/08/2026;25/08/2026;Filial Santa Cruz;SEN;T01;14;Resolvido;5
+25684;25/08/2026;25/08/2026;Filial Santa Cruz;SEN;T02;4;Resolvido;5
+25685;25/08/2026;25/08/2026;Centro de Distribuição;IMP;T01;42;Resolvido;
+25686;25/08/2026;25/08/2026;Matriz;IMP;T03;26;Resolvido;5
+25687;25/08/2026;25/08/2026;Matriz;IMP;T01;62;Resolvido;5
+25688;25/08/2026;25/08/2026;Matriz;IMP;T07;54;Resolvido;5
+25689;25/08/2026;25/08/2026;Matriz;IMP;T03;63;Resolvido;
+25690;25/08/2026;28/08/2026;Centro de Distribuição;IMP;T01;47;Resolvido;5
+25691;25/08/2026;25/08/2026;Centro de Distribuição;IMP;T01;65;Resolvido;
+25692;25/08/2026;25/08/2026;Filial Lajeado;IMP;T02;45;Resolvido;5
+25693;25/08/2026;25/08/2026;Centro de Distribuição;IMP;T07;58;Resolvido;
+25694;25/08/2026;25/08/2026;Centro de Distribuição;IMP;T03;65;Resolvido;
+25695;25/08/2026;27/08/2026;Matriz;EML;T02;20;Resolvido;4
+25696;25/08/2026;25/08/2026;Centro de Distribuição;EML;T03;36;Resolvido;
+25697;25/08/2026;27/08/2026;Matriz;EML;T07;47;Resolvido;
+25698;25/08/2026;25/08/2026;Centro de Distribuição;HW;T01;98;Resolvido;5
+25699;25/08/2026;28/08/2026;Matriz;HW;T03;83;Resolvido;5
+25700;25/08/2026;25/08/2026;Matriz;ERP;T04;72;Resolvido;
+25701;25/08/2026;27/08/2026;Matriz;REDE;T06;64;Resolvido;
+25702;25/08/2026;25/08/2026;Matriz;REDE;T06;90;Resolvido;
+25703;25/08/2026;25/08/2026;Matriz;REDE;T06;54;Resolvido;4
+25704;26/08/2026;26/08/2026;Matriz;SEN;T04;8;Resolvido;4
+25705;26/08/2026;26/08/2026;Filial Lajeado;SEN;T01;8;Resolvido;
+25706;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T05;17;Resolvido;5
+25707;26/08/2026;26/08/2026;Filial Santa Cruz;SEN;T01;12;Resolvido;5
+25708;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T04;10;Resolvido;5
+25709;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T02;19;Resolvido;4
+25710;26/08/2026;26/08/2026;Matriz;SEN;T05;11;Resolvido;
+25711;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T01;12;Resolvido;5
+25712;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T05;12;Resolvido;4
+25713;26/08/2026;26/08/2026;Matriz;SEN;T05;16;Resolvido;4
+25714;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T03;12;Resolvido;4
+25715;26/08/2026;;Matriz;SEN;T02;0;Cancelado;
+25716;26/08/2026;27/08/2026;Matriz;SEN;T02;9;Resolvido;4
+25717;26/08/2026;27/08/2026;Centro de Distribuição;SEN;T02;12;Resolvido;5
+25718;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T04;5;Resolvido;4
+25719;26/08/2026;26/08/2026;Filial Santa Cruz;SEN;T04;14;Resolvido;5
+25720;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T04;14;Resolvido;4
+25721;26/08/2026;26/08/2026;Filial Santa Cruz;SEN;T05;16;Resolvido;
+25722;26/08/2026;27/08/2026;Centro de Distribuição;SEN;T04;12;Resolvido;4
+25723;26/08/2026;26/08/2026;Matriz;SEN;T07;17;Resolvido;5
+25724;26/08/2026;28/08/2026;Centro de Distribuição;SEN;T03;12;Resolvido;
+25725;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T05;5;Resolvido;4
+25726;26/08/2026;26/08/2026;Centro de Distribuição;SEN;T04;9;Resolvido;5
+25727;26/08/2026;26/08/2026;Filial Santa Cruz;IMP;T03;69;Resolvido;
+25728;26/08/2026;27/08/2026;Filial Lajeado;IMP;T03;40;Resolvido;
+25729;26/08/2026;26/08/2026;Filial Santa Cruz;IMP;T03;62;Resolvido;
+25730;26/08/2026;31/08/2026;Filial Santa Cruz;IMP;T02;27;Resolvido;5
+25731;26/08/2026;26/08/2026;Filial Santa Cruz;IMP;T07;28;Resolvido;
+25732;26/08/2026;26/08/2026;Filial Santa Cruz;EML;T03;43;Resolvido;4
+25733;26/08/2026;26/08/2026;Matriz;EML;T07;33;Resolvido;
+25734;26/08/2026;26/08/2026;Centro de Distribuição;EML;T07;25;Resolvido;5
+25735;26/08/2026;26/08/2026;Filial Santa Cruz;EML;T07;46;Resolvido;4
+25736;26/08/2026;27/08/2026;Centro de Distribuição;EML;T07;44;Resolvido;5
+25737;26/08/2026;;Centro de Distribuição;HW;T03;0;Cancelado;
+25738;26/08/2026;;Centro de Distribuição;HW;T03;0;Cancelado;
+25739;26/08/2026;27/08/2026;Matriz;HW;T01;112;Resolvido;5
+25740;26/08/2026;26/08/2026;Matriz;HW;T02;89;Resolvido;
+25741;26/08/2026;26/08/2026;Centro de Distribuição;SW;T03;29;Resolvido;
+25742;26/08/2026;26/08/2026;Matriz;ERP;T04;51;Resolvido;5
+25743;26/08/2026;26/08/2026;Filial Lajeado;ERP;T04;8;Resolvido;
+25744;26/08/2026;26/08/2026;Matriz;REDE;T06;73;Resolvido;
+25745;26/08/2026;31/08/2026;Matriz;REDE;T06;81;Resolvido;5
+25746;26/08/2026;26/08/2026;Filial Lajeado;REDE;T06;99;Resolvido;
+25747;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T05;8;Resolvido;5
+25748;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T05;17;Resolvido;4
+25749;27/08/2026;27/08/2026;Matriz;SEN;T07;15;Resolvido;
+25750;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T01;9;Resolvido;5
+25751;27/08/2026;31/08/2026;Matriz;SEN;T03;6;Resolvido;
+25752;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T04;14;Resolvido;
+25753;27/08/2026;27/08/2026;Matriz;SEN;T05;6;Resolvido;5
+25754;27/08/2026;27/08/2026;Matriz;SEN;T05;17;Resolvido;
+25755;27/08/2026;27/08/2026;Filial Lajeado;SEN;T05;7;Resolvido;5
+25756;27/08/2026;27/08/2026;Matriz;SEN;T01;15;Resolvido;4
+25757;27/08/2026;27/08/2026;Filial Santa Cruz;SEN;T07;10;Resolvido;5
+25758;27/08/2026;27/08/2026;Filial Santa Cruz;SEN;T05;15;Resolvido;5
+25759;27/08/2026;27/08/2026;Filial Santa Cruz;SEN;T01;17;Resolvido;4
+25760;27/08/2026;27/08/2026;Filial Lajeado;SEN;T07;15;Resolvido;5
+25761;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T03;9;Resolvido;5
+25762;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T05;10;Resolvido;
+25763;27/08/2026;31/08/2026;Centro de Distribuição;SEN;T05;4;Resolvido;
+25764;27/08/2026;27/08/2026;Centro de Distribuição;SEN;T02;10;Resolvido;5
+25765;27/08/2026;27/08/2026;Filial Lajeado;IMP;T02;53;Resolvido;
+25766;27/08/2026;27/08/2026;Filial Lajeado;IMP;T01;33;Resolvido;
+25767;27/08/2026;27/08/2026;Centro de Distribuição;IMP;T01;50;Resolvido;
+25768;27/08/2026;27/08/2026;Centro de Distribuição;IMP;T02;20;Resolvido;
+25769;27/08/2026;27/08/2026;Matriz;IMP;T03;54;Resolvido;
+25770;27/08/2026;27/08/2026;Matriz;IMP;T03;25;Resolvido;
+25771;27/08/2026;27/08/2026;Matriz;IMP;T02;47;Resolvido;4
+25772;27/08/2026;27/08/2026;Centro de Distribuição;IMP;T02;34;Resolvido;4
+25773;27/08/2026;27/08/2026;Matriz;EML;T07;44;Resolvido;4
+25774;27/08/2026;27/08/2026;Filial Santa Cruz;EML;T01;30;Resolvido;
+25775;27/08/2026;27/08/2026;Matriz;EML;T07;43;Resolvido;5
+25776;27/08/2026;28/08/2026;Filial Lajeado;HW;T01;95;Resolvido;4
+25777;27/08/2026;27/08/2026;Filial Lajeado;HW;T01;80;Resolvido;
+25778;27/08/2026;27/08/2026;Matriz;HW;T03;122;Resolvido;4
+25779;27/08/2026;27/08/2026;Filial Santa Cruz;HW;T02;140;Resolvido;3
+25780;27/08/2026;27/08/2026;Filial Lajeado;HW;T03;50;Resolvido;
+25781;27/08/2026;27/08/2026;Centro de Distribuição;SW;T07;33;Resolvido;4
+25782;27/08/2026;27/08/2026;Filial Santa Cruz;SW;T01;40;Resolvido;
+25783;27/08/2026;27/08/2026;Centro de Distribuição;SW;T07;53;Resolvido;
+25784;27/08/2026;27/08/2026;Filial Santa Cruz;ERP;T04;60;Resolvido;5
+25785;27/08/2026;27/08/2026;Matriz;ERP;T04;103;Resolvido;4
+25786;27/08/2026;27/08/2026;Filial Lajeado;ERP;T05;59;Resolvido;5
+25787;27/08/2026;27/08/2026;Matriz;REDE;T06;37;Resolvido;5
+25788;27/08/2026;27/08/2026;Matriz;REDE;T06;52;Resolvido;
+25789;28/08/2026;31/08/2026;Matriz;SEN;T05;18;Resolvido;4
+25790;28/08/2026;28/08/2026;Matriz;SEN;T02;12;Resolvido;4
+25791;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T03;14;Resolvido;5
+25792;28/08/2026;28/08/2026;Matriz;SEN;T07;16;Resolvido;
+25793;28/08/2026;28/08/2026;Filial Santa Cruz;SEN;T05;11;Resolvido;
+25794;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T03;9;Resolvido;3
+25795;28/08/2026;28/08/2026;Matriz;SEN;T02;10;Resolvido;
+25796;28/08/2026;28/08/2026;Filial Santa Cruz;SEN;T05;5;Resolvido;4
+25797;28/08/2026;28/08/2026;Matriz;SEN;T02;9;Resolvido;
+25798;28/08/2026;28/08/2026;Filial Santa Cruz;SEN;T04;10;Resolvido;5
+25799;28/08/2026;28/08/2026;Filial Lajeado;SEN;T05;15;Resolvido;4
+25800;28/08/2026;28/08/2026;Matriz;SEN;T05;13;Resolvido;
+25801;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T04;15;Resolvido;
+25802;28/08/2026;28/08/2026;Matriz;SEN;T07;14;Resolvido;
+25803;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;5
+25804;28/08/2026;28/08/2026;Matriz;SEN;T07;13;Resolvido;
+25805;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T01;8;Resolvido;4
+25806;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T02;7;Resolvido;5
+25807;28/08/2026;28/08/2026;Matriz;SEN;T07;12;Resolvido;
+25808;28/08/2026;28/08/2026;Matriz;SEN;T02;12;Resolvido;
+25809;28/08/2026;28/08/2026;Matriz;SEN;T07;9;Resolvido;4
+25810;28/08/2026;28/08/2026;Filial Lajeado;SEN;T02;7;Resolvido;4
+25811;28/08/2026;28/08/2026;Centro de Distribuição;SEN;T07;12;Resolvido;4
+25812;28/08/2026;28/08/2026;Matriz;IMP;T02;38;Resolvido;5
+25813;28/08/2026;31/08/2026;Matriz;IMP;T02;77;Resolvido;
+25814;28/08/2026;31/08/2026;Centro de Distribuição;IMP;T02;54;Resolvido;
+25815;28/08/2026;28/08/2026;Matriz;IMP;T03;47;Resolvido;
+25816;28/08/2026;28/08/2026;Matriz;IMP;T01;66;Resolvido;4
+25817;28/08/2026;28/08/2026;Filial Lajeado;IMP;T03;73;Resolvido;
+25818;28/08/2026;28/08/2026;Filial Lajeado;IMP;T02;36;Resolvido;5
+25819;28/08/2026;28/08/2026;Filial Santa Cruz;IMP;T02;43;Resolvido;4
+25820;28/08/2026;28/08/2026;Centro de Distribuição;IMP;T03;38;Resolvido;4
+25821;28/08/2026;28/08/2026;Centro de Distribuição;EML;T01;40;Resolvido;
+25822;28/08/2026;31/08/2026;Centro de Distribuição;EML;T07;32;Resolvido;4
+25823;28/08/2026;31/08/2026;Centro de Distribuição;EML;T03;16;Resolvido;4
+25824;28/08/2026;28/08/2026;Centro de Distribuição;EML;T03;46;Resolvido;
+25825;28/08/2026;28/08/2026;Matriz;HW;T02;106;Resolvido;
+25826;28/08/2026;28/08/2026;Matriz;HW;T02;71;Resolvido;4
+25827;28/08/2026;28/08/2026;Matriz;SW;T02;51;Resolvido;
+25828;28/08/2026;28/08/2026;Matriz;SW;T03;49;Resolvido;
+25829;28/08/2026;28/08/2026;Matriz;SW;T07;45;Resolvido;
+25830;28/08/2026;28/08/2026;Filial Santa Cruz;ERP;T05;55;Resolvido;
+25831;28/08/2026;28/08/2026;Centro de Distribuição;ERP;T05;71;Resolvido;
+25832;28/08/2026;28/08/2026;Centro de Distribuição;ERP;T05;84;Resolvido;4
+25833;28/08/2026;28/08/2026;Matriz;ERP;T04;59;Resolvido;
+25834;28/08/2026;31/08/2026;Filial Lajeado;REDE;T06;71;Resolvido;
+25835;28/08/2026;31/08/2026;Matriz;REDE;T06;48;Resolvido;4
+25836;28/08/2026;31/08/2026;Filial Santa Cruz;REDE;T06;87;Resolvido;5
+25837;31/08/2026;31/08/2026;Filial Lajeado;SEN;T05;4;Resolvido;
+25838;31/08/2026;31/08/2026;Matriz;SEN;T04;13;Resolvido;3
+25839;31/08/2026;31/08/2026;Matriz;SEN;T07;10;Resolvido;
+25840;31/08/2026;31/08/2026;Matriz;SEN;T03;9;Resolvido;
+25841;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T02;13;Resolvido;
+25842;31/08/2026;01/09/2026;Centro de Distribuição;SEN;T02;18;Resolvido;
+25843;31/08/2026;01/09/2026;Centro de Distribuição;SEN;T07;17;Resolvido;4
+25844;31/08/2026;31/08/2026;Matriz;SEN;T03;6;Resolvido;4
+25845;31/08/2026;03/09/2026;Matriz;SEN;T07;8;Resolvido;5
+25846;31/08/2026;31/08/2026;Matriz;SEN;T04;11;Resolvido;5
+25847;31/08/2026;01/09/2026;Matriz;SEN;T05;17;Resolvido;
+25848;31/08/2026;31/08/2026;Matriz;SEN;T07;16;Resolvido;5
+25849;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T07;15;Resolvido;
+25850;31/08/2026;;Centro de Distribuição;SEN;T03;0;Cancelado;
+25851;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T04;9;Resolvido;5
+25852;31/08/2026;31/08/2026;Matriz;SEN;T05;11;Resolvido;
+25853;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T04;9;Resolvido;4
+25854;31/08/2026;03/09/2026;Matriz;SEN;T02;13;Resolvido;4
+25855;31/08/2026;31/08/2026;Matriz;SEN;T02;8;Resolvido;5
+25856;31/08/2026;31/08/2026;Filial Santa Cruz;SEN;T03;13;Resolvido;
+25857;31/08/2026;31/08/2026;Matriz;SEN;T05;15;Resolvido;
+25858;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T04;6;Resolvido;
+25859;31/08/2026;02/09/2026;Matriz;SEN;T02;19;Resolvido;
+25860;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T05;11;Resolvido;
+25861;31/08/2026;31/08/2026;Centro de Distribuição;SEN;T07;14;Resolvido;
+25862;31/08/2026;01/09/2026;Centro de Distribuição;SEN;T07;18;Resolvido;4
+25863;31/08/2026;31/08/2026;Matriz;IMP;T02;33;Resolvido;4
+25864;31/08/2026;31/08/2026;Centro de Distribuição;IMP;T02;54;Resolvido;
+25865;31/08/2026;01/09/2026;Matriz;IMP;T07;35;Resolvido;
+25866;31/08/2026;01/09/2026;Centro de Distribuição;IMP;T01;44;Resolvido;5
+25867;31/08/2026;31/08/2026;Centro de Distribuição;IMP;T01;43;Resolvido;5
+25868;31/08/2026;31/08/2026;Filial Santa Cruz;IMP;T01;65;Resolvido;
+25869;31/08/2026;31/08/2026;Matriz;EML;T07;36;Resolvido;
+25870;31/08/2026;31/08/2026;Matriz;EML;T07;29;Resolvido;5
+25871;31/08/2026;31/08/2026;Centro de Distribuição;EML;T07;37;Resolvido;5
+25872;31/08/2026;31/08/2026;Matriz;EML;T07;40;Resolvido;
+25873;31/08/2026;31/08/2026;Matriz;EML;T07;41;Resolvido;5
+25874;31/08/2026;31/08/2026;Centro de Distribuição;EML;T02;28;Resolvido;
+25875;31/08/2026;01/09/2026;Centro de Distribuição;EML;T07;26;Resolvido;5
+25876;31/08/2026;03/09/2026;Centro de Distribuição;HW;T01;54;Resolvido;5
+25877;31/08/2026;02/09/2026;Matriz;HW;T02;127;Resolvido;
+25878;31/08/2026;03/09/2026;Matriz;HW;T02;57;Resolvido;4
+25879;31/08/2026;31/08/2026;Filial Santa Cruz;HW;T02;65;Resolvido;
+25880;31/08/2026;01/09/2026;Centro de Distribuição;HW;T02;115;Resolvido;
+25881;31/08/2026;02/09/2026;Centro de Distribuição;HW;T02;101;Resolvido;5
+25882;31/08/2026;31/08/2026;Filial Santa Cruz;SW;T03;39;Resolvido;4
+25883;31/08/2026;31/08/2026;Filial Lajeado;ERP;T05;36;Resolvido;5
+25884;31/08/2026;01/09/2026;Matriz;REDE;T06;97;Resolvido;5
+25885;31/08/2026;31/08/2026;Centro de Distribuição;REDE;T06;97;Resolvido;4
+25886;31/08/2026;31/08/2026;Matriz;REDE;T06;70;Resolvido;

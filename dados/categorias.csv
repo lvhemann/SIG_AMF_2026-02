@@ -1,0 +1,8 @@
+﻿categoria;nome_categoria;nivel_esperado;tempo_padrao_min;prazo_horas
+SEN;Senha e acesso;N1;10;4
+IMP;Impressoras;N1;45;8
+EML;E-mail;N1;30;8
+HW;Computador e periféricos;N1;80;24
+SW;Instalação de software;N1;35;24
+ERP;Sistema ERP;N2;60;8
+REDE;Rede e servidores;Infra;75;4
