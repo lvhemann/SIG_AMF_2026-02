@@ -1,9 +1,12 @@
 # Trabalho SIG — Rendimento do Service Desk da Pampa Alimentos
 
-**Disciplina:** G0397 — Sistemas de Informação Gerenciais · Turma de sábado
+**Disciplina:** G0397 — Sistemas de Informação Gerenciais 
+
 **Ferramenta:** Power BI Desktop (Power Query + relatório)
+
 **Formato:** em dupla
-**Prazo:** a ser informado em aula
+
+**Prazo:** 25/11
 
 > Empresa, pessoas e números são fictícios, criados para este trabalho.
 
