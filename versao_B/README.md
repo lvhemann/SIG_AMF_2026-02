@@ -4,6 +4,8 @@ Repositório com os dados e as regras de cálculo da prova. O enunciado, com a h
 
 **Ferramenta:** Power BI Desktop (Power Query, colunas, medida e relatório)
 
+O diretor financeiro está preparando os preços de 2027: “Acho que o plano Básico custa mais em suporte do que deveria: o cliente paga pouco e abre muitos chamados. Minha proposta é reajustar o Básico em 20% para todos os clientes. Antes de decidir, quero saber quanto custa o suporte de cada cliente e se o problema é mesmo o plano.”
+
 ## Arquivos
 
 Todos na pasta `dados/`. Os CSV usam **ponto e vírgula** como separador e codificação **UTF-8**.
