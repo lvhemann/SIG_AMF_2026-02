@@ -4,6 +4,10 @@ Repositório com os dados e as regras de cálculo da prova. O enunciado, com a h
 
 **Ferramenta:** Power BI Desktop (Power Query, colunas, medida e relatório)
 
+Dois clientes grandes, a Rede Super Gaúcho e o Supermercado São Rafael, avisaram que vão rever o contrato porque o suporte demora. O gerente de suporte discorda: “A média de tempo até a solução fica em torno de 12 horas, e o nosso prazo mais longo é de 48 horas. Estamos dentro do prazo.”
+A diretora pediu: “Quero saber se estamos cumprindo o prazo combinado, onde estão os atrasos e o que fazer para chegar à meta de 90% dos chamados no prazo.”
+
+
 ## Arquivos
 
 Todos na pasta `dados/`. Os CSV usam **ponto e vírgula** como separador e codificação **UTF-8**.
