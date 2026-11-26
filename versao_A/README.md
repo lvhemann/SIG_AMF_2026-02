@@ -79,3 +79,28 @@ A meta da empresa é **90% dos chamados no prazo**. O suporte atende de segunda 
 O arquivo `.pbix` com as consultas, as colunas, a medida e os visuais, mais a folha da prova com as respostas escritas.
 
 *Empresa, pessoas e números são fictícios, criados para esta prova.*
+
+
+## O que o painel precisa ter (mínimo)
+
+O `.pbix` entregue precisa ter as consultas, as colunas e a medida das regras acima e **duas páginas** com os visuais abaixo. Cada visual precisa de um título que diga o que ele mostra. Percentuais formatados como %, horas com uma casa decimal.
+
+### Página 1 — Prazo
+
+| Visual | Campos |
+| --- | --- |
+| Cartões | chamados resolvidos · `% no prazo` · atrasados · média de `horas_ate_solucao` |
+| Matriz por categoria | linhas: `nome_categoria` · valores: chamados, atrasados, `% no prazo` · ordenada do menor para o maior `% no prazo` |
+| Gráfico de colunas | eixo: `tipo_dia` · valor: `% no prazo` |
+| Matriz categoria × tipo de dia | linhas: `nome_categoria` · colunas: `tipo_dia` · valores: chamados, `% no prazo` |
+| Segmentação | `mes` |
+
+### Página 2 — Sábado e mês
+
+| Visual | Campos |
+| --- | --- |
+| Matriz por tipo de dia | linhas: `tipo_dia` · valores: chamados, atrasados, `% no prazo`, média de `horas_alem_do_prazo` **só dos atrasados** (filtro `no_prazo = 0` no visual) |
+| Matriz por mês | linhas: `mes` · colunas: `tipo_dia` · valores: chamados, `% no prazo` |
+| Tabela de clientes do sábado | da consulta agrupada: `nome_cliente`, quantidade de chamados de sábado, `mensalidade` · ordenada pela quantidade de chamados |
+
+Não é preciso: tema de cores, imagens ou layout elaborado. Conta o que está certo e legível.
