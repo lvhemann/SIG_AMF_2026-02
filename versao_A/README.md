@@ -50,7 +50,7 @@ Usem exatamente estas definições.
 | O que entra | só chamados com `status = Resolvido` | filtro na coluna `status` |
 | `no_prazo` | 1 se `horas_ate_solucao` ≤ `prazo_horas`; senão 0 | Coluna Condicional, comparando com a coluna `prazo_horas` |
 | `% no prazo` | soma de `no_prazo` ÷ quantidade de chamados | medida: `DIVIDE(SUM(chamados[no_prazo]), COUNTROWS(chamados))` |
-| atrasados | chamados − soma de `no_prazo` | — |
+| atrasados | chamados − soma de `no_prazo` |   medida: `COUNTROWS(chamados) - SUM(chamados[no_prazo])` |
 | `dia_semana` | nome do dia da abertura | Adicionar Coluna → Data → Dia → Nome do Dia |
 | `tipo_dia` | "Sábado" se `dia_semana` = sábado; senão "Dia útil" | Coluna Condicional |
 | `mes` | mês da abertura | Adicionar Coluna → Data → Mês → Mês |
