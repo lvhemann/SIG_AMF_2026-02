@@ -83,3 +83,28 @@ Usem exatamente estas definições.
 O arquivo `.pbix` com as consultas, as colunas, a medida e os visuais, mais a folha da prova com as respostas escritas.
 
 *Empresa, pessoas e números são fictícios, criados para esta prova.*
+
+
+## O que o painel precisa ter (mínimo)
+
+O `.pbix` entregue precisa ter as consultas, as colunas e a medida das regras acima e **duas páginas** com os visuais abaixo. Cada visual precisa de um título que diga o que ele mostra. Percentuais formatados como %, valores em reais com duas casas decimais.
+
+### Página 1 — Clientes
+
+| Visual | Campos |
+| --- | --- |
+| Cartões | chamados resolvidos · soma de `custo_atendimento` · custo médio por chamado · `% suporte` |
+| Tabela de analistas | `nome`, `nivel`, `custo_hora` |
+| Tabela de clientes | da consulta `suporte_cliente`: `nome_cliente`, `plano`, `chamados`, `custo_suporte`, `custo_por_chamado`, `pct_suporte`, `faixa` · ordenada do maior para o menor `pct_suporte` |
+| Matriz por faixa | linhas: `faixa` · valores: quantidade de clientes, soma de `receita_periodo`, soma de `custo_suporte` |
+| Matriz por plano | linhas: `plano` · valor: `% suporte` |
+| Segmentação | `faixa` (para retirar os clientes Crítico na Parte 2) |
+
+### Página 2 — Clientes críticos
+
+| Visual | Campos |
+| --- | --- |
+| Matriz cliente × mês | da consulta `chamados`: linhas `nome_cliente` · colunas `mes` · valor: soma de `custo_atendimento` |
+| Matriz cliente × categoria | linhas: `nome_cliente` · colunas: `nome_categoria` · valores: chamados e soma de `custo_atendimento` · filtrada só nos clientes da faixa Crítico (filtro do visual pelo nome) |
+
+Não é preciso: tema de cores, imagens ou layout elaborado. Conta o que está certo e legível.
