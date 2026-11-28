@@ -1,0 +1,29 @@
+﻿cliente,nome_cliente,segmento,cidade,plano,mensalidade
+C01,Rede Super Gaúcho,Mercado,Santa Maria,Completo,3600
+C02,Supermercado Bom Jesus,Mercado,Santa Maria,Completo,1890
+C03,Mercado Pôr do Sol,Mercado,Santa Maria,Básico,590
+C04,Mercado Santa Rita,Mercado,Cachoeira do Sul,Básico,590
+C05,Supermercado Itaara,Mercado,Itaara,Completo,1590
+C06,Mercado Dois Irmãos,Mercado,Santa Maria,Básico,690
+C07,Supermercado São Rafael,Mercado,Santa Cruz do Sul,Completo,2190
+C08,Mercado Nova Esperança,Mercado,São Sepé,Básico,590
+C09,Supermercado Ponte Seca,Mercado,Santa Maria,Completo,1790
+C10,Mercado Três Marias,Mercado,Restinga Sêca,Básico,590
+C11,Farmácia Central,Farmácia,Santa Maria,Completo,1290
+C12,Drogaria Bem Estar,Farmácia,Santa Maria,Básico,690
+C13,Farmácia São Lucas,Farmácia,Cachoeira do Sul,Básico,690
+C14,Drogaria Nova Vida,Farmácia,Santa Cruz do Sul,Completo,1490
+C15,Farmácia do Bairro Medianeira,Farmácia,Santa Maria,Básico,590
+C16,Drogaria Santo Antônio,Farmácia,São Sepé,Básico,690
+C17,Farmácia Vila Rica,Farmácia,Santa Maria,Completo,1290
+C18,Mercado Boa Vizinhança,Mercado,Santa Maria,Básico,590
+C19,Boutique Lírio,Loja de roupas,Santa Maria,Básico,590
+C20,Estilo Sul Modas,Loja de roupas,Santa Cruz do Sul,Completo,1290
+C21,Armarinho Avenida,Loja de roupas,Cachoeira do Sul,Básico,590
+C22,Ferragem Rio Pardo,Material de construção,Rio Pardo,Básico,690
+C23,Madeireira Ibicuí,Material de construção,Santa Maria,Completo,1790
+C24,Materiais Coxilha,Material de construção,São Sepé,Básico,690
+C25,Tintas Serrana,Material de construção,Santa Maria,Básico,590
+C26,Moda Jovem Calçadão,Loja de roupas,Santa Maria,Básico,590
+C27,Elétrica Faxinal,Material de construção,Faxinal do Soturno,Básico,590
+C28,Drogaria Itaara,Farmácia,Itaara,Básico,590

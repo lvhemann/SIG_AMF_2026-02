@@ -1,0 +1,8 @@
+﻿categoria,nome_categoria,nivel_atendimento,prazo_horas
+ACE,Acesso e senha,N1,4
+PDV,Caixa (PDV) parado,N1,2
+NFE,Nota fiscal,N2,4
+EST,Estoque e cadastro de produtos,N1,24
+INT,Integração (balança e maquininha),N2,8
+REL,Relatórios,N1,48
+DUV,Dúvida de uso,N1,24
